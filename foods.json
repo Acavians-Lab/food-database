@@ -16506,23 +16506,5 @@
     "carbs": 25,
     "fat": 12,
     "fiber": 0
-  },
-  {
-    "name": "iOS example food",
-    "brand": "",
-    "barcode": "",
-    "public": true,
-    "emoji": "🍲",
-    "category": null,
-    "servingG": 1,
-    "servingLabel": "1 g",
-    "servings": null,
-    "calories": 0,
-    "protein": 0,
-    "fat": 0,
-    "carbs": 0,
-    "fiber": 0,
-    "submittedBy": "ginaa.lee1146@gmail.com",
-    "id": "ios_example_food_mttacfvv"
   }
 ]
