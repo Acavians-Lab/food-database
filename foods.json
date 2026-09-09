@@ -16593,5 +16593,54 @@
     },
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "peanut_chocolate_candies_mtunqisx"
+  },
+  {
+    "name": "Peanut Chocolate",
+    "brand": "M&M's",
+    "barcode": "040000017325",
+    "public": true,
+    "emoji": "🥜",
+    "category": null,
+    "servingG": 28,
+    "servingLabel": "12 Pieces · 28 g",
+    "servings": [
+      {
+        "qty": 12,
+        "unitLabel": "Pieces",
+        "grams": 28
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Piece",
+        "grams": 2.33
+      }
+    ],
+    "calories": 140,
+    "protein": 3,
+    "fat": 8,
+    "carbs": 17,
+    "fiber": 1,
+    "satFat": 3,
+    "transFat": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega6": 0,
+    "sugars": 14,
+    "sugarsAdded": 13,
+    "minerals": {
+      "calcium": 30,
+      "iron": 0.6,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 110,
+      "sodium": 15,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "peanut_chocolate_mtunsrtm"
   }
 ]
