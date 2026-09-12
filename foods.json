@@ -1102,18 +1102,82 @@
     "fiber": 0
   },
   {
-    "id": "chicken_wing",
-    "name": "Chicken (Wing)",
-    "nameEs": "Pollo (Ala)",
-    "category": "Protein",
+    "name": "Chicken Wing - Raw",
+    "brand": "",
+    "barcode": "",
+    "public": true,
     "emoji": "🍗",
-    "servingLabel": "100 g",
+    "category": "Protein",
     "servingG": 100,
-    "calories": 142,
-    "protein": 22,
+    "servingLabel": "1 Serving · 100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Wing, Bone Removed",
+        "grams": 49
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Oz",
+        "grams": 28.3
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Lb",
+        "grams": 453.6
+      }
+    ],
+    "calories": 191,
+    "protein": 17.5,
+    "fat": 12.8,
     "carbs": 0,
-    "fat": 6,
-    "fiber": 0
+    "fiber": 0,
+    "satFat": 3.5,
+    "transFat": 0,
+    "mono": 5.4,
+    "poly": 2.5,
+    "omega3": 0.1,
+    "omega6": 2.2,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "a": 0,
+      "c": 0,
+      "d": 0,
+      "e": 0,
+      "k": 0,
+      "b1": 0,
+      "b2": 0,
+      "b3": 0,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0.2,
+      "folate": 0
+    },
+    "minerals": {
+      "calcium": 11,
+      "iron": 0.5,
+      "magnesium": 16,
+      "phosphorus": 123,
+      "potassium": 0,
+      "sodium": 84,
+      "zinc": 1.2,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 17.6
+    },
+    "other": {
+      "cholesterol": 0,
+      "choline": 82,
+      "caffeine": 0
+    },
+    "id": "chicken_wing",
+    "submittedBy": null
   },
   {
     "id": "chicken_whole",
