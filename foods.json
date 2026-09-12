@@ -16875,7 +16875,7 @@
     "brand": "Crystal Creamery",
     "barcode": "070910000377",
     "public": true,
-    "emoji": "🍽️",
+    "emoji": "🥛",
     "category": null,
     "servingG": 240,
     "servingLabel": "1 Cup · 240 g",
@@ -16926,6 +16926,7 @@
       "manganese": 0,
       "selenium": 0
     },
+    "publicId": 27,
     "id": 27,
     "submittedBy": "alejandroupmh@gmail.com"
   }
