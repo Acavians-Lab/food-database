@@ -16796,5 +16796,60 @@
     },
     "id": 24,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Frozen Mango Chunks",
+    "brand": "Pure Value",
+    "barcode": "6734404746434",
+    "public": true,
+    "emoji": "🥭",
+    "category": "Carbs",
+    "servingG": 140,
+    "servingLabel": "1 Serving · 140 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 140
+      },
+      {
+        "qty": 1,
+        "unitLabel": "13 pieces",
+        "grams": 140
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Piece",
+        "grams": 10.77
+      }
+    ],
+    "calories": 80,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 21,
+    "fiber": 2,
+    "netCarbs": 19,
+    "satFat": 0,
+    "transFat": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega6": 0,
+    "sugars": 20,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 20,
+      "iron": 0,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 230,
+      "sodium": 0,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "id": 25,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
