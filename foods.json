@@ -16642,5 +16642,50 @@
     },
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "peanut_chocolate_mtunsrtm"
+  },
+  {
+    "name": "Three Berry Blend",
+    "brand": "Summers Peak",
+    "barcode": "884038851137",
+    "public": true,
+    "emoji": "🫐",
+    "category": null,
+    "servingG": 140,
+    "servingLabel": "1 Cup · 140 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Cup",
+        "grams": 140
+      }
+    ],
+    "calories": 60,
+    "protein": 1,
+    "fat": 0,
+    "carbs": 16,
+    "fiber": 4,
+    "netCarbs": 12,
+    "satFat": 0,
+    "transFat": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega6": 0,
+    "sugars": 10,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 24,
+      "iron": 1,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 174,
+      "sodium": 0,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "id": 23,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
