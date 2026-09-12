@@ -16851,5 +16851,23 @@
     },
     "id": 25,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "brand": "",
+    "barcode": "",
+    "public": true,
+    "emoji": "🫙",
+    "category": null,
+    "servingG": 1,
+    "servingLabel": "1 g",
+    "servings": null,
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "id": 26,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
