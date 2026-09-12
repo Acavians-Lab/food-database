@@ -16687,5 +16687,50 @@
     },
     "id": 23,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Mixed Vegetables",
+    "brand": "Sweet Frost",
+    "barcode": "073073818759",
+    "public": true,
+    "emoji": "🥗",
+    "category": null,
+    "servingG": 85,
+    "servingLabel": "1 2/3 cup · 85 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "2/3 cup",
+        "grams": 85
+      }
+    ],
+    "calories": 60,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 12,
+    "fiber": 3,
+    "netCarbs": 11,
+    "satFat": 0,
+    "transFat": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega6": 0,
+    "sugars": 4,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 22,
+      "iron": 0,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 167,
+      "sodium": 10,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "id": 24,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
