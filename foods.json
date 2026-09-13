@@ -10389,21 +10389,28 @@
     }
   },
   {
-    "id": "michelob_ultra",
-    "name": "Michelob Ultra",
-    "nameEs": "Michelob Ultra",
-    "category": "Alcohol",
+    "name": "Superior Light Beer",
+    "brand": "Michelob Ultra",
+    "barcode": "018200250101",
+    "public": true,
     "emoji": "🍺",
-    "servingLabel": "1 Can · 355 g",
+    "category": null,
     "servingG": 355,
+    "servingLabel": "1 Can · 355 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Can",
+        "grams": 355
+      }
+    ],
     "calories": 95,
     "protein": 0.6,
-    "carbs": 2.6,
     "fat": 0,
+    "carbs": 2.6,
     "fiber": 0,
-    "other": {
-      "alcohol": 11.7
-    }
+    "id": "michelob_ultra",
+    "submittedBy": null
   },
   {
     "id": "rotisserie_chicken_costco",
