@@ -10737,30 +10737,53 @@
     }
   },
   {
-    "id": "on_gold_standard_whey_protein_chocolate",
-    "name": "Gold Standard 100% Whey Protein (Extreme Milk Chocolate) By Optimum Nutrition",
-    "nameEs": "Proteína de Suero Gold Standard 100% (Chocolate) Por Optimum Nutrition",
+    "name": "Whey Protein",
+    "brand": "Optimum Nutrition",
+    "barcode": "",
+    "public": false,
+    "emoji": "🫙",
     "category": "Protein",
-    "emoji": "💪",
-    "servingLabel": "1 Scoop · 32 g",
     "servingG": 32,
+    "servingLabel": "1 Scoop · 32 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Scoop",
+        "grams": 32
+      }
+    ],
     "calories": 120,
     "protein": 24,
-    "carbs": 3,
     "fat": 2,
+    "carbs": 3,
     "fiber": 0.5,
     "satFat": 1,
     "transFat": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega6": 0,
     "sugars": 2,
+    "sugarsAdded": 0,
     "minerals": {
-      "sodium": 130,
       "calcium": 130,
       "iron": 0.9,
-      "potassium": 200
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 200,
+      "sodium": 130,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
     },
     "other": {
-      "cholesterol": 55
-    }
+      "cholesterol": 55,
+      "choline": 0,
+      "caffeine": 0
+    },
+    "id": "on_gold_standard_whey_protein_chocolate",
+    "submittedBy": null
   },
   {
     "id": "wingstop_original_hot_chicken_sandwich",
