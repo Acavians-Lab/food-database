@@ -17046,7 +17046,7 @@
     "brand": "Legendary Foods",
     "barcode": "810035970601",
     "public": true,
-    "emoji": "🍽️",
+    "emoji": "🧇",
     "category": "Protein",
     "servingG": 61,
     "servingLabel": "1 Pastry · 61 g",
@@ -17083,7 +17083,7 @@
       "manganese": 0,
       "selenium": 0
     },
-    "id": 40,
+    "id": "40",
     "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
