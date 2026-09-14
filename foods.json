@@ -17040,5 +17040,50 @@
     },
     "id": 39,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Brown Sugar Cinnamon ( Protein Pastey",
+    "brand": "Legendary Foods",
+    "barcode": "810035970601",
+    "public": true,
+    "emoji": "🍽️",
+    "category": "Protein",
+    "servingG": 61,
+    "servingLabel": "1 Pastry · 61 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Pastry",
+        "grams": 61
+      }
+    ],
+    "calories": 180,
+    "protein": 20,
+    "fat": 9,
+    "carbs": 22,
+    "fiber": 9,
+    "netCarbs": 13,
+    "satFat": 1,
+    "transFat": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega6": 0,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sodium": 360,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "id": 40,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
