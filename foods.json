@@ -17003,5 +17003,42 @@
     },
     "submittedBy": "teamacavian@gmail.com",
     "id": "bbq_sauce_bourbon_apple_mu08j1cj"
+  },
+  {
+    "name": "Lemon Lime",
+    "brand": "Squincher Zero",
+    "barcode": "075880512073",
+    "public": true,
+    "emoji": "🍈",
+    "category": "Condiments, Seasonings & Spices",
+    "servingG": 1,
+    "servingLabel": "1 Stick · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Stick",
+        "grams": 1
+      }
+    ],
+    "calories": 5,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 1,
+    "fiber": 0,
+    "netCarbs": 1,
+    "minerals": {
+      "calcium": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 104,
+      "sodium": 130,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "id": 39,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
