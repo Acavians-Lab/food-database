@@ -7304,18 +7304,42 @@
     "fiber": 0
   },
   {
-    "id": "potatoes_white",
-    "name": "Potatoes (White)",
-    "nameEs": "Papas (Blancas)",
-    "category": "Carbs",
+    "name": "Potatoes Raw",
+    "brand": "",
+    "barcode": "",
+    "public": true,
     "emoji": "🥔",
-    "servingLabel": "100 g",
+    "category": "Carbs",
     "servingG": 100,
-    "calories": 72,
-    "protein": 2,
-    "carbs": 16,
-    "fat": 0,
-    "fiber": 0
+    "servingLabel": "1 Serving · 100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Potatoe",
+        "grams": 213
+      }
+    ],
+    "calories": 133,
+    "protein": 3.5,
+    "fat": 0.2,
+    "carbs": 30.3,
+    "fiber": 3.6,
+    "netCarbs": 26.7,
+    "satFat": 0,
+    "transFat": 0,
+    "mono": 0,
+    "poly": 0.1,
+    "omega3": 0,
+    "omega6": 0,
+    "sugars": 1.4,
+    "sugarsAdded": 0,
+    "id": "potatoes_white",
+    "submittedBy": null
   },
   {
     "id": "powdered_sugar",
