@@ -1194,18 +1194,64 @@
     "fiber": 0
   },
   {
-    "id": "chicken_drumstick",
     "name": "Chicken (Drumstick)",
-    "nameEs": "Pollo (Muslo/Pierna)",
-    "category": "Protein",
+    "brand": "",
+    "barcode": "",
+    "public": true,
     "emoji": "🍗",
-    "servingLabel": "100 g",
+    "category": "Protein",
     "servingG": 100,
-    "calories": 153,
-    "protein": 18,
-    "carbs": 0,
-    "fat": 9,
-    "fiber": 0
+    "servingLabel": "1 Serving · 100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Large",
+        "grams": 80
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Medium",
+        "grams": 60
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Small",
+        "grams": 45
+      }
+    ],
+    "calories": 206,
+    "protein": 27.3,
+    "fat": 10,
+    "carbs": 0.1,
+    "fiber": 0,
+    "netCarbs": 0.1,
+    "satFat": 0,
+    "transFat": 0,
+    "mono": 3.6,
+    "poly": 2.9,
+    "omega3": 0.9,
+    "omega6": 2.6,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sodium": 105,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "id": "chicken_drumstick",
+    "submittedBy": null
   },
   {
     "id": "chicken_thigh",
