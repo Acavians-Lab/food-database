@@ -17264,5 +17264,50 @@
     },
     "id": 42,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Juice Pipeline Punch",
+    "brand": "Monster",
+    "barcode": "070847022909",
+    "public": true,
+    "emoji": "🍶",
+    "category": "Carbs",
+    "servingG": 473,
+    "servingLabel": "1 Can · 473 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Can",
+        "grams": 473
+      }
+    ],
+    "calories": 190,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 48,
+    "fiber": 0,
+    "netCarbs": 48,
+    "satFat": 0,
+    "transFat": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega6": 0,
+    "sugars": 46,
+    "sugarsAdded": 38,
+    "minerals": {
+      "calcium": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 130,
+      "sodium": 80,
+      "zinc": 0,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "id": 43,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
