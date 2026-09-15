@@ -6912,18 +6912,22 @@
     "fiber": 0
   },
   {
-    "id": "oatmeal_old_fashioned",
-    "name": "Oatmeal (Old Fashioned)",
-    "nameEs": "Avena (Tradicional)",
-    "category": "Carbs",
+    "name": "Oats (Old Fashioned)",
+    "brand": "",
+    "barcode": "",
+    "public": true,
     "emoji": "🥣",
-    "servingLabel": "1 cup · 80 g",
+    "category": "Carbs",
     "servingG": 80,
+    "servingLabel": "80 g",
+    "servings": null,
     "calories": 278,
     "protein": 10,
-    "carbs": 46,
     "fat": 6,
-    "fiber": 0
+    "carbs": 46,
+    "fiber": 0,
+    "id": "oatmeal_old_fashioned",
+    "submittedBy": null
   },
   {
     "id": "oatmeal_steel_cut",
