@@ -17303,7 +17303,7 @@
     "brand": "Taco Bell",
     "barcode": "",
     "public": true,
-    "emoji": "🍽️",
+    "emoji": "🌮",
     "category": "Protein",
     "servingG": 78,
     "servingLabel": "1 Taco · 78 g",
@@ -17365,7 +17365,7 @@
       "choline": 22.2,
       "water": 29.5
     },
-    "id": 45,
+    "id": "45",
     "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
