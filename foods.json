@@ -10479,10 +10479,18 @@
       }
     ],
     "calories": 95,
-    "protein": 0.6,
+    "protein": 0,
     "fat": 0,
     "carbs": 2.6,
     "fiber": 0,
+    "netCarbs": 2.6,
+    "other": {
+      "alcohol": 11.7,
+      "caffeine": 0,
+      "cholesterol": 0,
+      "choline": 0,
+      "water": 0
+    },
     "id": "michelob_ultra",
     "submittedBy": null
   },
