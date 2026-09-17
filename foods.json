@@ -15258,28 +15258,6 @@
     }
   },
   {
-    "id": "panda_white_steamed_rice",
-    "name": "White Steamed Rice By Panda Express",
-    "nameEs": "Arroz Blanco al Vapor Por Panda Express",
-    "category": "Carbs",
-    "emoji": "🍚",
-    "servingLabel": "11 oz · 312g",
-    "servingG": 312,
-    "calories": 520,
-    "protein": 10,
-    "carbs": 118,
-    "fat": 0,
-    "fiber": 0,
-    "satFat": 0,
-    "sugars": 0,
-    "minerals": {
-      "sodium": 0
-    },
-    "other": {
-      "cholesterol": 0
-    }
-  },
-  {
     "id": "panda_eggplant_tofu",
     "name": "Eggplant Tofu By Panda Express",
     "nameEs": "Berenjena con Tofu Por Panda Express",
