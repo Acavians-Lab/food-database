@@ -17345,5 +17345,41 @@
     },
     "id": "45",
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Zero Sugar",
+    "brand": "PEPSI",
+    "barcode": "012000018770",
+    "public": true,
+    "emoji": "🥤",
+    "category": "Condiments, Seasonings & Spices",
+    "servingG": 355,
+    "servingLabel": "1 Can · 355 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Can",
+        "grams": 355
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "selenium": 0,
+      "sodium": 38,
+      "zinc": 0
+    },
+    "id": 1,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
