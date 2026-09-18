@@ -17430,5 +17430,68 @@
     },
     "id": 2,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Pomegranate Juice",
+    "brand": "Bolthouse Farms",
+    "barcode": "071464324520",
+    "public": true,
+    "emoji": "🧃",
+    "category": null,
+    "servingG": 240,
+    "servingLabel": "8 FL. Oz · 240 g",
+    "servings": [
+      {
+        "qty": 8,
+        "unitLabel": "FL. Oz",
+        "grams": 240
+      }
+    ],
+    "calories": 160,
+    "protein": 0,
+    "fat": 0.1,
+    "carbs": 38,
+    "fiber": 0,
+    "netCarbs": 38,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 34,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0,
+      "b3": 0,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0,
+      "folate": 0,
+      "a": 0,
+      "c": 1,
+      "d": 0,
+      "e": 0,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 32,
+      "copper": 0,
+      "iron": 1,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 538,
+      "selenium": 0,
+      "sodium": 30,
+      "zinc": 0
+    },
+    "id": 3,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
