@@ -17381,5 +17381,54 @@
     },
     "id": 1,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Garlic Parmesan",
+    "brand": "Kurtz",
+    "barcode": "051933371767",
+    "public": true,
+    "emoji": "🍽️",
+    "category": "Condiments, Seasonings & Spices",
+    "servingG": 30,
+    "servingLabel": "1 2 Tbsp · 30 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "2 Tbsp",
+        "grams": 30
+      }
+    ],
+    "calories": 40,
+    "protein": 1,
+    "fat": 3,
+    "carbs": 3,
+    "fiber": 0,
+    "netCarbs": 3,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0.5,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 1,
+    "minerals": {
+      "calcium": 14,
+      "copper": 0,
+      "iron": 0.1,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "selenium": 0,
+      "sodium": 510,
+      "zinc": 0
+    },
+    "id": 2,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
