@@ -17493,5 +17493,54 @@
     },
     "id": 3,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Classic Premium Cooked Ham",
+    "brand": "Farmer John",
+    "barcode": "050500312318",
+    "public": true,
+    "emoji": "🍖",
+    "category": "Protein",
+    "servingG": 56,
+    "servingLabel": "2 Oz · 56 g",
+    "servings": [
+      {
+        "qty": 2,
+        "unitLabel": "Oz",
+        "grams": 56
+      }
+    ],
+    "calories": 60,
+    "protein": 8,
+    "fat": 2,
+    "carbs": 4,
+    "fiber": 0,
+    "netCarbs": 4,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 2,
+    "sugarsAdded": 2,
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "selenium": 0,
+      "sodium": 680,
+      "zinc": 0
+    },
+    "id": 4,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
