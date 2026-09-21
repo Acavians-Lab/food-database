@@ -17681,5 +17681,29 @@
     },
     "id": 6,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Chromium Picolonate - 200 mcg",
+    "brand": "",
+    "barcode": "",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Condiments, Seasonings & Spices",
+    "servingG": 1,
+    "servingLabel": "1 Capsule · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Capsule",
+        "grams": 1
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "id": 8,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
