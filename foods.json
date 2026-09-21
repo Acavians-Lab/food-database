@@ -17618,5 +17618,68 @@
     },
     "id": "5",
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Chocolate  High Protein Shake",
+    "brand": "Muscle Milk",
+    "barcode": "052000068283",
+    "public": true,
+    "emoji": "🥛",
+    "category": "Protein",
+    "servingG": 414,
+    "servingLabel": "1 Bottle · 414 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Bottle",
+        "grams": 414
+      }
+    ],
+    "calories": 170,
+    "protein": 26,
+    "fat": 1.5,
+    "carbs": 13,
+    "fiber": 2,
+    "netCarbs": 11,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 1,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 3,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0,
+      "b3": 0,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0,
+      "folate": 0,
+      "a": 230,
+      "c": 0,
+      "d": 8,
+      "e": 0,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 780,
+      "copper": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 420,
+      "selenium": 0,
+      "sodium": 290,
+      "zinc": 0
+    },
+    "id": 6,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
