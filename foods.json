@@ -17554,7 +17554,7 @@
     "brand": "Trader Joe's",
     "barcode": "00204682",
     "public": true,
-    "emoji": "🍽️",
+    "emoji": "🍪",
     "category": "Carbs",
     "servingG": 25,
     "servingLabel": "2 Squares · 25 g",
@@ -17616,7 +17616,7 @@
       "choline": 0,
       "water": 0
     },
-    "id": 5,
+    "id": "5",
     "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
