@@ -17803,5 +17803,59 @@
     },
     "id": 11,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Dry Roasted Unsalted Peanuts",
+    "brand": "PLANTERS",
+    "barcode": "029000073241",
+    "public": true,
+    "emoji": "🥜",
+    "category": "Fat",
+    "servingG": 28,
+    "servingLabel": "35 Pieces · 28 g",
+    "servings": [
+      {
+        "qty": 35,
+        "unitLabel": "Pieces",
+        "grams": 28
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Oz",
+        "grams": 28
+      }
+    ],
+    "calories": 170,
+    "protein": 8,
+    "fat": 14,
+    "carbs": 5,
+    "fiber": 2,
+    "netCarbs": 3,
+    "mono": 7,
+    "poly": 4.5,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 2,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 30,
+      "copper": 0,
+      "iron": 1.3,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 210,
+      "selenium": 0,
+      "sodium": 5,
+      "zinc": 0
+    },
+    "id": 12,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
