@@ -17766,5 +17766,42 @@
     },
     "id": 10,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Rice Noodles",
+    "brand": "Seng Cheang Mong Food Corp",
+    "barcode": "607558168932",
+    "public": true,
+    "emoji": "🫕",
+    "category": "Carbs",
+    "servingG": 213,
+    "servingLabel": "7 Oz. · 213 g",
+    "servings": [
+      {
+        "qty": 7,
+        "unitLabel": "Oz.",
+        "grams": 213
+      }
+    ],
+    "calories": 260,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 62,
+    "fiber": 0,
+    "netCarbs": 62,
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 2,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "selenium": 0,
+      "sodium": 55,
+      "zinc": 0
+    },
+    "id": 11,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
