@@ -17729,5 +17729,42 @@
     "fiber": 0,
     "id": 9,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Rice Cakes ( Lightly Salted )",
+    "brand": "Quaker",
+    "barcode": "030000169018",
+    "public": true,
+    "emoji": "🍙",
+    "category": "Carbs",
+    "servingG": 9,
+    "servingLabel": "1 Cake · 9 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Cake",
+        "grams": 9
+      }
+    ],
+    "calories": 35,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 7,
+    "fiber": 0,
+    "netCarbs": 7,
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0.1,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 30,
+      "selenium": 0,
+      "sodium": 15,
+      "zinc": 0
+    },
+    "id": 10,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
