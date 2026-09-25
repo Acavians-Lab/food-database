@@ -17983,5 +17983,54 @@
     },
     "submittedBy": "teamacavian@gmail.com",
     "id": "daikon_raw_muehkh93"
+  },
+  {
+    "name": "Grande Flour Tortilla",
+    "brand": "Guerrero",
+    "barcode": "048564073009",
+    "public": true,
+    "emoji": "🫓",
+    "category": "Carbs",
+    "servingG": 96,
+    "servingLabel": "1 Tortilla · 96 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Tortilla",
+        "grams": 96
+      }
+    ],
+    "calories": 310,
+    "protein": 7,
+    "fat": 10,
+    "carbs": 47,
+    "fiber": 2,
+    "netCarbs": 45,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 3.6,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 2,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 85,
+      "copper": 0,
+      "iron": 2.8,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 108,
+      "selenium": 0,
+      "sodium": 580,
+      "zinc": 0
+    },
+    "id": 16,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
