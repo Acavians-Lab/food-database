@@ -18032,5 +18032,54 @@
     },
     "id": 16,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Guacamole Now Mild",
+    "brand": "Cabo Fresh",
+    "barcode": "811892028580",
+    "public": true,
+    "emoji": "🥑",
+    "category": "Fat",
+    "servingG": 57,
+    "servingLabel": "1 Unit · 57 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Unit",
+        "grams": 57
+      }
+    ],
+    "calories": 90,
+    "protein": 1,
+    "fat": 7,
+    "carbs": 5,
+    "fiber": 0,
+    "netCarbs": 5,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 1,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 10,
+      "copper": 0,
+      "iron": 0.4,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 270,
+      "selenium": 0,
+      "sodium": 220,
+      "zinc": 0
+    },
+    "id": 17,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
