@@ -18081,5 +18081,43 @@
     },
     "id": 17,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Liposomal Glutathione ( 1750 mg )",
+    "brand": "Alpha Flow",
+    "barcode": "",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Condiments, Seasonings & Spices",
+    "servingG": 2,
+    "servingLabel": "2 Capsules · 2 g",
+    "servings": [
+      {
+        "qty": 2,
+        "unitLabel": "Capsules",
+        "grams": 2
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0,
+      "b3": 0,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0,
+      "folate": 0,
+      "a": 0,
+      "c": 150,
+      "d": 0,
+      "e": 0,
+      "k": 0
+    },
+    "id": 18,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
