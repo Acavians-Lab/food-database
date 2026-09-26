@@ -18156,5 +18156,61 @@
     },
     "id": 19,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Crema Mexicana ( Sour Cream )",
+    "brand": "El Mexicano",
+    "barcode": "042743123080",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Fat",
+    "servingG": 30,
+    "servingLabel": "2 Tbsp · 30 g",
+    "servings": [
+      {
+        "qty": 2,
+        "unitLabel": "Tbsp",
+        "grams": 30
+      }
+    ],
+    "calories": 60,
+    "protein": 1,
+    "fat": 6,
+    "carbs": 2,
+    "fiber": 0,
+    "netCarbs": 2,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 4,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 20,
+      "copper": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 37,
+      "selenium": 0,
+      "sodium": 65,
+      "zinc": 0
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 15,
+      "choline": 0,
+      "water": 0
+    },
+    "id": 20,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
