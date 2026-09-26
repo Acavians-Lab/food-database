@@ -18119,5 +18119,42 @@
     },
     "id": 18,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Super Carb ( Cyclic Dextrin )",
+    "brand": "Nutra Bio",
+    "barcode": "649908260910",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Condiments, Seasonings & Spices",
+    "servingG": 28,
+    "servingLabel": "1 Scoop · 28 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Scoop",
+        "grams": 28
+      }
+    ],
+    "calories": 100,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 25,
+    "fiber": 0,
+    "netCarbs": 25,
+    "minerals": {
+      "calcium": 95,
+      "copper": 0,
+      "iron": 0,
+      "magnesium": 28,
+      "manganese": 0,
+      "phosphorus": 81,
+      "potassium": 80,
+      "selenium": 0,
+      "sodium": 50,
+      "zinc": 0
+    },
+    "id": 19,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
