@@ -18212,5 +18212,29 @@
     },
     "id": 20,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "EAA ( Essential Amino Acid )",
+    "brand": "Bulk Supplements",
+    "barcode": "X00297NNY3",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Condiments, Seasonings & Spices",
+    "servingG": 10,
+    "servingLabel": "4 Tsp · 10 g",
+    "servings": [
+      {
+        "qty": 4,
+        "unitLabel": "Tsp",
+        "grams": 10
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "id": 21,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
