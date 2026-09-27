@@ -807,18 +807,28 @@
     "fiber": 0
   },
   {
-    "id": "mozzarella_string_cheese_galbani",
-    "name": "Organic Mozzarella String Cheese By Galbani",
-    "nameEs": "Queso Mozzarella Orgánico en Tira Por Galbani",
-    "category": "Protein",
+    "name": "Organic String Mozzarella",
+    "brand": "Galbani",
+    "barcode": "",
+    "public": true,
     "emoji": "🧀",
-    "servingLabel": "1 Serving · 28 g",
+    "category": "Protein",
     "servingG": 28,
+    "servingLabel": "1 String · 28 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "String",
+        "grams": 28
+      }
+    ],
     "calories": 90,
     "protein": 7,
-    "carbs": 0,
     "fat": 7,
-    "fiber": 0
+    "carbs": 0,
+    "fiber": 0,
+    "id": "mozzarella_string_cheese_galbani",
+    "submittedBy": null
   },
   {
     "id": "cheese_muenster",
