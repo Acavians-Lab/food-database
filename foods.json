@@ -94,9 +94,9 @@
   },
   {
     "id": "wasabi_sauce_kikkoman",
-    "name": "Wasabi Sauce For Sandwiches & Dipping By Kikkoman",
-    "nameEs": "Salsa Wasabi Para Sándwiches y Para Mojar Por Kikkoman",
-    "category": "Condiments",
+    "name": "Wasabi Sauce For Sandwiches & Dipping",
+    "nameEs": "Salsa Wasabi Para Sándwiches y Para Mojar",
+    "category": "Condiments, Seasonings & Spices",
     "emoji": "🥬",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -107,13 +107,15 @@
     "fiber": 0,
     "minerals": {
       "sodium": 700
-    }
+    },
+    "legacyName": "Wasabi Sauce For Sandwiches & Dipping By Kikkoman",
+    "brand": "Kikkoman"
   },
   {
     "id": "liquid_aminos_bragg",
-    "name": "Liquid Aminos By Bragg",
-    "nameEs": "Aminos Líquidos Por Bragg",
-    "category": "Condiments",
+    "name": "Liquid Aminos",
+    "nameEs": "Aminos Líquidos",
+    "category": "Condiments, Seasonings & Spices",
     "emoji": "🍶",
     "servingLabel": "1 tsp · 5 g",
     "servingG": 5,
@@ -124,12 +126,14 @@
     "fiber": 0,
     "minerals": {
       "sodium": 310
-    }
+    },
+    "legacyName": "Liquid Aminos By Bragg",
+    "brand": "Bragg"
   },
   {
     "id": "seasoned_seaweed_snack_kim_nori",
-    "name": "Seasoned Seaweed Snack By Kim Nori",
-    "nameEs": "Snack de Alga Sazonada Por Kim Nori",
+    "name": "Seasoned Seaweed Snack",
+    "nameEs": "Snack de Alga Sazonada",
     "category": "Veggies",
     "emoji": "🍙",
     "servingLabel": "1 Serving · 100 g",
@@ -142,7 +146,9 @@
     "minerals": {
       "iron": 8.3,
       "sodium": 1125
-    }
+    },
+    "legacyName": "Seasoned Seaweed Snack By Kim Nori",
+    "brand": "Kim Nori"
   },
   {
     "id": "bacon",
@@ -558,7 +564,7 @@
     "id": "casein_protein_powder",
     "name": "Casein Protein Powder",
     "nameEs": "Proteína en Polvo de Caseína",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "1 Scoop · 36 g",
     "servingG": 36,
@@ -1563,7 +1569,7 @@
     "id": "egg_white_protein_powder",
     "name": "Egg White Protein Powder",
     "nameEs": "Proteína en Polvo de Clara de Huevo",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -1743,8 +1749,8 @@
   },
   {
     "id": "chobani_nonfat_plain_greek_yogurt",
-    "name": "Greek Yogurt Nonfat Plain By Chobani",
-    "nameEs": "Yogur Griego Sin Grasa Natural Por Chobani",
+    "name": "Greek Yogurt Nonfat Plain",
+    "nameEs": "Yogur Griego Sin Grasa Natural",
     "category": "Protein",
     "emoji": "🍶",
     "servingLabel": "3/4 Cup · 170 g",
@@ -1770,7 +1776,9 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Greek Yogurt Nonfat Plain By Chobani",
+    "brand": "Chobani"
   },
   {
     "id": "grouper",
@@ -1844,8 +1852,8 @@
   },
   {
     "id": "deli_chicken_breast_buddig",
-    "name": "Premium Deli Rotisserie Flavour Chicken Breast By Buddig",
-    "nameEs": "Pechuga de Pollo Sabor Rostizado Premium Deli Por Buddig",
+    "name": "Premium Deli Rotisserie Flavour Chicken Breast",
+    "nameEs": "Pechuga de Pollo Sabor Rostizado Premium Deli",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Slice · 9 g",
@@ -1854,13 +1862,15 @@
     "protein": 1.3,
     "carbs": 0.2,
     "fat": 0.7,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Premium Deli Rotisserie Flavour Chicken Breast By Buddig",
+    "brand": "Buddig"
   },
   {
     "id": "hemp_protein_powder",
     "name": "Hemp Protein Powder",
     "nameEs": "Proteína en Polvo de Cáñamo",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -2138,8 +2148,8 @@
   },
   {
     "id": "milk_2_lactose_free_crystal_creamery",
-    "name": "2% Milk - Lactose Free by Crystal Creamery",
-    "nameEs": "Leche 2% - Sin Lactosa por Crystal Creamery",
+    "name": "2% Milk (Lactose Free)",
+    "nameEs": "Leche 2% (Sin Lactosa)",
     "category": "Protein",
     "emoji": "🥛",
     "servingLabel": "100 g",
@@ -2148,7 +2158,9 @@
     "protein": 4.2,
     "carbs": 5.8,
     "fat": 2.1,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "2% Milk - Lactose Free by Crystal Creamery",
+    "brand": "Crystal Creamery"
   },
   {
     "id": "monkfish",
@@ -2334,8 +2346,8 @@
   },
   {
     "id": "hmong_sausage_dragonfly",
-    "name": "Original Hmong Sausage By Dragonfly",
-    "nameEs": "Salchicha Hmong Original Por Dragonfly",
+    "name": "Original Hmong Sausage",
+    "nameEs": "Salchicha Hmong Original",
     "category": "Protein",
     "emoji": "🌭",
     "servingLabel": "1 Serving · 56 g",
@@ -2344,13 +2356,15 @@
     "protein": 10,
     "carbs": 2,
     "fat": 8,
-    "fiber": 1
+    "fiber": 1,
+    "legacyName": "Original Hmong Sausage By Dragonfly",
+    "brand": "Dragonfly"
   },
   {
     "id": "pea_protein_powder_isolate",
     "name": "Pea Protein Powder (Isolate)",
     "nameEs": "Proteína en Polvo de Chícharo (Aislado)",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "1 Scoop · 25 g",
     "servingG": 25,
@@ -2406,7 +2420,7 @@
     "id": "plant_protein_powder",
     "name": "Plant Protein Powder",
     "nameEs": "Proteína en Polvo Vegetal",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -2420,7 +2434,7 @@
     "id": "plant_protein_powder_fermented",
     "name": "Plant Protein Powder (Fermented)",
     "nameEs": "Proteína en Polvo Vegetal (Fermentada)",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -2701,7 +2715,7 @@
     "id": "protein_shot_apple_melon",
     "name": "Protein Shot Apple Melon",
     "nameEs": "Shot de Proteína Manzana y Melón",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2715,7 +2729,7 @@
     "id": "protein_shot_blue_raspberry",
     "name": "Protein Shot Blue Raspberry",
     "nameEs": "Shot de Proteína Frambuesa Azul",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2729,7 +2743,7 @@
     "id": "protein_shot_blueberry_lemonade",
     "name": "Protein Shot Blueberry Lemonade",
     "nameEs": "Shot de Proteína Arándano y Limonada",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2743,7 +2757,7 @@
     "id": "protein_shot_lemon_lime",
     "name": "Protein Shot Lemon Lime",
     "nameEs": "Shot de Proteína Limón y Lima",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2757,7 +2771,7 @@
     "id": "protein_shot_orange_cream",
     "name": "Protein Shot Orange Cream",
     "nameEs": "Shot de Proteína Crema de Naranja",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2771,7 +2785,7 @@
     "id": "protein_shot_peach_rings",
     "name": "Protein Shot Peach Rings",
     "nameEs": "Shot de Proteína Aros de Durazno",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2785,7 +2799,7 @@
     "id": "protein_shot_pineapple",
     "name": "Protein Shot Pineapple",
     "nameEs": "Shot de Proteína Piña",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2799,7 +2813,7 @@
     "id": "protein_shot_strawberry_guava",
     "name": "Protein Shot Strawberry Guava",
     "nameEs": "Shot de Proteína Fresa y Guayaba",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -2813,7 +2827,7 @@
     "id": "protein_shot_watermelon_berry",
     "name": "Protein Shot Watermelon Berry",
     "nameEs": "Shot de Proteína Sandía y Bayas",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🧴",
     "servingLabel": "Genius Shot · 1 shot",
     "servingG": 1,
@@ -3149,7 +3163,7 @@
     "id": "soy_protein_powder_isolate",
     "name": "Soy Protein Powder (Isolate)",
     "nameEs": "Proteína en Polvo de Soya (Aislado)",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -3177,7 +3191,7 @@
     "id": "spirulina_dried",
     "name": "Spirulina (Dried)",
     "nameEs": "Espirulina (Seca)",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🌱",
     "servingLabel": "1 tbsp · 7 g",
     "servingG": 7,
@@ -3567,8 +3581,8 @@
   },
   {
     "id": "ground_turkey_butterball_97_3",
-    "name": "Ground Turkey - Butterball (97% / 3%)",
-    "nameEs": "Pavo Molido - Butterball (97% / 3%)",
+    "name": "Ground Turkey (97% / 3%)",
+    "nameEs": "Pavo Molido (97% / 3%)",
     "category": "Protein",
     "emoji": "🦃",
     "servingLabel": "4 oz · 112 g",
@@ -3590,7 +3604,9 @@
     },
     "other": {
       "cholesterol": 65
-    }
+    },
+    "legacyName": "Ground Turkey - Butterball (97% / 3%)",
+    "brand": "Butterball"
   },
   {
     "id": "turkey_bacon",
@@ -3666,7 +3682,7 @@
     "id": "whey_protein_powder_concentrate",
     "name": "Whey Protein Powder (Concentrate)",
     "nameEs": "Proteína en Polvo de Suero (Concentrado)",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "1 Scoop · 25 g",
     "servingG": 25,
@@ -3680,7 +3696,7 @@
     "id": "whey_protein_powder_isolate",
     "name": "Whey Protein Powder (Isolate)",
     "nameEs": "Proteína en Polvo de Suero (Aislado)",
-    "category": "Protein",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "1 Scoop · 25 g",
     "servingG": 25,
@@ -5229,7 +5245,7 @@
     "id": "advanced_carbs_vitargo_etc",
     "name": "Advanced Carbs (Vitargo, etc.)",
     "nameEs": "Carbohidratos Avanzados (Vitargo, etc.)",
-    "category": "Carbs",
+    "category": "Supplements",
     "emoji": "🥤",
     "servingLabel": "1 Scoop · 38 g",
     "servingG": 38,
@@ -5661,8 +5677,8 @@
   },
   {
     "id": "bread_white_bimbo",
-    "name": "White Bread by Bimbo",
-    "nameEs": "Pan Blanco por Bimbo",
+    "name": "White Bread",
+    "nameEs": "Pan Blanco",
     "category": "Carbs",
     "emoji": "🍞",
     "servingLabel": "1 Slice · 28 g",
@@ -5671,7 +5687,9 @@
     "protein": 2,
     "carbs": 14,
     "fat": 0.5,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "White Bread by Bimbo",
+    "brand": "Bimbo"
   },
   {
     "id": "breadcrumbs",
@@ -5913,8 +5931,8 @@
   },
   {
     "id": "penne_pasta_by_doria",
-    "name": "Penne Pasta By Doria",
-    "nameEs": "Pasta Penne Por Doria",
+    "name": "Penne Pasta",
+    "nameEs": "Pasta Penne",
     "category": "Carbs",
     "emoji": "🍝",
     "servingLabel": "1 Portion · 56 g",
@@ -5941,12 +5959,14 @@
       "potassium": 81,
       "sodium": 5,
       "zinc": 1.8
-    }
+    },
+    "legacyName": "Penne Pasta By Doria",
+    "brand": "Doria"
   },
   {
     "id": "honey_bunches_of_oats_almonds",
-    "name": "Honey Bunches of Oats with Almonds By Post",
-    "nameEs": "Honey Bunches of Oats con Almendras Por Post",
+    "name": "Honey Bunches of Oats with Almonds",
+    "nameEs": "Honey Bunches of Oats con Almendras",
     "category": "Carbs",
     "emoji": "🥣",
     "servingLabel": "1 Cup · 42 g",
@@ -5980,7 +6000,9 @@
       "magnesium": 25.2,
       "zinc": 1.1,
       "sodium": 180
-    }
+    },
+    "legacyName": "Honey Bunches of Oats with Almonds By Post",
+    "brand": "Post"
   },
   {
     "id": "cornmealpolenta",
@@ -6098,7 +6120,7 @@
     "id": "dextrose",
     "name": "Dextrose",
     "nameEs": "Dextrosa",
-    "category": "Carbs",
+    "category": "Supplements",
     "emoji": "🍬",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -6152,8 +6174,8 @@
   },
   {
     "id": "little_bites_chocolatey_chip_muffins",
-    "name": "Chocolatey Chip Mini Muffins By Little Bites",
-    "nameEs": "Mini Muffins con Chispas de Chocolate Por Little Bites",
+    "name": "Chocolatey Chip Mini Muffins",
+    "nameEs": "Mini Muffins con Chispas de Chocolate",
     "category": "Carbs",
     "emoji": "🧁",
     "servingLabel": "1 Pouch · 43 g",
@@ -6179,7 +6201,9 @@
     },
     "other": {
       "cholesterol": 20
-    }
+    },
+    "legacyName": "Chocolatey Chip Mini Muffins By Little Bites",
+    "brand": "Little Bites"
   },
   {
     "id": "farro",
@@ -6605,7 +6629,7 @@
     "id": "maltodextrin",
     "name": "Maltodextrin",
     "nameEs": "Maltodextrina",
-    "category": "Carbs",
+    "category": "Supplements",
     "emoji": "🥄",
     "servingLabel": "100 g",
     "servingG": 100,
@@ -6659,8 +6683,8 @@
   },
   {
     "id": "great_value_sugar_free_syrup",
-    "name": "Reduced Calorie Sugar Free Syrup By Great Value",
-    "nameEs": "Jarabe Sin Azúcar Bajo en Calorías Por Great Value",
+    "name": "Reduced Calorie Sugar Free Syrup",
+    "nameEs": "Jarabe Sin Azúcar Bajo en Calorías",
     "category": "Carbs",
     "emoji": "🍯",
     "servingLabel": "2 Tbsp · 30 ml",
@@ -6676,7 +6700,9 @@
     "transFat": 0,
     "minerals": {
       "sodium": 60
-    }
+    },
+    "legacyName": "Reduced Calorie Sugar Free Syrup By Great Value",
+    "brand": "Great Value"
   },
   {
     "id": "marionberries",
@@ -6798,8 +6824,8 @@
   },
   {
     "id": "naturipe_morning_blend_frozen",
-    "name": "Morning Blend Frozen Fruit (Pineapples, Bananas & Mangos) By Naturipe",
-    "nameEs": "Mezcla de Frutas Congeladas Morning Blend (Piña, Plátano y Mango) Por Naturipe",
+    "name": "Morning Blend Frozen Fruit (Pineapples, Bananas & Mangos)",
+    "nameEs": "Mezcla de Frutas Congeladas Morning Blend (Piña, Plátano y Mango)",
     "category": "Carbs",
     "emoji": "🍍",
     "servingLabel": "1 Cup · 140 g",
@@ -6821,7 +6847,9 @@
       "calcium": 10,
       "iron": 0.3,
       "potassium": 300
-    }
+    },
+    "legacyName": "Morning Blend Frozen Fruit (Pineapples, Bananas & Mangos) By Naturipe",
+    "brand": "Naturipe"
   },
   {
     "id": "molasses",
@@ -7624,8 +7652,8 @@
   },
   {
     "id": "rice_paper_extra_thin_double_happiness",
-    "name": "Extra Thin Rice-Paper (Double Happiness Brand)",
-    "nameEs": "Papel de Arroz Extra Delgado (Marca Double Happiness)",
+    "name": "Extra Thin Rice-Paper",
+    "nameEs": "Papel de Arroz Extra Delgado",
     "category": "Carbs",
     "emoji": "🫓",
     "servingLabel": "1 Sheet · 11.3 g",
@@ -7693,7 +7721,9 @@
       "cholesterol": 0,
       "choline": 0,
       "water": 0
-    }
+    },
+    "legacyName": "Extra Thin Rice-Paper (Double Happiness Brand)",
+    "brand": "Double Happiness"
   },
   {
     "id": "rice_cakes",
@@ -7823,8 +7853,8 @@
   },
   {
     "id": "sweet_chilli_sauce_mae_ploy",
-    "name": "Sweet Chilli Sauce By Mae Ploy",
-    "nameEs": "Salsa Dulce de Chile Por Mae Ploy",
+    "name": "Sweet Chilli Sauce",
+    "nameEs": "Salsa Dulce de Chile",
     "category": "Carbs",
     "emoji": "🌶️",
     "servingLabel": "1 Portion · 30 g",
@@ -7833,12 +7863,14 @@
     "protein": 0.3,
     "carbs": 20.5,
     "fat": 0.1,
-    "fiber": 0.1
+    "fiber": 0.1,
+    "legacyName": "Sweet Chilli Sauce By Mae Ploy",
+    "brand": "Mae Ploy"
   },
   {
     "id": "pizza_sauce_simply_go",
-    "name": "Pizza Sauce By Simply Go",
-    "nameEs": "Salsa para Pizza Por Simply Go",
+    "name": "Pizza Sauce",
+    "nameEs": "Salsa para Pizza",
     "category": "Carbs",
     "emoji": "🍕",
     "servingLabel": "1 Portion · 63 g",
@@ -7847,7 +7879,9 @@
     "protein": 1,
     "carbs": 4,
     "fat": 1,
-    "fiber": 1
+    "fiber": 1,
+    "legacyName": "Pizza Sauce By Simply Go",
+    "brand": "Simply Go"
   },
   {
     "id": "semolina",
@@ -8721,7 +8755,7 @@
     "id": "oil_fish",
     "name": "Oil (Fish)",
     "nameEs": "Aceite (de Pescado)",
-    "category": "Fat",
+    "category": "Supplements",
     "emoji": "🐟",
     "servingLabel": "1 tbsp · 13.6 g",
     "servingG": 13.6,
@@ -8901,8 +8935,8 @@
   },
   {
     "id": "peanut_butter_creamy_skippy",
-    "name": "Creamy Peanut Butter by Skippy",
-    "nameEs": "Mantequilla de Maní por Skippy",
+    "name": "Creamy Peanut Butter",
+    "nameEs": "Mantequilla de Maní",
     "category": "Fat",
     "emoji": "🥜",
     "servingLabel": "1 Serving · 32 g",
@@ -8911,7 +8945,9 @@
     "protein": 7,
     "carbs": 6,
     "fat": 16,
-    "fiber": 2
+    "fiber": 2,
+    "legacyName": "Creamy Peanut Butter by Skippy",
+    "brand": "Skippy"
   },
   {
     "id": "peanut_butter_powder",
@@ -9209,8 +9245,8 @@
   },
   {
     "id": "boulder_canyon_avocado_oil_kettle_chips_sea_salt",
-    "name": "Avocado Oil Kettle Style Potato Chips (Classic Sea Salt) By Boulder Canyon",
-    "nameEs": "Papas Fritas Estilo Kettle con Aceite de Aguacate (Sal de Mar Clásica) Por Boulder Canyon",
+    "name": "Avocado Oil Kettle Style Potato Chips (Classic Sea Salt)",
+    "nameEs": "Papas Fritas Estilo Kettle con Aceite de Aguacate (Sal de Mar Clásica)",
     "category": "Fat",
     "emoji": "🥔",
     "servingLabel": "1 Bag · 28.3 g",
@@ -9233,7 +9269,9 @@
       "calcium": 10,
       "iron": 0.5,
       "potassium": 450
-    }
+    },
+    "legacyName": "Avocado Oil Kettle Style Potato Chips (Classic Sea Salt) By Boulder Canyon",
+    "brand": "Boulder Canyon"
   },
   {
     "id": "tzatziki",
@@ -10427,8 +10465,8 @@
   },
   {
     "id": "classic_ranch_yogurt_dressing_dip_bolthouse_farms",
-    "name": "Classic Ranch Yogurt Dressing & Dip By Bolthouse Farms",
-    "nameEs": "Aderezo y Dip de Yogur Ranch Clásico Por Bolthouse Farms",
+    "name": "Classic Ranch Yogurt Dressing & Dip",
+    "nameEs": "Aderezo y Dip de Yogur Ranch Clásico",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "1 Serving · 30 g",
@@ -10453,7 +10491,9 @@
       "selenium": 0,
       "sodium": 160,
       "zinc": 0
-    }
+    },
+    "legacyName": "Classic Ranch Yogurt Dressing & Dip By Bolthouse Farms",
+    "brand": "Bolthouse Farms"
   },
   {
     "name": "Coors Light",
@@ -10461,7 +10501,7 @@
     "barcode": "",
     "public": true,
     "emoji": "🍺",
-    "category": null,
+    "category": "Alcohol",
     "servingG": 355,
     "servingLabel": "1 Can · 355 g",
     "servings": [
@@ -10502,7 +10542,7 @@
     "barcode": "018200250101",
     "public": true,
     "emoji": "🍺",
-    "category": null,
+    "category": "Alcohol",
     "servingG": 355,
     "servingLabel": "1 Can · 355 g",
     "servings": [
@@ -10540,8 +10580,8 @@
   },
   {
     "id": "rotisserie_chicken_costco",
-    "name": "Rotisserie Chicken By Costco",
-    "nameEs": "Pollo Rostizado Por Costco",
+    "name": "Rotisserie Chicken",
+    "nameEs": "Pollo Rostizado",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Serving · 85 g",
@@ -10558,12 +10598,14 @@
     },
     "other": {
       "cholesterol": 55
-    }
+    },
+    "legacyName": "Rotisserie Chicken By Costco",
+    "brand": "Costco"
   },
   {
     "id": "large_unbuttered_popcorn_regal",
-    "name": "Large Unbuttered Popcorn By Regal Cinema",
-    "nameEs": "Palomitas Grandes Sin Mantequilla Por Regal Cinema",
+    "name": "Large Unbuttered Popcorn",
+    "nameEs": "Palomitas Grandes Sin Mantequilla",
     "category": "Carbs",
     "emoji": "🍿",
     "servingLabel": "1 Cup · 8 g",
@@ -10580,12 +10622,14 @@
     },
     "other": {
       "cholesterol": 15
-    }
+    },
+    "legacyName": "Large Unbuttered Popcorn By Regal Cinema",
+    "brand": "Regal Cinema"
   },
   {
     "id": "penne_pasta_barilla",
-    "name": "Penne Pasta By Barilla",
-    "nameEs": "Pasta Penne Por Barilla",
+    "name": "Penne Pasta",
+    "nameEs": "Pasta Penne",
     "category": "Carbs",
     "emoji": "🍝",
     "servingLabel": "1 Serving · 56 g",
@@ -10607,12 +10651,14 @@
       "calcium": 12,
       "iron": 2,
       "potassium": 118
-    }
+    },
+    "legacyName": "Penne Pasta By Barilla",
+    "brand": "Barilla"
   },
   {
     "id": "minute_maid_mango_passion_zero_sugar",
-    "name": "Zero Sugar Mango Passion By Minute Maid",
-    "nameEs": "Cero Azúcar Mango Maracuyá Por Minute Maid",
+    "name": "Zero Sugar Mango Passion",
+    "nameEs": "Cero Azúcar Mango Maracuyá",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥭",
     "servingLabel": "8 fl oz · 240 mL",
@@ -10629,12 +10675,14 @@
     },
     "vitamins": {
       "c": 72
-    }
+    },
+    "legacyName": "Zero Sugar Mango Passion By Minute Maid",
+    "brand": "Minute Maid"
   },
   {
     "id": "moto_yama_roasted_seaweed_nori",
-    "name": "Roasted Dried Seaweed (Nori) By Moto Yama",
-    "nameEs": "Alga Nori Tostada Por Moto Yama",
+    "name": "Roasted Dried Seaweed (Nori)",
+    "nameEs": "Alga Nori Tostada",
     "category": "Veggies",
     "emoji": "🌿",
     "servingLabel": "5 Sheets · 15 g",
@@ -10652,12 +10700,14 @@
       "calcium": 130,
       "iron": 1.8,
       "sodium": 0
-    }
+    },
+    "legacyName": "Roasted Dried Seaweed (Nori) By Moto Yama",
+    "brand": "Moto Yama"
   },
   {
     "id": "simplygo_pasta_sauce_meat_flavored",
-    "name": "Pasta Sauce Flavored With Meat By SimplyGo",
-    "nameEs": "Salsa Para Pasta Con Sabor a Carne Por SimplyGo",
+    "name": "Pasta Sauce Flavored With Meat",
+    "nameEs": "Salsa Para Pasta Con Sabor a Carne",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍝",
     "servingLabel": "1/2 Cup · 128 g",
@@ -10679,12 +10729,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Pasta Sauce Flavored With Meat By SimplyGo",
+    "brand": "SimplyGo"
   },
   {
     "id": "pbfit_classic_peanut_powder",
-    "name": "Classic Roasted Peanut Powder By PBfit",
-    "nameEs": "Polvo de Maní Tostado Clásico Por PBfit",
+    "name": "Classic Roasted Peanut Powder",
+    "nameEs": "Polvo de Maní Tostado Clásico",
     "category": "Protein",
     "emoji": "🥜",
     "servingLabel": "2 Tbsp · 16 g",
@@ -10700,12 +10752,14 @@
     "sugarsAdded": 2,
     "minerals": {
       "sodium": 95
-    }
+    },
+    "legacyName": "Classic Roasted Peanut Powder By PBfit",
+    "brand": "PBfit"
   },
   {
     "id": "rosarita_no_fat_refried_beans",
-    "name": "No Fat Traditional Refried Beans By Rosarita",
-    "nameEs": "Frijoles Refritos Tradicionales Sin Grasa Por Rosarita",
+    "name": "No Fat Traditional Refried Beans",
+    "nameEs": "Frijoles Refritos Tradicionales Sin Grasa",
     "category": "Carbs",
     "emoji": "🫘",
     "servingLabel": "1/2 Cup · 128 g",
@@ -10723,13 +10777,15 @@
       "sodium": 470,
       "iron": 1.4,
       "potassium": 560
-    }
+    },
+    "legacyName": "No Fat Traditional Refried Beans By Rosarita",
+    "brand": "Rosarita"
   },
   {
     "id": "bum_thuper_thavage_preworkout_citrus_grapefruit",
-    "name": "Thuper Thavage Pre-Workout (Citrus Grapefruit) By RAW",
-    "nameEs": "Pre-Entreno Thuper Thavage (Cítrico Toronja) Por RAW",
-    "category": "Condiments, Seasonings & Spices",
+    "name": "Thuper Thavage Pre-Workout (Citrus Grapefruit)",
+    "nameEs": "Pre-Entreno Thuper Thavage (Cítrico Toronja)",
+    "category": "Supplements",
     "emoji": "⚡",
     "servingLabel": "1 Scoop · 31.1 g",
     "servingG": 31.1,
@@ -10740,12 +10796,14 @@
     "fiber": 0,
     "minerals": {
       "sodium": 190
-    }
+    },
+    "legacyName": "Thuper Thavage Pre-Workout (Citrus Grapefruit) By RAW",
+    "brand": "RAW"
   },
   {
     "id": "best_foods_real_mayonnaise",
-    "name": "Real Mayonnaise By Best Foods",
-    "nameEs": "Mayonesa Real Por Best Foods",
+    "name": "Real Mayonnaise",
+    "nameEs": "Mayonesa Real",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥪",
     "servingLabel": "1 Tbsp · 14 g",
@@ -10762,12 +10820,14 @@
     },
     "other": {
       "cholesterol": 5
-    }
+    },
+    "legacyName": "Real Mayonnaise By Best Foods",
+    "brand": "Best Foods"
   },
   {
     "id": "heinz_sweet_relish",
-    "name": "Sweet Relish By Heinz",
-    "nameEs": "Relish Dulce Por Heinz",
+    "name": "Sweet Relish",
+    "nameEs": "Relish Dulce",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥒",
     "servingLabel": "1 Tbsp · 15 g",
@@ -10781,12 +10841,14 @@
     "sugarsAdded": 3,
     "minerals": {
       "sodium": 60
-    }
+    },
+    "legacyName": "Sweet Relish By Heinz",
+    "brand": "Heinz"
   },
   {
     "id": "999_chili_sate_paste",
-    "name": "Chili Sa-Té Paste (Ớt Sa Tế) By 999",
-    "nameEs": "Pasta de Chili Sa-Té (Ớt Sa Tế) Por 999",
+    "name": "Chili Sa-Té Paste (Ớt Sa Tế)",
+    "nameEs": "Pasta de Chili Sa-Té (Ớt Sa Tế)",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🌶️",
     "servingLabel": "1 Tbsp · 15 g",
@@ -10805,12 +10867,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Chili Sa-Té Paste (Ớt Sa Tế) By 999",
+    "brand": "999"
   },
   {
     "id": "cream_of_rice_hot_cereal",
-    "name": "Hot Cereal By Cream of Rice",
-    "nameEs": "Cereal Caliente Por Cream of Rice",
+    "name": "Hot Cereal",
+    "nameEs": "Cereal Caliente",
     "category": "Carbs",
     "emoji": "🍚",
     "servingLabel": "1/4 Cup · 45 g",
@@ -10837,12 +10901,14 @@
       "b3": 4.2,
       "b6": 0.43,
       "folate": 100
-    }
+    },
+    "legacyName": "Hot Cereal By Cream of Rice",
+    "brand": "Cream of Rice"
   },
   {
     "id": "king_crab_premium_fish_sauce",
-    "name": "Premium Fish Sauce (Nuoc Mam Nhi) By King Crab",
-    "nameEs": "Salsa de Pescado Premium (Nuoc Mam Nhi) Por King Crab",
+    "name": "Premium Fish Sauce (Nuoc Mam Nhi)",
+    "nameEs": "Salsa de Pescado Premium (Nuoc Mam Nhi)",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🐟",
     "servingLabel": "1 Tbsp · 15 mL",
@@ -10860,7 +10926,9 @@
       "calcium": 0,
       "iron": 0.1,
       "potassium": 40
-    }
+    },
+    "legacyName": "Premium Fish Sauce (Nuoc Mam Nhi) By King Crab",
+    "brand": "King Crab"
   },
   {
     "name": "Whey Protein",
@@ -10868,7 +10936,7 @@
     "barcode": "",
     "public": false,
     "emoji": "🫙",
-    "category": "Protein",
+    "category": "Supplements",
     "servingG": 32,
     "servingLabel": "1 Scoop · 32 g",
     "servings": [
@@ -10913,8 +10981,8 @@
   },
   {
     "id": "wingstop_original_hot_chicken_sandwich",
-    "name": "Original Hot Chicken Sandwich By Wingstop",
-    "nameEs": "Sándwich de Pollo Original Hot Por Wingstop",
+    "name": "Original Hot Chicken Sandwich",
+    "nameEs": "Sándwich de Pollo Original Hot",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 301 g",
@@ -10936,12 +11004,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Original Hot Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_regular_fries",
-    "name": "Regular Fries By Wingstop",
-    "nameEs": "Papas Fritas Regulares Por Wingstop",
+    "name": "Regular Fries",
+    "nameEs": "Papas Fritas Regulares",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "1 portion · 191 g",
@@ -10960,12 +11030,14 @@
       "calcium": 67,
       "iron": 2,
       "potassium": 1530
-    }
+    },
+    "legacyName": "Regular Fries By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_atomic",
-    "name": "Atomic Classic Wing By Wingstop",
-    "nameEs": "Atómico Alita Clásica Por Wingstop",
+    "name": "Atomic Classic Wing",
+    "nameEs": "Atómico Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 38.77g",
@@ -10987,12 +11059,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Atomic Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_cajun",
-    "name": "Cajun Classic Wing By Wingstop",
-    "nameEs": "Cajún Alita Clásica Por Wingstop",
+    "name": "Cajun Classic Wing",
+    "nameEs": "Cajún Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 38.86g",
@@ -11014,12 +11088,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Cajun Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_garlic_parmesan",
-    "name": "Garlic Parmesan Classic Wing By Wingstop",
-    "nameEs": "Ajo y Parmesano Alita Clásica Por Wingstop",
+    "name": "Garlic Parmesan Classic Wing",
+    "nameEs": "Ajo y Parmesano Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 35.65g",
@@ -11041,12 +11117,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Garlic Parmesan Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_hawaiian",
-    "name": "Hawaiian Classic Wing By Wingstop",
-    "nameEs": "Hawaiano Alita Clásica Por Wingstop",
+    "name": "Hawaiian Classic Wing",
+    "nameEs": "Hawaiano Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 39.28g",
@@ -11068,12 +11146,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Hawaiian Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_hickory_smoked_bbq",
-    "name": "Hickory Smoked BBQ Classic Wing By Wingstop",
-    "nameEs": "BBQ Ahumado Alita Clásica Por Wingstop",
+    "name": "Hickory Smoked BBQ Classic Wing",
+    "nameEs": "BBQ Ahumado Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 39.78g",
@@ -11095,12 +11175,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Hickory Smoked BBQ Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_hot_honey_rub",
-    "name": "Hot Honey Rub Classic Wing By Wingstop",
-    "nameEs": "Sazón de Miel Picante Alita Clásica Por Wingstop",
+    "name": "Hot Honey Rub Classic Wing",
+    "nameEs": "Sazón de Miel Picante Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 36g",
@@ -11122,12 +11204,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Hot Honey Rub Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_lemon_pepper",
-    "name": "Lemon Pepper Classic Wing By Wingstop",
-    "nameEs": "Limón Pimienta Alita Clásica Por Wingstop",
+    "name": "Lemon Pepper Classic Wing",
+    "nameEs": "Limón Pimienta Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 34.91g",
@@ -11149,12 +11233,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Lemon Pepper Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_louisiana_rub",
-    "name": "Louisiana Rub Classic Wing By Wingstop",
-    "nameEs": "Sazón Louisiana Alita Clásica Por Wingstop",
+    "name": "Louisiana Rub Classic Wing",
+    "nameEs": "Sazón Louisiana Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 33.99g",
@@ -11176,12 +11262,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Louisiana Rub Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_mango_habanero",
-    "name": "Mango Habanero Classic Wing By Wingstop",
-    "nameEs": "Mango Habanero Alita Clásica Por Wingstop",
+    "name": "Mango Habanero Classic Wing",
+    "nameEs": "Mango Habanero Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 39.28g",
@@ -11203,12 +11291,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Mango Habanero Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_mild",
-    "name": "Mild Classic Wing By Wingstop",
-    "nameEs": "Suave Alita Clásica Por Wingstop",
+    "name": "Mild Classic Wing",
+    "nameEs": "Suave Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 38.04g",
@@ -11230,12 +11320,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Mild Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_original_hot",
-    "name": "Original Hot Classic Wing By Wingstop",
-    "nameEs": "Original Picante Alita Clásica Por Wingstop",
+    "name": "Original Hot Classic Wing",
+    "nameEs": "Original Picante Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 38.29g",
@@ -11257,12 +11349,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Original Hot Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_plain",
-    "name": "Plain Classic Wing By Wingstop",
-    "nameEs": "Natural Alita Clásica Por Wingstop",
+    "name": "Plain Classic Wing",
+    "nameEs": "Natural Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 30.78g",
@@ -11284,12 +11378,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Plain Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_classic_wing_spicy_korean_q",
-    "name": "Spicy Korean Q Classic Wing By Wingstop",
-    "nameEs": "Coreano Picante Alita Clásica Por Wingstop",
+    "name": "Spicy Korean Q Classic Wing",
+    "nameEs": "Coreano Picante Alita Clásica",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 39.11g",
@@ -11311,12 +11407,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Spicy Korean Q Classic Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_atomic",
-    "name": "Atomic Boneless Wing By Wingstop",
-    "nameEs": "Atómico Alita Deshuesada Por Wingstop",
+    "name": "Atomic Boneless Wing",
+    "nameEs": "Atómico Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 33.53g",
@@ -11338,12 +11436,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Atomic Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_cajun",
-    "name": "Cajun Boneless Wing By Wingstop",
-    "nameEs": "Cajún Alita Deshuesada Por Wingstop",
+    "name": "Cajun Boneless Wing",
+    "nameEs": "Cajún Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 33.6g",
@@ -11365,12 +11465,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Cajun Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_garlic_parmesan",
-    "name": "Garlic Parmesan Boneless Wing By Wingstop",
-    "nameEs": "Ajo y Parmesano Alita Deshuesada Por Wingstop",
+    "name": "Garlic Parmesan Boneless Wing",
+    "nameEs": "Ajo y Parmesano Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 31.04g",
@@ -11392,12 +11494,14 @@
     },
     "other": {
       "cholesterol": 15
-    }
+    },
+    "legacyName": "Garlic Parmesan Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_hawaiian",
-    "name": "Hawaiian Boneless Wing By Wingstop",
-    "nameEs": "Hawaiano Alita Deshuesada Por Wingstop",
+    "name": "Hawaiian Boneless Wing",
+    "nameEs": "Hawaiano Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 33.94g",
@@ -11419,12 +11523,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Hawaiian Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_hickory_smoked_bbq",
-    "name": "Hickory Smoked BBQ Boneless Wing By Wingstop",
-    "nameEs": "BBQ Ahumado Alita Deshuesada Por Wingstop",
+    "name": "Hickory Smoked BBQ Boneless Wing",
+    "nameEs": "BBQ Ahumado Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 34.34g",
@@ -11446,12 +11552,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Hickory Smoked BBQ Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_hot_honey_rub",
-    "name": "Hot Honey Rub Boneless Wing By Wingstop",
-    "nameEs": "Sazón de Miel Picante Alita Deshuesada Por Wingstop",
+    "name": "Hot Honey Rub Boneless Wing",
+    "nameEs": "Sazón de Miel Picante Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 32g",
@@ -11473,12 +11581,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Hot Honey Rub Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_lemon_pepper",
-    "name": "Lemon Pepper Boneless Wing By Wingstop",
-    "nameEs": "Limón Pimienta Alita Deshuesada Por Wingstop",
+    "name": "Lemon Pepper Boneless Wing",
+    "nameEs": "Limón Pimienta Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 29.98g",
@@ -11500,12 +11610,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Lemon Pepper Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_louisiana_rub",
-    "name": "Louisiana Rub Boneless Wing By Wingstop",
-    "nameEs": "Sazón Louisiana Alita Deshuesada Por Wingstop",
+    "name": "Louisiana Rub Boneless Wing",
+    "nameEs": "Sazón Louisiana Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 29.25g",
@@ -11527,12 +11639,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Louisiana Rub Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_mango_habanero",
-    "name": "Mango Habanero Boneless Wing By Wingstop",
-    "nameEs": "Mango Habanero Alita Deshuesada Por Wingstop",
+    "name": "Mango Habanero Boneless Wing",
+    "nameEs": "Mango Habanero Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 33.94g",
@@ -11554,12 +11668,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Mango Habanero Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_mild",
-    "name": "Mild Boneless Wing By Wingstop",
-    "nameEs": "Suave Alita Deshuesada Por Wingstop",
+    "name": "Mild Boneless Wing",
+    "nameEs": "Suave Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 32.94g",
@@ -11581,12 +11697,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Mild Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_original_hot",
-    "name": "Original Hot Boneless Wing By Wingstop",
-    "nameEs": "Original Picante Alita Deshuesada Por Wingstop",
+    "name": "Original Hot Boneless Wing",
+    "nameEs": "Original Picante Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 33.15g",
@@ -11608,12 +11726,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Original Hot Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_plain",
-    "name": "Plain Boneless Wing By Wingstop",
-    "nameEs": "Natural Alita Deshuesada Por Wingstop",
+    "name": "Plain Boneless Wing",
+    "nameEs": "Natural Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 27.14g",
@@ -11635,12 +11755,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Plain Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_boneless_wing_spicy_korean_q",
-    "name": "Spicy Korean Q Boneless Wing By Wingstop",
-    "nameEs": "Coreano Picante Alita Deshuesada Por Wingstop",
+    "name": "Spicy Korean Q Boneless Wing",
+    "nameEs": "Coreano Picante Alita Deshuesada",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 33.81g",
@@ -11662,12 +11784,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Spicy Korean Q Boneless Wing By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_atomic",
-    "name": "Atomic Chicken Tender By Wingstop",
-    "nameEs": "Atómico Tira de Pollo Por Wingstop",
+    "name": "Atomic Chicken Tender",
+    "nameEs": "Atómico Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 73.81g",
@@ -11689,12 +11813,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Atomic Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_cajun",
-    "name": "Cajun Chicken Tender By Wingstop",
-    "nameEs": "Cajún Tira de Pollo Por Wingstop",
+    "name": "Cajun Chicken Tender",
+    "nameEs": "Cajún Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 74g",
@@ -11716,12 +11842,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Cajun Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_garlic_parmesan",
-    "name": "Garlic Parmesan Chicken Tender By Wingstop",
-    "nameEs": "Ajo y Parmesano Tira de Pollo Por Wingstop",
+    "name": "Garlic Parmesan Chicken Tender",
+    "nameEs": "Ajo y Parmesano Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 67.58g",
@@ -11743,12 +11871,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Garlic Parmesan Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_hawaiian",
-    "name": "Hawaiian Chicken Tender By Wingstop",
-    "nameEs": "Hawaiano Tira de Pollo Por Wingstop",
+    "name": "Hawaiian Chicken Tender",
+    "nameEs": "Hawaiano Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 74.85g",
@@ -11770,12 +11900,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Hawaiian Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_hickory_smoked_bbq",
-    "name": "Hickory Smoked BBQ Chicken Tender By Wingstop",
-    "nameEs": "BBQ Ahumado Tira de Pollo Por Wingstop",
+    "name": "Hickory Smoked BBQ Chicken Tender",
+    "nameEs": "BBQ Ahumado Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 75.84g",
@@ -11797,12 +11929,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Hickory Smoked BBQ Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_hot_honey_rub",
-    "name": "Hot Honey Rub Chicken Tender By Wingstop",
-    "nameEs": "Sazón de Miel Picante Tira de Pollo Por Wingstop",
+    "name": "Hot Honey Rub Chicken Tender",
+    "nameEs": "Sazón de Miel Picante Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 70g",
@@ -11824,12 +11958,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Hot Honey Rub Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_lemon_pepper",
-    "name": "Lemon Pepper Chicken Tender By Wingstop",
-    "nameEs": "Limón Pimienta Tira de Pollo Por Wingstop",
+    "name": "Lemon Pepper Chicken Tender",
+    "nameEs": "Limón Pimienta Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 64.93g",
@@ -11851,12 +11987,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Lemon Pepper Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_louisiana_rub",
-    "name": "Louisiana Rub Chicken Tender By Wingstop",
-    "nameEs": "Sazón Louisiana Tira de Pollo Por Wingstop",
+    "name": "Louisiana Rub Chicken Tender",
+    "nameEs": "Sazón Louisiana Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 63.12g",
@@ -11878,12 +12016,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Louisiana Rub Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_mango_habanero",
-    "name": "Mango Habanero Chicken Tender By Wingstop",
-    "nameEs": "Mango Habanero Tira de Pollo Por Wingstop",
+    "name": "Mango Habanero Chicken Tender",
+    "nameEs": "Mango Habanero Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 74.85g",
@@ -11905,12 +12045,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Mango Habanero Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_mild",
-    "name": "Mild Chicken Tender By Wingstop",
-    "nameEs": "Suave Tira de Pollo Por Wingstop",
+    "name": "Mild Chicken Tender",
+    "nameEs": "Suave Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 72.35g",
@@ -11932,12 +12074,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Mild Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_original_hot",
-    "name": "Original Hot Chicken Tender By Wingstop",
-    "nameEs": "Original Picante Tira de Pollo Por Wingstop",
+    "name": "Original Hot Chicken Tender",
+    "nameEs": "Original Picante Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 72.86g",
@@ -11959,12 +12103,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Original Hot Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_plain",
-    "name": "Plain Chicken Tender By Wingstop",
-    "nameEs": "Natural Tira de Pollo Por Wingstop",
+    "name": "Plain Chicken Tender",
+    "nameEs": "Natural Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 57.84g",
@@ -11986,12 +12132,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Plain Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_tender_spicy_korean_q",
-    "name": "Spicy Korean Q Chicken Tender By Wingstop",
-    "nameEs": "Coreano Picante Tira de Pollo Por Wingstop",
+    "name": "Spicy Korean Q Chicken Tender",
+    "nameEs": "Coreano Picante Tira de Pollo",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "1 Piece · 74.51g",
@@ -12013,12 +12161,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Spicy Korean Q Chicken Tender By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_atomic",
-    "name": "Atomic Chicken Sandwich By Wingstop",
-    "nameEs": "Atómico Sándwich de Pollo Por Wingstop",
+    "name": "Atomic Chicken Sandwich",
+    "nameEs": "Atómico Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 305g",
@@ -12040,12 +12190,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Atomic Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_cajun",
-    "name": "Cajun Chicken Sandwich By Wingstop",
-    "nameEs": "Cajún Sándwich de Pollo Por Wingstop",
+    "name": "Cajun Chicken Sandwich",
+    "nameEs": "Cajún Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 306g",
@@ -12067,12 +12219,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Cajun Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_garlic_parmesan",
-    "name": "Garlic Parmesan Chicken Sandwich By Wingstop",
-    "nameEs": "Ajo y Parmesano Sándwich de Pollo Por Wingstop",
+    "name": "Garlic Parmesan Chicken Sandwich",
+    "nameEs": "Ajo y Parmesano Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 280g",
@@ -12094,12 +12248,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Garlic Parmesan Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_hawaiian",
-    "name": "Hawaiian Chicken Sandwich By Wingstop",
-    "nameEs": "Hawaiano Sándwich de Pollo Por Wingstop",
+    "name": "Hawaiian Chicken Sandwich",
+    "nameEs": "Hawaiano Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 309g",
@@ -12121,12 +12277,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Hawaiian Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_hickory_smoked_bbq",
-    "name": "Hickory Smoked BBQ Chicken Sandwich By Wingstop",
-    "nameEs": "BBQ Ahumado Sándwich de Pollo Por Wingstop",
+    "name": "Hickory Smoked BBQ Chicken Sandwich",
+    "nameEs": "BBQ Ahumado Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 313g",
@@ -12148,12 +12306,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Hickory Smoked BBQ Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_hot_honey_rub",
-    "name": "Hot Honey Rub Chicken Sandwich By Wingstop",
-    "nameEs": "Sazón de Miel Picante Sándwich de Pollo Por Wingstop",
+    "name": "Hot Honey Rub Chicken Sandwich",
+    "nameEs": "Sazón de Miel Picante Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 289g",
@@ -12175,12 +12335,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Hot Honey Rub Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_lemon_pepper",
-    "name": "Lemon Pepper Chicken Sandwich By Wingstop",
-    "nameEs": "Limón Pimienta Sándwich de Pollo Por Wingstop",
+    "name": "Lemon Pepper Chicken Sandwich",
+    "nameEs": "Limón Pimienta Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 270g",
@@ -12202,12 +12364,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Lemon Pepper Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_louisiana_rub",
-    "name": "Louisiana Rub Chicken Sandwich By Wingstop",
-    "nameEs": "Sazón Louisiana Sándwich de Pollo Por Wingstop",
+    "name": "Louisiana Rub Chicken Sandwich",
+    "nameEs": "Sazón Louisiana Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 263g",
@@ -12229,12 +12393,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Louisiana Rub Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_mango_habanero",
-    "name": "Mango Habanero Chicken Sandwich By Wingstop",
-    "nameEs": "Mango Habanero Sándwich de Pollo Por Wingstop",
+    "name": "Mango Habanero Chicken Sandwich",
+    "nameEs": "Mango Habanero Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 309g",
@@ -12256,12 +12422,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Mango Habanero Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_mild",
-    "name": "Mild Chicken Sandwich By Wingstop",
-    "nameEs": "Suave Sándwich de Pollo Por Wingstop",
+    "name": "Mild Chicken Sandwich",
+    "nameEs": "Suave Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 299g",
@@ -12283,12 +12451,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Mild Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_plain",
-    "name": "Plain Chicken Sandwich By Wingstop",
-    "nameEs": "Natural Sándwich de Pollo Por Wingstop",
+    "name": "Plain Chicken Sandwich",
+    "nameEs": "Natural Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 241g",
@@ -12310,12 +12480,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Plain Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_chicken_sandwich_spicy_korean_q",
-    "name": "Spicy Korean Q Chicken Sandwich By Wingstop",
-    "nameEs": "Coreano Picante Sándwich de Pollo Por Wingstop",
+    "name": "Spicy Korean Q Chicken Sandwich",
+    "nameEs": "Coreano Picante Sándwich de Pollo",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 portion · 308g",
@@ -12337,12 +12509,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Spicy Korean Q Chicken Sandwich By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_veggie_sticks_celery",
-    "name": "Veggie Sticks (Celery) By Wingstop",
-    "nameEs": "Palitos de Apio Por Wingstop",
+    "name": "Veggie Sticks (Celery)",
+    "nameEs": "Palitos de Apio",
     "category": "Carbs",
     "emoji": "🥬",
     "servingLabel": "5 Sticks · 56g",
@@ -12364,12 +12538,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Veggie Sticks (Celery) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_veggie_sticks_carrots",
-    "name": "Veggie Sticks (Carrots) By Wingstop",
-    "nameEs": "Palitos de Zanahoria Por Wingstop",
+    "name": "Veggie Sticks (Carrots)",
+    "nameEs": "Palitos de Zanahoria",
     "category": "Carbs",
     "emoji": "🥕",
     "servingLabel": "5 Sticks · 66g",
@@ -12391,12 +12567,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Veggie Sticks (Carrots) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_ranch_dip",
-    "name": "Ranch Dip By Wingstop",
-    "nameEs": "Salsa Ranch Por Wingstop",
+    "name": "Ranch Dip",
+    "nameEs": "Salsa Ranch",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "3.25oz Cup · 85g",
@@ -12418,12 +12596,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Ranch Dip By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_blue_cheese_dip",
-    "name": "Blue Cheese Dip By Wingstop",
-    "nameEs": "Salsa de Queso Azul Por Wingstop",
+    "name": "Blue Cheese Dip",
+    "nameEs": "Salsa de Queso Azul",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "3.25oz Cup · 86g",
@@ -12445,12 +12625,14 @@
     },
     "other": {
       "cholesterol": 40
-    }
+    },
+    "legacyName": "Blue Cheese Dip By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_honey_mustard_dip",
-    "name": "Honey Mustard Dip By Wingstop",
-    "nameEs": "Salsa de Miel y Mostaza Por Wingstop",
+    "name": "Honey Mustard Dip",
+    "nameEs": "Salsa de Miel y Mostaza",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "3.25oz Cup · 93g",
@@ -12472,12 +12654,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Honey Mustard Dip By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_cheddar_cheese_sauce_dip",
-    "name": "Cheddar Cheese Sauce Dip By Wingstop",
-    "nameEs": "Salsa de Queso Cheddar Por Wingstop",
+    "name": "Cheddar Cheese Sauce Dip",
+    "nameEs": "Salsa de Queso Cheddar",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "3.25oz Cup · 96g",
@@ -12499,12 +12683,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Cheddar Cheese Sauce Dip By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_seasoned_fries_large",
-    "name": "Seasoned Fries (Large) By Wingstop",
-    "nameEs": "Papas Fritas Grandes Por Wingstop",
+    "name": "Seasoned Fries (Large)",
+    "nameEs": "Papas Fritas Grandes",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "18oz · 346g",
@@ -12526,12 +12712,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Seasoned Fries (Large) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_cheese_fries_regular",
-    "name": "Cheese Fries (Regular) By Wingstop",
-    "nameEs": "Papas con Queso Regulares Por Wingstop",
+    "name": "Cheese Fries (Regular)",
+    "nameEs": "Papas con Queso Regulares",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "10oz · 255g",
@@ -12553,12 +12741,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Cheese Fries (Regular) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_cheese_fries_large",
-    "name": "Cheese Fries (Large) By Wingstop",
-    "nameEs": "Papas con Queso Grandes Por Wingstop",
+    "name": "Cheese Fries (Large)",
+    "nameEs": "Papas con Queso Grandes",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "18oz · 442g",
@@ -12580,12 +12770,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Cheese Fries (Large) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_buffalo_ranch_fries_regular",
-    "name": "Buffalo Ranch Fries (Regular) By Wingstop",
-    "nameEs": "Papas Buffalo Ranch Regulares Por Wingstop",
+    "name": "Buffalo Ranch Fries (Regular)",
+    "nameEs": "Papas Buffalo Ranch Regulares",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "10oz · 249g",
@@ -12607,12 +12799,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Buffalo Ranch Fries (Regular) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_buffalo_ranch_fries_large",
-    "name": "Buffalo Ranch Fries (Large) By Wingstop",
-    "nameEs": "Papas Buffalo Ranch Grandes Por Wingstop",
+    "name": "Buffalo Ranch Fries (Large)",
+    "nameEs": "Papas Buffalo Ranch Grandes",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "18oz · 434g",
@@ -12634,12 +12828,14 @@
     },
     "other": {
       "cholesterol": 20
-    }
+    },
+    "legacyName": "Buffalo Ranch Fries (Large) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_louisiana_voodoo_fries_regular",
-    "name": "Louisiana Voodoo Fries (Regular) By Wingstop",
-    "nameEs": "Papas Louisiana Voodoo Regulares Por Wingstop",
+    "name": "Louisiana Voodoo Fries (Regular)",
+    "nameEs": "Papas Louisiana Voodoo Regulares",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "10oz · 283g",
@@ -12661,12 +12857,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Louisiana Voodoo Fries (Regular) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_louisiana_voodoo_fries_large",
-    "name": "Louisiana Voodoo Fries (Large) By Wingstop",
-    "nameEs": "Papas Louisiana Voodoo Grandes Por Wingstop",
+    "name": "Louisiana Voodoo Fries (Large)",
+    "nameEs": "Papas Louisiana Voodoo Grandes",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "18oz · 483g",
@@ -12688,12 +12886,14 @@
     },
     "other": {
       "cholesterol": 20
-    }
+    },
+    "legacyName": "Louisiana Voodoo Fries (Large) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_fried_corn_regular",
-    "name": "Fried Corn (Regular) By Wingstop",
-    "nameEs": "Elote Frito Regular Por Wingstop",
+    "name": "Fried Corn (Regular)",
+    "nameEs": "Elote Frito Regular",
     "category": "Carbs",
     "emoji": "🌽",
     "servingLabel": "5 Piece · 154g",
@@ -12715,12 +12915,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Fried Corn (Regular) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_fried_corn_large",
-    "name": "Fried Corn (Large) By Wingstop",
-    "nameEs": "Elote Frito Grande Por Wingstop",
+    "name": "Fried Corn (Large)",
+    "nameEs": "Elote Frito Grande",
     "category": "Carbs",
     "emoji": "🌽",
     "servingLabel": "10 Piece · 308g",
@@ -12742,12 +12944,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Fried Corn (Large) By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "wingstop_brownie",
-    "name": "Brownie By Wingstop",
-    "nameEs": "Brownie Por Wingstop",
+    "name": "Brownie",
+    "nameEs": "Brownie",
     "category": "Carbs",
     "emoji": "🍫",
     "servingLabel": "1 Piece · 98g",
@@ -12769,12 +12973,14 @@
     },
     "other": {
       "cholesterol": 85
-    }
+    },
+    "legacyName": "Brownie By Wingstop",
+    "brand": "Wingstop"
   },
   {
     "id": "cfa_spicy_chicken_biscuit",
-    "name": "Spicy Chicken Biscuit By Chick-fil-A",
-    "nameEs": "Bísquet de Pollo Picante Por Chick-fil-A",
+    "name": "Spicy Chicken Biscuit",
+    "nameEs": "Bísquet de Pollo Picante",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "153g",
@@ -12792,12 +12998,14 @@
     },
     "other": {
       "cholesterol": 40
-    }
+    },
+    "legacyName": "Spicy Chicken Biscuit By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chick_n_minis_4ct",
-    "name": "Chick-n-Minis (4 ct) By Chick-fil-A",
-    "nameEs": "Chick-n-Minis (4 uds) Por Chick-fil-A",
+    "name": "Chick-n-Minis (4 ct)",
+    "nameEs": "Chick-n-Minis (4 uds)",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "4 ct · 127g",
@@ -12815,12 +13023,14 @@
     },
     "other": {
       "cholesterol": 60
-    }
+    },
+    "legacyName": "Chick-n-Minis (4 ct) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chick_n_minis_10ct",
-    "name": "Chick-n-Minis (10 ct) By Chick-fil-A",
-    "nameEs": "Chick-n-Minis (10 uds) Por Chick-fil-A",
+    "name": "Chick-n-Minis (10 ct)",
+    "nameEs": "Chick-n-Minis (10 uds)",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "10 ct · 318g",
@@ -12838,12 +13048,14 @@
     },
     "other": {
       "cholesterol": 150
-    }
+    },
+    "legacyName": "Chick-n-Minis (10 ct) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_egg_white_grill",
-    "name": "Egg White Grill By Chick-fil-A",
-    "nameEs": "Egg White Grill Por Chick-fil-A",
+    "name": "Egg White Grill",
+    "nameEs": "Egg White Grill",
     "category": "Protein",
     "emoji": "🍳",
     "servingLabel": "172g",
@@ -12861,12 +13073,14 @@
     },
     "other": {
       "cholesterol": 65
-    }
+    },
+    "legacyName": "Egg White Grill By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_hash_brown_scramble_burrito",
-    "name": "Hash Brown Scramble Burrito By Chick-fil-A",
-    "nameEs": "Burrito de Papa Rallada Por Chick-fil-A",
+    "name": "Hash Brown Scramble Burrito",
+    "nameEs": "Burrito de Papa Rallada",
     "category": "Protein",
     "emoji": "🌯",
     "servingLabel": "304g",
@@ -12884,12 +13098,14 @@
     },
     "other": {
       "cholesterol": 415
-    }
+    },
+    "legacyName": "Hash Brown Scramble Burrito By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_hash_brown_scramble_burrito_sausage",
-    "name": "Hash Brown Scramble Burrito w/ Sausage By Chick-fil-A",
-    "nameEs": "Burrito de Papa Rallada con Salchicha Por Chick-fil-A",
+    "name": "Hash Brown Scramble Burrito w/ Sausage",
+    "nameEs": "Burrito de Papa Rallada con Salchicha",
     "category": "Protein",
     "emoji": "🌯",
     "servingLabel": "283g",
@@ -12907,12 +13123,14 @@
     },
     "other": {
       "cholesterol": 395
-    }
+    },
+    "legacyName": "Hash Brown Scramble Burrito w/ Sausage By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_hash_brown_scramble_burrito_grilled_filet",
-    "name": "Hash Brown Scramble Burrito w/ Grilled Filet By Chick-fil-A",
-    "nameEs": "Burrito de Papa Rallada con Filete a la Parrilla Por Chick-fil-A",
+    "name": "Hash Brown Scramble Burrito w/ Grilled Filet",
+    "nameEs": "Burrito de Papa Rallada con Filete a la Parrilla",
     "category": "Protein",
     "emoji": "🌯",
     "servingLabel": "301g",
@@ -12930,12 +13148,14 @@
     },
     "other": {
       "cholesterol": 420
-    }
+    },
+    "legacyName": "Hash Brown Scramble Burrito w/ Grilled Filet By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_hash_brown_scramble_burrito_bacon",
-    "name": "Hash Brown Scramble Burrito w/ Bacon By Chick-fil-A",
-    "nameEs": "Burrito de Papa Rallada con Tocino Por Chick-fil-A",
+    "name": "Hash Brown Scramble Burrito w/ Bacon",
+    "nameEs": "Burrito de Papa Rallada con Tocino",
     "category": "Protein",
     "emoji": "🌯",
     "servingLabel": "271g",
@@ -12953,12 +13173,14 @@
     },
     "other": {
       "cholesterol": 395
-    }
+    },
+    "legacyName": "Hash Brown Scramble Burrito w/ Bacon By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_hash_brown_scramble_bowl",
-    "name": "Hash Brown Scramble Bowl By Chick-fil-A",
-    "nameEs": "Tazón de Papa Rallada Por Chick-fil-A",
+    "name": "Hash Brown Scramble Bowl",
+    "nameEs": "Tazón de Papa Rallada",
     "category": "Protein",
     "emoji": "🥣",
     "servingLabel": "233g",
@@ -12976,12 +13198,14 @@
     },
     "other": {
       "cholesterol": 415
-    }
+    },
+    "legacyName": "Hash Brown Scramble Bowl By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chicken_egg_cheese_biscuit",
-    "name": "Chicken, Egg & Cheese Biscuit By Chick-fil-A",
-    "nameEs": "Bísquet de Pollo, Huevo y Queso Por Chick-fil-A",
+    "name": "Chicken, Egg & Cheese Biscuit",
+    "nameEs": "Bísquet de Pollo, Huevo y Queso",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "211g",
@@ -12999,12 +13223,14 @@
     },
     "other": {
       "cholesterol": 215
-    }
+    },
+    "legacyName": "Chicken, Egg & Cheese Biscuit By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_bacon_egg_cheese_biscuit",
-    "name": "Bacon, Egg & Cheese Biscuit By Chick-fil-A",
-    "nameEs": "Bísquet de Tocino, Huevo y Queso Por Chick-fil-A",
+    "name": "Bacon, Egg & Cheese Biscuit",
+    "nameEs": "Bísquet de Tocino, Huevo y Queso",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "145g",
@@ -13022,12 +13248,14 @@
     },
     "other": {
       "cholesterol": 180
-    }
+    },
+    "legacyName": "Bacon, Egg & Cheese Biscuit By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_sausage_egg_cheese_biscuit",
-    "name": "Sausage, Egg & Cheese Biscuit By Chick-fil-A",
-    "nameEs": "Bísquet de Salchicha, Huevo y Queso Por Chick-fil-A",
+    "name": "Sausage, Egg & Cheese Biscuit",
+    "nameEs": "Bísquet de Salchicha, Huevo y Queso",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "192g",
@@ -13045,12 +13273,14 @@
     },
     "other": {
       "cholesterol": 205
-    }
+    },
+    "legacyName": "Sausage, Egg & Cheese Biscuit By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chicken_egg_cheese_muffin",
-    "name": "Chicken, Egg & Cheese Muffin By Chick-fil-A",
-    "nameEs": "Muffin de Pollo, Huevo y Queso Por Chick-fil-A",
+    "name": "Chicken, Egg & Cheese Muffin",
+    "nameEs": "Muffin de Pollo, Huevo y Queso",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "187g",
@@ -13068,12 +13298,14 @@
     },
     "other": {
       "cholesterol": 215
-    }
+    },
+    "legacyName": "Chicken, Egg & Cheese Muffin By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_bacon_egg_cheese_muffin",
-    "name": "Bacon, Egg & Cheese Muffin By Chick-fil-A",
-    "nameEs": "Muffin de Tocino, Huevo y Queso Por Chick-fil-A",
+    "name": "Bacon, Egg & Cheese Muffin",
+    "nameEs": "Muffin de Tocino, Huevo y Queso",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "126g",
@@ -13091,12 +13323,14 @@
     },
     "other": {
       "cholesterol": 180
-    }
+    },
+    "legacyName": "Bacon, Egg & Cheese Muffin By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_sausage_egg_cheese_muffin",
-    "name": "Sausage, Egg & Cheese Muffin By Chick-fil-A",
-    "nameEs": "Muffin de Salchicha, Huevo y Queso Por Chick-fil-A",
+    "name": "Sausage, Egg & Cheese Muffin",
+    "nameEs": "Muffin de Salchicha, Huevo y Queso",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "173g",
@@ -13114,12 +13348,14 @@
     },
     "other": {
       "cholesterol": 205
-    }
+    },
+    "legacyName": "Sausage, Egg & Cheese Muffin By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_hash_browns",
-    "name": "Hash Browns By Chick-fil-A",
-    "nameEs": "Papas Ralladas Por Chick-fil-A",
+    "name": "Hash Browns",
+    "nameEs": "Papas Ralladas",
     "category": "Carbs",
     "emoji": "🥔",
     "servingLabel": "77g",
@@ -13137,12 +13373,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Hash Browns By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_hash_browns_large",
-    "name": "Hash Browns (Large) By Chick-fil-A",
-    "nameEs": "Papas Ralladas Grandes Por Chick-fil-A",
+    "name": "Hash Browns (Large)",
+    "nameEs": "Papas Ralladas Grandes",
     "category": "Carbs",
     "emoji": "🥔",
     "servingLabel": "121g",
@@ -13160,12 +13398,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Hash Browns (Large) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_berry_parfait",
-    "name": "Berry Parfait By Chick-fil-A",
-    "nameEs": "Parfait de Bayas Por Chick-fil-A",
+    "name": "Berry Parfait",
+    "nameEs": "Parfait de Bayas",
     "category": "Protein",
     "emoji": "🍓",
     "servingLabel": "206g",
@@ -13183,12 +13423,14 @@
     },
     "other": {
       "cholesterol": 20
-    }
+    },
+    "legacyName": "Berry Parfait By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_fruit_cup",
-    "name": "Fruit Cup By Chick-fil-A",
-    "nameEs": "Copa de Fruta Por Chick-fil-A",
+    "name": "Fruit Cup",
+    "nameEs": "Copa de Fruta",
     "category": "Veggies",
     "emoji": "🍉",
     "servingLabel": "125g",
@@ -13206,12 +13448,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Fruit Cup By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_buttery_biscuit",
-    "name": "Buttery Biscuit By Chick-fil-A",
-    "nameEs": "Bísquet con Mantequilla Por Chick-fil-A",
+    "name": "Buttery Biscuit",
+    "nameEs": "Bísquet con Mantequilla",
     "category": "Carbs",
     "emoji": "🥐",
     "servingLabel": "81g",
@@ -13229,12 +13473,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Buttery Biscuit By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_english_muffin",
-    "name": "English Muffin By Chick-fil-A",
-    "nameEs": "Muffin Inglés Por Chick-fil-A",
+    "name": "English Muffin",
+    "nameEs": "Muffin Inglés",
     "category": "Carbs",
     "emoji": "🥯",
     "servingLabel": "58g",
@@ -13252,12 +13498,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "English Muffin By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chicken_biscuit",
-    "name": "Chicken Biscuit By Chick-fil-A",
-    "nameEs": "Bísquet de Pollo Por Chick-fil-A",
+    "name": "Chicken Biscuit",
+    "nameEs": "Bísquet de Pollo",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "153g",
@@ -13275,12 +13523,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Chicken Biscuit By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_spicy_deluxe_sandwich",
-    "name": "Spicy Deluxe Sandwich By Chick-fil-A",
-    "nameEs": "Sándwich Deluxe Picante Por Chick-fil-A",
+    "name": "Spicy Deluxe Sandwich",
+    "nameEs": "Sándwich Deluxe Picante",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "259g",
@@ -13298,12 +13548,14 @@
     },
     "other": {
       "cholesterol": 85
-    }
+    },
+    "legacyName": "Spicy Deluxe Sandwich By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chick_n_strips_4ct",
-    "name": "Chick-n-Strips (4 ct) By Chick-fil-A",
-    "nameEs": "Chick-n-Strips (4 uds) Por Chick-fil-A",
+    "name": "Chick-n-Strips (4 ct)",
+    "nameEs": "Chick-n-Strips (4 uds)",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "4 ct · 181g",
@@ -13321,12 +13573,14 @@
     },
     "other": {
       "cholesterol": 100
-    }
+    },
+    "legacyName": "Chick-n-Strips (4 ct) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_nuggets_8ct",
-    "name": "Chick-fil-A Nuggets (8 ct) By Chick-fil-A",
-    "nameEs": "Nuggets (8 uds) Por Chick-fil-A",
+    "name": "Nuggets (8 ct)",
+    "nameEs": "Nuggets (8 uds)",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "8 ct · 113g",
@@ -13344,12 +13598,14 @@
     },
     "other": {
       "cholesterol": 85
-    }
+    },
+    "legacyName": "Chick-fil-A Nuggets (8 ct) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_grilled_nuggets_8ct",
-    "name": "Grilled Nuggets (8 ct) By Chick-fil-A",
-    "nameEs": "Nuggets a la Parrilla (8 uds) Por Chick-fil-A",
+    "name": "Grilled Nuggets (8 ct)",
+    "nameEs": "Nuggets a la Parrilla (8 uds)",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "8 ct · 95g",
@@ -13367,12 +13623,14 @@
     },
     "other": {
       "cholesterol": 85
-    }
+    },
+    "legacyName": "Grilled Nuggets (8 ct) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_deluxe_sandwich",
-    "name": "Chick-fil-A Deluxe Sandwich By Chick-fil-A",
-    "nameEs": "Sándwich Deluxe Por Chick-fil-A",
+    "name": "Deluxe Sandwich",
+    "nameEs": "Sándwich Deluxe",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "247g",
@@ -13390,12 +13648,14 @@
     },
     "other": {
       "cholesterol": 85
-    }
+    },
+    "legacyName": "Chick-fil-A Deluxe Sandwich By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_spicy_chicken_sandwich",
-    "name": "Spicy Chicken Sandwich By Chick-fil-A",
-    "nameEs": "Sándwich de Pollo Picante Por Chick-fil-A",
+    "name": "Spicy Chicken Sandwich",
+    "nameEs": "Sándwich de Pollo Picante",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "188g",
@@ -13413,12 +13673,14 @@
     },
     "other": {
       "cholesterol": 65
-    }
+    },
+    "legacyName": "Spicy Chicken Sandwich By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_grilled_chicken_sandwich",
-    "name": "Grilled Chicken Sandwich By Chick-fil-A",
-    "nameEs": "Sándwich de Pollo a la Parrilla Por Chick-fil-A",
+    "name": "Grilled Chicken Sandwich",
+    "nameEs": "Sándwich de Pollo a la Parrilla",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "206g",
@@ -13436,12 +13698,14 @@
     },
     "other": {
       "cholesterol": 75
-    }
+    },
+    "legacyName": "Grilled Chicken Sandwich By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_grilled_chicken_club_sandwich",
-    "name": "Grilled Chicken Club Sandwich By Chick-fil-A",
-    "nameEs": "Sándwich Club de Pollo a la Parrilla Por Chick-fil-A",
+    "name": "Grilled Chicken Club Sandwich",
+    "nameEs": "Sándwich Club de Pollo a la Parrilla",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "237g",
@@ -13459,12 +13723,14 @@
     },
     "other": {
       "cholesterol": 105
-    }
+    },
+    "legacyName": "Grilled Chicken Club Sandwich By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_cool_wrap",
-    "name": "Chick-fil-A Cool Wrap By Chick-fil-A",
-    "nameEs": "Cool Wrap Por Chick-fil-A",
+    "name": "Cool Wrap",
+    "nameEs": "Cool Wrap",
     "category": "Protein",
     "emoji": "🌯",
     "servingLabel": "231g",
@@ -13482,12 +13748,14 @@
     },
     "other": {
       "cholesterol": 110
-    }
+    },
+    "legacyName": "Chick-fil-A Cool Wrap By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chicken_sandwich",
-    "name": "Chick-fil-A Chicken Sandwich By Chick-fil-A",
-    "nameEs": "Sándwich de Pollo Clásico Por Chick-fil-A",
+    "name": "Chicken Sandwich",
+    "nameEs": "Sándwich de Pollo Clásico",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "183g",
@@ -13505,12 +13773,14 @@
     },
     "other": {
       "cholesterol": 70
-    }
+    },
+    "legacyName": "Chick-fil-A Chicken Sandwich By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_honey_pepper_pimento_sandwich_filet",
-    "name": "Honey Pepper Pimento Sandwich w/ Filet By Chick-fil-A",
-    "nameEs": "Sándwich de Pimiento con Miel y Pimienta (Filete) Por Chick-fil-A",
+    "name": "Honey Pepper Pimento Sandwich w/ Filet",
+    "nameEs": "Sándwich de Pimiento con Miel y Pimienta (Filete)",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "232g",
@@ -13528,12 +13798,14 @@
     },
     "other": {
       "cholesterol": 100
-    }
+    },
+    "legacyName": "Honey Pepper Pimento Sandwich w/ Filet By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_honey_pepper_pimento_sandwich_spicy_filet",
-    "name": "Honey Pepper Pimento Sandwich w/ Spicy Filet By Chick-fil-A",
-    "nameEs": "Sándwich de Pimiento con Miel y Pimienta (Picante) Por Chick-fil-A",
+    "name": "Honey Pepper Pimento Sandwich w/ Spicy Filet",
+    "nameEs": "Sándwich de Pimiento con Miel y Pimienta (Picante)",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "237g",
@@ -13551,12 +13823,14 @@
     },
     "other": {
       "cholesterol": 95
-    }
+    },
+    "legacyName": "Honey Pepper Pimento Sandwich w/ Spicy Filet By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_honey_pepper_pimento_sandwich_grilled_filet",
-    "name": "Honey Pepper Pimento Sandwich w/ Grilled Filet By Chick-fil-A",
-    "nameEs": "Sándwich de Pimiento con Miel y Pimienta (Parrilla) Por Chick-fil-A",
+    "name": "Honey Pepper Pimento Sandwich w/ Grilled Filet",
+    "nameEs": "Sándwich de Pimiento con Miel y Pimienta (Parrilla)",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "201g",
@@ -13574,12 +13848,14 @@
     },
     "other": {
       "cholesterol": 100
-    }
+    },
+    "legacyName": "Honey Pepper Pimento Sandwich w/ Grilled Filet By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_cobb_salad",
-    "name": "Cobb Salad By Chick-fil-A",
-    "nameEs": "Ensalada Cobb Por Chick-fil-A",
+    "name": "Cobb Salad",
+    "nameEs": "Ensalada Cobb",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "411g",
@@ -13597,12 +13873,14 @@
     },
     "other": {
       "cholesterol": 225
-    }
+    },
+    "legacyName": "Cobb Salad By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_spicy_southwest_salad",
-    "name": "Spicy Southwest Salad By Chick-fil-A",
-    "nameEs": "Ensalada Suroeste Picante Por Chick-fil-A",
+    "name": "Spicy Southwest Salad",
+    "nameEs": "Ensalada Suroeste Picante",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "424g",
@@ -13620,12 +13898,14 @@
     },
     "other": {
       "cholesterol": 100
-    }
+    },
+    "legacyName": "Spicy Southwest Salad By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_market_salad",
-    "name": "Market Salad By Chick-fil-A",
-    "nameEs": "Ensalada Market Por Chick-fil-A",
+    "name": "Market Salad",
+    "nameEs": "Ensalada Market",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "326g",
@@ -13643,12 +13923,14 @@
     },
     "other": {
       "cholesterol": 80
-    }
+    },
+    "legacyName": "Market Salad By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_kale_crunch_side",
-    "name": "Kale Crunch Side By Chick-fil-A",
-    "nameEs": "Ensalada de Col Rizada Por Chick-fil-A",
+    "name": "Kale Crunch Side",
+    "nameEs": "Ensalada de Col Rizada",
     "category": "Veggies",
     "emoji": "🥬",
     "servingLabel": "112g",
@@ -13666,12 +13948,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Kale Crunch Side By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_waffle_fries_small",
-    "name": "Waffle Potato Fries (Small) By Chick-fil-A",
-    "nameEs": "Papas Waffle Pequeñas Por Chick-fil-A",
+    "name": "Waffle Potato Fries (Small)",
+    "nameEs": "Papas Waffle Pequeñas",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "96g",
@@ -13689,12 +13973,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Waffle Potato Fries (Small) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_waffle_fries_medium",
-    "name": "Waffle Potato Fries (Medium) By Chick-fil-A",
-    "nameEs": "Papas Waffle Medianas Por Chick-fil-A",
+    "name": "Waffle Potato Fries (Medium)",
+    "nameEs": "Papas Waffle Medianas",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "125g",
@@ -13712,12 +13998,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Waffle Potato Fries (Medium) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_waffle_fries_large",
-    "name": "Waffle Potato Fries (Large) By Chick-fil-A",
-    "nameEs": "Papas Waffle Grandes Por Chick-fil-A",
+    "name": "Waffle Potato Fries (Large)",
+    "nameEs": "Papas Waffle Grandes",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "179g",
@@ -13735,12 +14023,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Waffle Potato Fries (Large) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_mac_cheese",
-    "name": "Mac & Cheese By Chick-fil-A",
-    "nameEs": "Mac & Cheese Por Chick-fil-A",
+    "name": "Mac & Cheese",
+    "nameEs": "Mac & Cheese",
     "category": "Carbs",
     "emoji": "🧀",
     "servingLabel": "227g",
@@ -13758,12 +14048,14 @@
     },
     "other": {
       "cholesterol": 70
-    }
+    },
+    "legacyName": "Mac & Cheese By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chicken_noodle_soup",
-    "name": "Chicken Noodle Soup (Cup) By Chick-fil-A",
-    "nameEs": "Sopa de Fideos con Pollo (Taza) Por Chick-fil-A",
+    "name": "Chicken Noodle Soup (Cup)",
+    "nameEs": "Sopa de Fideos con Pollo (Taza)",
     "category": "Protein",
     "emoji": "🍲",
     "servingLabel": "252g",
@@ -13781,12 +14073,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Chicken Noodle Soup (Cup) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_side_salad",
-    "name": "Side Salad By Chick-fil-A",
-    "nameEs": "Ensalada Pequeña Por Chick-fil-A",
+    "name": "Side Salad",
+    "nameEs": "Ensalada Pequeña",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "166g",
@@ -13804,12 +14098,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Side Salad By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chicken_tortilla_soup",
-    "name": "Chicken Tortilla Soup By Chick-fil-A",
-    "nameEs": "Sopa Azteca de Pollo Por Chick-fil-A",
+    "name": "Chicken Tortilla Soup",
+    "nameEs": "Sopa Azteca de Pollo",
     "category": "Protein",
     "emoji": "🍲",
     "servingLabel": "265g",
@@ -13827,12 +14123,14 @@
     },
     "other": {
       "cholesterol": 50
-    }
+    },
+    "legacyName": "Chicken Tortilla Soup By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_waffle_potato_chips",
-    "name": "Waffle Potato Chips (Original) By Chick-fil-A",
-    "nameEs": "Papas Waffle en Chips Por Chick-fil-A",
+    "name": "Waffle Potato Chips (Original)",
+    "nameEs": "Papas Waffle en Chips",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "43g",
@@ -13850,12 +14148,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Waffle Potato Chips (Original) By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chocolate_chunk_cookie",
-    "name": "Chocolate Chunk Cookie By Chick-fil-A",
-    "nameEs": "Galleta con Trozos de Chocolate Por Chick-fil-A",
+    "name": "Chocolate Chunk Cookie",
+    "nameEs": "Galleta con Trozos de Chocolate",
     "category": "Carbs",
     "emoji": "🍪",
     "servingLabel": "78g",
@@ -13873,12 +14173,14 @@
     },
     "other": {
       "cholesterol": 15
-    }
+    },
+    "legacyName": "Chocolate Chunk Cookie By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chocolate_fudge_brownie",
-    "name": "Chocolate Fudge Brownie By Chick-fil-A",
-    "nameEs": "Brownie de Chocolate Por Chick-fil-A",
+    "name": "Chocolate Fudge Brownie",
+    "nameEs": "Brownie de Chocolate",
     "category": "Carbs",
     "emoji": "🍫",
     "servingLabel": "85g",
@@ -13896,12 +14198,14 @@
     },
     "other": {
       "cholesterol": 65
-    }
+    },
+    "legacyName": "Chocolate Fudge Brownie By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_frosted_lemonade",
-    "name": "Frosted Lemonade By Chick-fil-A",
-    "nameEs": "Limonada Frosted Por Chick-fil-A",
+    "name": "Frosted Lemonade",
+    "nameEs": "Limonada Frosted",
     "category": "Carbs",
     "emoji": "🍋",
     "servingLabel": "383g",
@@ -13919,12 +14223,14 @@
     },
     "other": {
       "cholesterol": 25
-    }
+    },
+    "legacyName": "Frosted Lemonade By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_peach_milkshake",
-    "name": "Peach Milkshake By Chick-fil-A",
-    "nameEs": "Malteada de Durazno Por Chick-fil-A",
+    "name": "Peach Milkshake",
+    "nameEs": "Malteada de Durazno",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "412g",
@@ -13942,12 +14248,14 @@
     },
     "other": {
       "cholesterol": 70
-    }
+    },
+    "legacyName": "Peach Milkshake By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_cookies_cream_milkshake",
-    "name": "Cookies & Cream Milkshake By Chick-fil-A",
-    "nameEs": "Malteada Cookies & Cream Por Chick-fil-A",
+    "name": "Cookies & Cream Milkshake",
+    "nameEs": "Malteada Cookies & Cream",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "409g",
@@ -13965,12 +14273,14 @@
     },
     "other": {
       "cholesterol": 85
-    }
+    },
+    "legacyName": "Cookies & Cream Milkshake By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chocolate_milkshake",
-    "name": "Chocolate Milkshake By Chick-fil-A",
-    "nameEs": "Malteada de Chocolate Por Chick-fil-A",
+    "name": "Chocolate Milkshake",
+    "nameEs": "Malteada de Chocolate",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "409g",
@@ -13988,12 +14298,14 @@
     },
     "other": {
       "cholesterol": 85
-    }
+    },
+    "legacyName": "Chocolate Milkshake By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_strawberry_milkshake",
-    "name": "Strawberry Milkshake By Chick-fil-A",
-    "nameEs": "Malteada de Fresa Por Chick-fil-A",
+    "name": "Strawberry Milkshake",
+    "nameEs": "Malteada de Fresa",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "409g",
@@ -14011,12 +14323,14 @@
     },
     "other": {
       "cholesterol": 70
-    }
+    },
+    "legacyName": "Strawberry Milkshake By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_vanilla_milkshake",
-    "name": "Vanilla Milkshake By Chick-fil-A",
-    "nameEs": "Malteada de Vainilla Por Chick-fil-A",
+    "name": "Vanilla Milkshake",
+    "nameEs": "Malteada de Vainilla",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "409g",
@@ -14034,12 +14348,14 @@
     },
     "other": {
       "cholesterol": 90
-    }
+    },
+    "legacyName": "Vanilla Milkshake By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_icedream_cone",
-    "name": "Icedream Cone By Chick-fil-A",
-    "nameEs": "Icedream en Cono Por Chick-fil-A",
+    "name": "Icedream Cone",
+    "nameEs": "Icedream en Cono",
     "category": "Carbs",
     "emoji": "🍦",
     "servingLabel": "135g",
@@ -14057,12 +14373,14 @@
     },
     "other": {
       "cholesterol": 15
-    }
+    },
+    "legacyName": "Icedream Cone By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_icedream_cup",
-    "name": "Icedream Cup By Chick-fil-A",
-    "nameEs": "Icedream en Copa Por Chick-fil-A",
+    "name": "Icedream Cup",
+    "nameEs": "Icedream en Copa",
     "category": "Carbs",
     "emoji": "🍦",
     "servingLabel": "122g",
@@ -14080,12 +14398,14 @@
     },
     "other": {
       "cholesterol": 15
-    }
+    },
+    "legacyName": "Icedream Cup By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_sweet_iced_tea",
-    "name": "Freshly-Brewed Sweetened Iced Tea By Chick-fil-A",
-    "nameEs": "Té Helado Endulzado Por Chick-fil-A",
+    "name": "Freshly-Brewed Sweetened Iced Tea",
+    "nameEs": "Té Helado Endulzado",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍵",
     "servingLabel": "Medium · 604g",
@@ -14103,12 +14423,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Freshly-Brewed Sweetened Iced Tea By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_lemonade",
-    "name": "Chick-fil-A Lemonade By Chick-fil-A",
-    "nameEs": "Limonada Por Chick-fil-A",
+    "name": "Lemonade",
+    "nameEs": "Limonada",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍋",
     "servingLabel": "Medium · 612g",
@@ -14126,12 +14448,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Chick-fil-A Lemonade By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_diet_lemonade",
-    "name": "Chick-fil-A Diet Lemonade By Chick-fil-A",
-    "nameEs": "Limonada Dietética Por Chick-fil-A",
+    "name": "Diet Lemonade",
+    "nameEs": "Limonada Dietética",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍋",
     "servingLabel": "Medium · 612g",
@@ -14149,12 +14473,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Chick-fil-A Diet Lemonade By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_simply_orange",
-    "name": "Simply Orange By Chick-fil-A",
-    "nameEs": "Jugo de Naranja Por Chick-fil-A",
+    "name": "Simply Orange",
+    "nameEs": "Jugo de Naranja",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍊",
     "servingLabel": "326g",
@@ -14172,12 +14498,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Simply Orange By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_chick_fil_a_sauce",
-    "name": "Chick-fil-A Sauce By Chick-fil-A",
-    "nameEs": "Salsa Chick-fil-A Por Chick-fil-A",
+    "name": "Chick-fil-A Sauce",
+    "nameEs": "Salsa Chick-fil-A",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "28g",
@@ -14195,12 +14523,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Chick-fil-A Sauce By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_polynesian_sauce",
-    "name": "Polynesian Sauce By Chick-fil-A",
-    "nameEs": "Salsa Polinesia Por Chick-fil-A",
+    "name": "Polynesian Sauce",
+    "nameEs": "Salsa Polinesia",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "28g",
@@ -14218,12 +14548,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Polynesian Sauce By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_honey_mustard_sauce",
-    "name": "Honey Mustard Sauce By Chick-fil-A",
-    "nameEs": "Salsa de Miel y Mostaza Por Chick-fil-A",
+    "name": "Honey Mustard Sauce",
+    "nameEs": "Salsa de Miel y Mostaza",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "28g",
@@ -14241,12 +14573,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Honey Mustard Sauce By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_garden_herb_ranch_sauce",
-    "name": "Garden Herb Ranch Sauce By Chick-fil-A",
-    "nameEs": "Salsa Ranch de Hierbas Por Chick-fil-A",
+    "name": "Garden Herb Ranch Sauce",
+    "nameEs": "Salsa Ranch de Hierbas",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "21g",
@@ -14264,12 +14598,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Garden Herb Ranch Sauce By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_zesty_buffalo_sauce",
-    "name": "Zesty Buffalo Sauce By Chick-fil-A",
-    "nameEs": "Salsa Buffalo Por Chick-fil-A",
+    "name": "Zesty Buffalo Sauce",
+    "nameEs": "Salsa Buffalo",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "21g",
@@ -14287,12 +14623,14 @@
     },
     "other": {
       "cholesterol": 5
-    }
+    },
+    "legacyName": "Zesty Buffalo Sauce By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_barbeque_sauce",
-    "name": "Barbeque Sauce By Chick-fil-A",
-    "nameEs": "Salsa BBQ Por Chick-fil-A",
+    "name": "Barbeque Sauce",
+    "nameEs": "Salsa BBQ",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "28g",
@@ -14310,12 +14648,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Barbeque Sauce By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_sweet_spicy_sriracha_sauce",
-    "name": "Sweet & Spicy Sriracha Sauce By Chick-fil-A",
-    "nameEs": "Salsa Sriracha Dulce y Picante Por Chick-fil-A",
+    "name": "Sweet & Spicy Sriracha Sauce",
+    "nameEs": "Salsa Sriracha Dulce y Picante",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "28g",
@@ -14333,12 +14673,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Sweet & Spicy Sriracha Sauce By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_avocado_lime_ranch_dressing",
-    "name": "Avocado Lime Ranch Dressing By Chick-fil-A",
-    "nameEs": "Aderezo Ranch de Aguacate y Limón Por Chick-fil-A",
+    "name": "Avocado Lime Ranch Dressing",
+    "nameEs": "Aderezo Ranch de Aguacate y Limón",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "57g",
@@ -14356,12 +14698,14 @@
     },
     "other": {
       "cholesterol": 25
-    }
+    },
+    "legacyName": "Avocado Lime Ranch Dressing By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_garden_herb_ranch_dressing",
-    "name": "Garden Herb Ranch Dressing By Chick-fil-A",
-    "nameEs": "Aderezo Ranch de Hierbas Por Chick-fil-A",
+    "name": "Garden Herb Ranch Dressing",
+    "nameEs": "Aderezo Ranch de Hierbas",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "57g",
@@ -14379,12 +14723,14 @@
     },
     "other": {
       "cholesterol": 25
-    }
+    },
+    "legacyName": "Garden Herb Ranch Dressing By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_light_italian_dressing",
-    "name": "Light Italian Dressing By Chick-fil-A",
-    "nameEs": "Aderezo Italiano Ligero Por Chick-fil-A",
+    "name": "Light Italian Dressing",
+    "nameEs": "Aderezo Italiano Ligero",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "57g",
@@ -14402,12 +14748,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Light Italian Dressing By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_zesty_apple_cider_vinaigrette",
-    "name": "Zesty Apple Cider Vinaigrette By Chick-fil-A",
-    "nameEs": "Vinagreta de Sidra de Manzana Por Chick-fil-A",
+    "name": "Zesty Apple Cider Vinaigrette",
+    "nameEs": "Vinagreta de Sidra de Manzana",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "56g",
@@ -14425,12 +14773,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Zesty Apple Cider Vinaigrette By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "cfa_fat_free_honey_mustard_dressing",
-    "name": "Fat-Free Honey Mustard Dressing By Chick-fil-A",
-    "nameEs": "Aderezo de Miel y Mostaza Sin Grasa Por Chick-fil-A",
+    "name": "Fat-Free Honey Mustard Dressing",
+    "nameEs": "Aderezo de Miel y Mostaza Sin Grasa",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "57g",
@@ -14448,12 +14798,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Fat-Free Honey Mustard Dressing By Chick-fil-A",
+    "brand": "Chick-fil-A"
   },
   {
     "id": "ino_double_double",
-    "name": "Double-Double By In-N-Out",
-    "nameEs": "Double-Double Por In-N-Out",
+    "name": "Double-Double",
+    "nameEs": "Double-Double",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "287g",
@@ -14471,12 +14823,14 @@
     },
     "other": {
       "cholesterol": 110
-    }
+    },
+    "legacyName": "Double-Double By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_double_double_mustard_ketchup",
-    "name": "Double-Double (Mustard & Ketchup) By In-N-Out",
-    "nameEs": "Double-Double (Mostaza y Ketchup) Por In-N-Out",
+    "name": "Double-Double (Mustard & Ketchup)",
+    "nameEs": "Double-Double (Mostaza y Ketchup)",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "280g",
@@ -14494,12 +14848,14 @@
     },
     "other": {
       "cholesterol": 105
-    }
+    },
+    "legacyName": "Double-Double (Mustard & Ketchup) By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_double_double_protein_style",
-    "name": "Double-Double Protein Style By In-N-Out",
-    "nameEs": "Double-Double Estilo Proteína Por In-N-Out",
+    "name": "Double-Double Protein Style",
+    "nameEs": "Double-Double Estilo Proteína",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "289g",
@@ -14517,12 +14873,14 @@
     },
     "other": {
       "cholesterol": 110
-    }
+    },
+    "legacyName": "Double-Double Protein Style By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_cheeseburger",
-    "name": "Cheeseburger By In-N-Out",
-    "nameEs": "Hamburguesa con Queso Por In-N-Out",
+    "name": "Cheeseburger",
+    "nameEs": "Hamburguesa con Queso",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "229g",
@@ -14540,12 +14898,14 @@
     },
     "other": {
       "cholesterol": 55
-    }
+    },
+    "legacyName": "Cheeseburger By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_cheeseburger_mustard_ketchup",
-    "name": "Cheeseburger (Mustard & Ketchup) By In-N-Out",
-    "nameEs": "Hamburguesa con Queso (Mostaza y Ketchup) Por In-N-Out",
+    "name": "Cheeseburger (Mustard & Ketchup)",
+    "nameEs": "Hamburguesa con Queso (Mostaza y Ketchup)",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "222g",
@@ -14563,12 +14923,14 @@
     },
     "other": {
       "cholesterol": 55
-    }
+    },
+    "legacyName": "Cheeseburger (Mustard & Ketchup) By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_cheeseburger_protein_style",
-    "name": "Cheeseburger Protein Style By In-N-Out",
-    "nameEs": "Hamburguesa con Queso Estilo Proteína Por In-N-Out",
+    "name": "Cheeseburger Protein Style",
+    "nameEs": "Hamburguesa con Queso Estilo Proteína",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "231g",
@@ -14586,12 +14948,14 @@
     },
     "other": {
       "cholesterol": 55
-    }
+    },
+    "legacyName": "Cheeseburger Protein Style By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_hamburger",
-    "name": "Hamburger By In-N-Out",
-    "nameEs": "Hamburguesa Por In-N-Out",
+    "name": "Hamburger",
+    "nameEs": "Hamburguesa",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "209g",
@@ -14609,12 +14973,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Hamburger By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_hamburger_mustard_ketchup",
-    "name": "Hamburger (Mustard & Ketchup) By In-N-Out",
-    "nameEs": "Hamburguesa (Mostaza y Ketchup) Por In-N-Out",
+    "name": "Hamburger (Mustard & Ketchup)",
+    "nameEs": "Hamburguesa (Mostaza y Ketchup)",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "202g",
@@ -14632,12 +14998,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Hamburger (Mustard & Ketchup) By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_hamburger_protein_style",
-    "name": "Hamburger Protein Style By In-N-Out",
-    "nameEs": "Hamburguesa Estilo Proteína Por In-N-Out",
+    "name": "Hamburger Protein Style",
+    "nameEs": "Hamburguesa Estilo Proteína",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "211g",
@@ -14655,12 +15023,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Hamburger Protein Style By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_french_fries",
-    "name": "French Fries By In-N-Out",
-    "nameEs": "Papas Fritas Por In-N-Out",
+    "name": "French Fries",
+    "nameEs": "Papas Fritas",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "125g",
@@ -14678,12 +15048,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "French Fries By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_chocolate_shake",
-    "name": "Chocolate Shake By In-N-Out",
-    "nameEs": "Malteada de Chocolate Por In-N-Out",
+    "name": "Chocolate Shake",
+    "nameEs": "Malteada de Chocolate",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14701,12 +15073,14 @@
     },
     "other": {
       "cholesterol": 110
-    }
+    },
+    "legacyName": "Chocolate Shake By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_vanilla_shake",
-    "name": "Vanilla Shake By In-N-Out",
-    "nameEs": "Malteada de Vainilla Por In-N-Out",
+    "name": "Vanilla Shake",
+    "nameEs": "Malteada de Vainilla",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14724,12 +15098,14 @@
     },
     "other": {
       "cholesterol": 115
-    }
+    },
+    "legacyName": "Vanilla Shake By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_strawberry_shake",
-    "name": "Strawberry Shake By In-N-Out",
-    "nameEs": "Malteada de Fresa Por In-N-Out",
+    "name": "Strawberry Shake",
+    "nameEs": "Malteada de Fresa",
     "category": "Carbs",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14747,12 +15123,14 @@
     },
     "other": {
       "cholesterol": 110
-    }
+    },
+    "legacyName": "Strawberry Shake By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_coca_cola",
-    "name": "Coca-Cola By In-N-Out",
-    "nameEs": "Coca-Cola Por In-N-Out",
+    "name": "Coca-Cola",
+    "nameEs": "Coca-Cola",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14770,12 +15148,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Coca-Cola By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_diet_coca_cola",
-    "name": "Diet Coca-Cola By In-N-Out",
-    "nameEs": "Coca-Cola Dietética Por In-N-Out",
+    "name": "Diet Coca-Cola",
+    "nameEs": "Coca-Cola Dietética",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14793,12 +15173,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Diet Coca-Cola By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_cherry_coke",
-    "name": "Cherry Coke By In-N-Out",
-    "nameEs": "Cherry Coke Por In-N-Out",
+    "name": "Cherry Coke",
+    "nameEs": "Cherry Coke",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14816,12 +15198,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Cherry Coke By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_barqs_root_beer",
-    "name": "Barq's Root Beer By In-N-Out",
-    "nameEs": "Cerveza de Raíz Barq's Por In-N-Out",
+    "name": "Barq's Root Beer",
+    "nameEs": "Cerveza de Raíz Barq's",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14839,12 +15223,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Barq's Root Beer By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_7up",
-    "name": "7-Up By In-N-Out",
-    "nameEs": "7-Up Por In-N-Out",
+    "name": "7-Up",
+    "nameEs": "7-Up",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14862,12 +15248,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "7-Up By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_dr_pepper",
-    "name": "Dr. Pepper By In-N-Out",
-    "nameEs": "Dr. Pepper Por In-N-Out",
+    "name": "Dr. Pepper",
+    "nameEs": "Dr. Pepper",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥤",
     "servingLabel": "15 fl oz",
@@ -14885,12 +15273,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Dr. Pepper By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_pink_lemonade",
-    "name": "Signature Pink Lemonade By In-N-Out",
-    "nameEs": "Limonada Rosa Por In-N-Out",
+    "name": "Signature Pink Lemonade",
+    "nameEs": "Limonada Rosa",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍋",
     "servingLabel": "15 fl oz",
@@ -14908,12 +15298,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Signature Pink Lemonade By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_lite_pink_lemonade",
-    "name": "Lite Pink Lemonade By In-N-Out",
-    "nameEs": "Limonada Rosa Ligera Por In-N-Out",
+    "name": "Lite Pink Lemonade",
+    "nameEs": "Limonada Rosa Ligera",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍋",
     "servingLabel": "15 fl oz",
@@ -14931,12 +15323,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Lite Pink Lemonade By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_sweet_iced_tea",
-    "name": "Sweet Iced Tea By In-N-Out",
-    "nameEs": "Té Helado Dulce Por In-N-Out",
+    "name": "Sweet Iced Tea",
+    "nameEs": "Té Helado Dulce",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍵",
     "servingLabel": "14 fl oz",
@@ -14954,12 +15348,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Sweet Iced Tea By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_unsweetened_iced_tea",
-    "name": "Unsweetened Iced Tea By In-N-Out",
-    "nameEs": "Té Helado sin Azúcar Por In-N-Out",
+    "name": "Unsweetened Iced Tea",
+    "nameEs": "Té Helado sin Azúcar",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🍵",
     "servingLabel": "14 fl oz",
@@ -14977,12 +15373,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Unsweetened Iced Tea By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_milk",
-    "name": "Milk By In-N-Out",
-    "nameEs": "Leche Por In-N-Out",
+    "name": "Milk",
+    "nameEs": "Leche",
     "category": "Protein",
     "emoji": "🥛",
     "servingLabel": "10 fl oz",
@@ -15000,12 +15398,14 @@
     },
     "other": {
       "cholesterol": 25
-    }
+    },
+    "legacyName": "Milk By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_hot_cocoa",
-    "name": "Hot Cocoa By In-N-Out",
-    "nameEs": "Chocolate Caliente Por In-N-Out",
+    "name": "Hot Cocoa",
+    "nameEs": "Chocolate Caliente",
     "category": "Carbs",
     "emoji": "☕",
     "servingLabel": "8 fl oz",
@@ -15023,12 +15423,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Hot Cocoa By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_spread_packet",
-    "name": "Spread Packet By In-N-Out",
-    "nameEs": "Paquete de Aderezo Por In-N-Out",
+    "name": "Spread Packet",
+    "nameEs": "Paquete de Aderezo",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "28g",
@@ -15046,12 +15448,14 @@
     },
     "other": {
       "cholesterol": 5
-    }
+    },
+    "legacyName": "Spread Packet By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_ketchup_packet",
-    "name": "Ketchup Packet By In-N-Out",
-    "nameEs": "Paquete de Ketchup Por In-N-Out",
+    "name": "Ketchup Packet",
+    "nameEs": "Paquete de Ketchup",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "11g",
@@ -15069,12 +15473,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Ketchup Packet By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_mustard_packet",
-    "name": "Mustard Packet By In-N-Out",
-    "nameEs": "Paquete de Mostaza Por In-N-Out",
+    "name": "Mustard Packet",
+    "nameEs": "Paquete de Mostaza",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "7g",
@@ -15092,12 +15498,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Mustard Packet By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "ino_grilled_onions",
-    "name": "Grilled Onions By In-N-Out",
-    "nameEs": "Cebollas a la Parrilla Por In-N-Out",
+    "name": "Grilled Onions",
+    "nameEs": "Cebollas a la Parrilla",
     "category": "Veggies",
     "emoji": "🧅",
     "servingLabel": "27g",
@@ -15115,12 +15523,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Grilled Onions By In-N-Out",
+    "brand": "In-N-Out"
   },
   {
     "id": "panda_chow_fun",
-    "name": "Chow Fun By Panda Express",
-    "nameEs": "Chow Fun Por Panda Express",
+    "name": "Chow Fun",
+    "nameEs": "Chow Fun",
     "category": "Carbs",
     "emoji": "🍜",
     "servingLabel": "8.5 oz · 241g",
@@ -15137,12 +15547,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Chow Fun By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_chow_mein",
-    "name": "Chow Mein By Panda Express",
-    "nameEs": "Chow Mein Por Panda Express",
+    "name": "Chow Mein",
+    "nameEs": "Chow Mein",
     "category": "Carbs",
     "emoji": "🍜",
     "servingLabel": "11 oz · 312g",
@@ -15159,12 +15571,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Chow Mein By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "sqweeze_pop_sqwincher",
-    "name": "Sqweeze Pop By Sqwincher",
-    "nameEs": "Paleta Sqweeze Por Sqwincher",
+    "name": "Sqweeze Pop",
+    "nameEs": "Paleta Sqweeze",
     "category": "Carbs",
     "emoji": "🧊",
     "servingLabel": "1 Pop · 89 mL",
@@ -15189,12 +15603,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Sqweeze Pop By Sqwincher",
+    "brand": "Sqwincher"
   },
   {
     "id": "doritos_cool_ranch",
-    "name": "Cool Ranch By Doritos",
-    "nameEs": "Cool Ranch Por Doritos",
+    "name": "Cool Ranch Tortilla Chips",
+    "nameEs": "Cool Ranch",
     "category": "Carbs",
     "emoji": "🔺",
     "servingLabel": "1 oz · 28.3 g",
@@ -15219,12 +15635,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Cool Ranch By Doritos",
+    "brand": "Doritos"
   },
   {
     "id": "goldfish_cheddar_baked_pepperidge_farm",
-    "name": "Cheddar Baked By Pepperidge Farm Goldfish",
-    "nameEs": "Cheddar Horneado Por Pepperidge Farm Goldfish",
+    "name": "Goldfish Cheddar Baked Crackers",
+    "nameEs": "Cheddar Horneado",
     "category": "Carbs",
     "emoji": "🐟",
     "servingLabel": "1 Pack · 28 g",
@@ -15255,12 +15673,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Cheddar Baked By Pepperidge Farm Goldfish",
+    "brand": "Pepperidge Farm"
   },
   {
     "id": "panda_fried_rice",
-    "name": "Fried Rice By Panda Express",
-    "nameEs": "Arroz Frito Por Panda Express",
+    "name": "Fried Rice",
+    "nameEs": "Arroz Frito",
     "category": "Carbs",
     "emoji": "🍚",
     "servingLabel": "11 oz · 312g",
@@ -15277,12 +15697,14 @@
     },
     "other": {
       "cholesterol": 140
-    }
+    },
+    "legacyName": "Fried Rice By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_super_greens",
-    "name": "Super Greens By Panda Express",
-    "nameEs": "Super Greens Por Panda Express",
+    "name": "Super Greens",
+    "nameEs": "Super Greens",
     "category": "Veggies",
     "emoji": "🥦",
     "servingLabel": "10 oz · 283g",
@@ -15299,12 +15721,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Super Greens By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_eggplant_tofu",
-    "name": "Eggplant Tofu By Panda Express",
-    "nameEs": "Berenjena con Tofu Por Panda Express",
+    "name": "Eggplant Tofu",
+    "nameEs": "Berenjena con Tofu",
     "category": "Veggies",
     "emoji": "🍆",
     "servingLabel": "6.1 oz · 173g",
@@ -15321,12 +15745,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Eggplant Tofu By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_super_greens_entree",
-    "name": "Super Greens Entree By Panda Express",
-    "nameEs": "Super Greens (Entrada) Por Panda Express",
+    "name": "Super Greens Entree",
+    "nameEs": "Super Greens (Entrada)",
     "category": "Veggies",
     "emoji": "🥦",
     "servingLabel": "7 oz · 198g",
@@ -15343,12 +15769,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Super Greens Entree By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_black_pepper_chicken",
-    "name": "Black Pepper Chicken By Panda Express",
-    "nameEs": "Pollo con Pimienta Negra Por Panda Express",
+    "name": "Black Pepper Chicken",
+    "nameEs": "Pollo con Pimienta Negra",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "6.3 oz · 179g",
@@ -15365,12 +15793,14 @@
     },
     "other": {
       "cholesterol": 55
-    }
+    },
+    "legacyName": "Black Pepper Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_grilled_teriyaki_chicken",
-    "name": "Grilled Teriyaki Chicken By Panda Express",
-    "nameEs": "Pollo Teriyaki a la Parrilla Por Panda Express",
+    "name": "Grilled Teriyaki Chicken",
+    "nameEs": "Pollo Teriyaki a la Parrilla",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "6 oz · 170g",
@@ -15387,12 +15817,14 @@
     },
     "other": {
       "cholesterol": 160
-    }
+    },
+    "legacyName": "Grilled Teriyaki Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_hot_orange_chicken",
-    "name": "Hot Orange Chicken By Panda Express",
-    "nameEs": "Pollo Naranja Picante Por Panda Express",
+    "name": "Hot Orange Chicken",
+    "nameEs": "Pollo Naranja Picante",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.92 oz · 168g",
@@ -15409,12 +15841,14 @@
     },
     "other": {
       "cholesterol": 55
-    }
+    },
+    "legacyName": "Hot Orange Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_kung_pao_chicken",
-    "name": "Kung Pao Chicken By Panda Express",
-    "nameEs": "Pollo Kung Pao Por Panda Express",
+    "name": "Kung Pao Chicken",
+    "nameEs": "Pollo Kung Pao",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "6.73 oz · 191g",
@@ -15431,12 +15865,14 @@
     },
     "other": {
       "cholesterol": 60
-    }
+    },
+    "legacyName": "Kung Pao Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_mushroom_chicken",
-    "name": "Mushroom Chicken By Panda Express",
-    "nameEs": "Pollo con Champiñones Por Panda Express",
+    "name": "Mushroom Chicken",
+    "nameEs": "Pollo con Champiñones",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.7 oz · 162g",
@@ -15453,12 +15889,14 @@
     },
     "other": {
       "cholesterol": 50
-    }
+    },
+    "legacyName": "Mushroom Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_orange_chicken",
-    "name": "Orange Chicken By Panda Express",
-    "nameEs": "Pollo Naranja Por Panda Express",
+    "name": "Orange Chicken",
+    "nameEs": "Pollo Naranja",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.92 oz · 168g",
@@ -15475,12 +15913,14 @@
     },
     "other": {
       "cholesterol": 86
-    }
+    },
+    "legacyName": "Orange Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_potato_chicken",
-    "name": "Potato Chicken By Panda Express",
-    "nameEs": "Pollo con Papa Por Panda Express",
+    "name": "Potato Chicken",
+    "nameEs": "Pollo con Papa",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.2 oz · 147g",
@@ -15497,12 +15937,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Potato Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_teriyaki_chicken",
-    "name": "Teriyaki Chicken By Panda Express",
-    "nameEs": "Pollo Teriyaki Por Panda Express",
+    "name": "Teriyaki Chicken",
+    "nameEs": "Pollo Teriyaki",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "6 oz · 170g",
@@ -15519,12 +15961,14 @@
     },
     "other": {
       "cholesterol": 195
-    }
+    },
+    "legacyName": "Teriyaki Chicken By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_honey_sesame_chicken_breast",
-    "name": "Honey Sesame Chicken Breast By Panda Express",
-    "nameEs": "Pechuga de Pollo con Miel y Sésamo Por Panda Express",
+    "name": "Honey Sesame Chicken Breast",
+    "nameEs": "Pechuga de Pollo con Miel y Sésamo",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.3 oz · 150g",
@@ -15541,12 +15985,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Honey Sesame Chicken Breast By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_string_bean_chicken_breast",
-    "name": "String Bean Chicken Breast By Panda Express",
-    "nameEs": "Pechuga de Pollo con Ejotes Por Panda Express",
+    "name": "String Bean Chicken Breast",
+    "nameEs": "Pechuga de Pollo con Ejotes",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.6 oz · 159g",
@@ -15563,12 +16009,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "String Bean Chicken Breast By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_sweet_sour_chicken_breast",
-    "name": "Sweet & Sour Chicken Breast By Panda Express",
-    "nameEs": "Pechuga de Pollo Agridulce Por Panda Express",
+    "name": "Sweet & Sour Chicken Breast",
+    "nameEs": "Pechuga de Pollo Agridulce",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.5 oz · 156g",
@@ -15585,12 +16033,14 @@
     },
     "other": {
       "cholesterol": 25
-    }
+    },
+    "legacyName": "Sweet & Sour Chicken Breast By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_sweetfire_chicken_breast",
-    "name": "Sweetfire Chicken Breast By Panda Express",
-    "nameEs": "Pechuga de Pollo Sweetfire Por Panda Express",
+    "name": "Sweetfire Chicken Breast",
+    "nameEs": "Pechuga de Pollo Sweetfire",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.8 oz · 164g",
@@ -15607,12 +16057,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Sweetfire Chicken Breast By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_beijing_beef",
-    "name": "Beijing Beef By Panda Express",
-    "nameEs": "Res Estilo Beijing Por Panda Express",
+    "name": "Beijing Beef",
+    "nameEs": "Res Estilo Beijing",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.6 oz · 159g",
@@ -15629,12 +16081,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Beijing Beef By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_black_pepper_sirloin_steak",
-    "name": "Black Pepper Sirloin Steak By Panda Express",
-    "nameEs": "Bistec con Pimienta Negra Por Panda Express",
+    "name": "Black Pepper Sirloin Steak",
+    "nameEs": "Bistec con Pimienta Negra",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.1 oz · 145g",
@@ -15651,12 +16105,14 @@
     },
     "other": {
       "cholesterol": 45
-    }
+    },
+    "legacyName": "Black Pepper Sirloin Steak By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_broccoli_beef",
-    "name": "Broccoli Beef By Panda Express",
-    "nameEs": "Res con Brócoli Por Panda Express",
+    "name": "Broccoli Beef",
+    "nameEs": "Res con Brócoli",
     "category": "Protein",
     "emoji": "🥡",
     "servingLabel": "5.44 oz · 154g",
@@ -15673,12 +16129,14 @@
     },
     "other": {
       "cholesterol": 27
-    }
+    },
+    "legacyName": "Broccoli Beef By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_honey_walnut_shrimp",
-    "name": "Honey Walnut Shrimp By Panda Express",
-    "nameEs": "Camarón con Miel y Nueces Por Panda Express",
+    "name": "Honey Walnut Shrimp",
+    "nameEs": "Camarón con Miel y Nueces",
     "category": "Protein",
     "emoji": "🍤",
     "servingLabel": "4.39 oz · 124g",
@@ -15695,12 +16153,14 @@
     },
     "other": {
       "cholesterol": 70
-    }
+    },
+    "legacyName": "Honey Walnut Shrimp By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_steamed_ginger_fish",
-    "name": "Steamed Ginger Fish By Panda Express",
-    "nameEs": "Pescado al Vapor con Jengibre Por Panda Express",
+    "name": "Steamed Ginger Fish",
+    "nameEs": "Pescado al Vapor con Jengibre",
     "category": "Protein",
     "emoji": "🐟",
     "servingLabel": "6 oz · 170g",
@@ -15717,12 +16177,14 @@
     },
     "other": {
       "cholesterol": 40
-    }
+    },
+    "legacyName": "Steamed Ginger Fish By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_wok_fired_shrimp",
-    "name": "Wok-Fired Shrimp By Panda Express",
-    "nameEs": "Camarón al Wok Por Panda Express",
+    "name": "Wok-Fired Shrimp",
+    "nameEs": "Camarón al Wok",
     "category": "Protein",
     "emoji": "🍤",
     "servingLabel": "6 oz · 170g",
@@ -15739,12 +16201,14 @@
     },
     "other": {
       "cholesterol": 140
-    }
+    },
+    "legacyName": "Wok-Fired Shrimp By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_chicken_egg_roll",
-    "name": "Chicken Egg Roll (1 Roll) By Panda Express",
-    "nameEs": "Rollo de Huevo con Pollo (1 Rollo) Por Panda Express",
+    "name": "Chicken Egg Roll (1 Roll)",
+    "nameEs": "Rollo de Huevo con Pollo (1 Rollo)",
     "category": "Protein",
     "emoji": "🥟",
     "servingLabel": "2.75 oz · 78g",
@@ -15761,12 +16225,14 @@
     },
     "other": {
       "cholesterol": 20
-    }
+    },
+    "legacyName": "Chicken Egg Roll (1 Roll) By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_chicken_potsticker",
-    "name": "Chicken Potsticker (3 pcs) By Panda Express",
-    "nameEs": "Potsticker de Pollo (3 uds) Por Panda Express",
+    "name": "Chicken Potsticker (3 pcs)",
+    "nameEs": "Potsticker de Pollo (3 uds)",
     "category": "Protein",
     "emoji": "🥟",
     "servingLabel": "3.3 oz · 94g",
@@ -15783,12 +16249,14 @@
     },
     "other": {
       "cholesterol": 20
-    }
+    },
+    "legacyName": "Chicken Potsticker (3 pcs) By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_cream_cheese_rangoon",
-    "name": "Cream Cheese Rangoon (3 pcs) By Panda Express",
-    "nameEs": "Rangoon de Queso Crema (3 uds) Por Panda Express",
+    "name": "Cream Cheese Rangoon (3 pcs)",
+    "nameEs": "Rangoon de Queso Crema (3 uds)",
     "category": "Protein",
     "emoji": "🥟",
     "servingLabel": "2.4 oz · 68g",
@@ -15805,12 +16273,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Cream Cheese Rangoon (3 pcs) By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_vegetable_spring_roll",
-    "name": "Vegetable Spring Roll (2 Rolls) By Panda Express",
-    "nameEs": "Rollo Primavera de Vegetales (2 Rollos) Por Panda Express",
+    "name": "Vegetable Spring Roll (2 Rolls)",
+    "nameEs": "Rollo Primavera de Vegetales (2 Rollos)",
     "category": "Veggies",
     "emoji": "🥟",
     "servingLabel": "3.5 oz · 99g",
@@ -15827,12 +16297,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Vegetable Spring Roll (2 Rolls) By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_broccoli_beef_cub_meal",
-    "name": "Broccoli Beef Cub Meal By Panda Express",
-    "nameEs": "Cub Meal de Res con Brócoli Por Panda Express",
+    "name": "Broccoli Beef Cub Meal",
+    "nameEs": "Cub Meal de Res con Brócoli",
     "category": "Protein",
     "emoji": "🍱",
     "servingLabel": "9.5 oz · 269g",
@@ -15849,12 +16321,14 @@
     },
     "other": {
       "cholesterol": 10
-    }
+    },
+    "legacyName": "Broccoli Beef Cub Meal By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_grilled_teriyaki_chicken_cub_meal",
-    "name": "Grilled Teriyaki Chicken Cub Meal By Panda Express",
-    "nameEs": "Cub Meal de Pollo Teriyaki a la Parrilla Por Panda Express",
+    "name": "Grilled Teriyaki Chicken Cub Meal",
+    "nameEs": "Cub Meal de Pollo Teriyaki a la Parrilla",
     "category": "Protein",
     "emoji": "🍱",
     "servingLabel": "9.3 oz · 264g",
@@ -15871,12 +16345,14 @@
     },
     "other": {
       "cholesterol": 120
-    }
+    },
+    "legacyName": "Grilled Teriyaki Chicken Cub Meal By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_orange_chicken_cub_meal",
-    "name": "Orange Chicken Cub Meal By Panda Express",
-    "nameEs": "Cub Meal de Pollo Naranja Por Panda Express",
+    "name": "Orange Chicken Cub Meal",
+    "nameEs": "Cub Meal de Pollo Naranja",
     "category": "Protein",
     "emoji": "🍱",
     "servingLabel": "9.5 oz · 269g",
@@ -15893,12 +16369,14 @@
     },
     "other": {
       "cholesterol": 60
-    }
+    },
+    "legacyName": "Orange Chicken Cub Meal By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_apple_pie_roll",
-    "name": "Apple Pie Roll By Panda Express",
-    "nameEs": "Rollo de Pay de Manzana Por Panda Express",
+    "name": "Apple Pie Roll",
+    "nameEs": "Rollo de Pay de Manzana",
     "category": "Carbs",
     "emoji": "🥧",
     "servingLabel": "1.94 oz · 55g",
@@ -15915,12 +16393,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Apple Pie Roll By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_chili_sauce",
-    "name": "Chili Sauce By Panda Express",
-    "nameEs": "Salsa de Chile Por Panda Express",
+    "name": "Chili Sauce",
+    "nameEs": "Salsa de Chile",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "0.25 oz · 7g",
@@ -15937,12 +16417,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Chili Sauce By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_fortune_cookie",
-    "name": "Fortune Cookie By Panda Express",
-    "nameEs": "Galleta de la Fortuna Por Panda Express",
+    "name": "Fortune Cookie",
+    "nameEs": "Galleta de la Fortuna",
     "category": "Carbs",
     "emoji": "🥠",
     "servingLabel": "0.18 oz · 5g",
@@ -15959,12 +16441,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Fortune Cookie By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_hot_mustard",
-    "name": "Hot Mustard By Panda Express",
-    "nameEs": "Mostaza Picante Por Panda Express",
+    "name": "Hot Mustard",
+    "nameEs": "Mostaza Picante",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "0.25 oz · 7g",
@@ -15981,12 +16465,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Hot Mustard By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_potsticker_sauce",
-    "name": "Potsticker Sauce By Panda Express",
-    "nameEs": "Salsa Para Potstickers Por Panda Express",
+    "name": "Potsticker Sauce",
+    "nameEs": "Salsa Para Potstickers",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "0.4 oz · 11g",
@@ -16003,12 +16489,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Potsticker Sauce By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_soy_sauce",
-    "name": "Soy Sauce By Panda Express",
-    "nameEs": "Salsa de Soya Por Panda Express",
+    "name": "Soy Sauce",
+    "nameEs": "Salsa de Soya",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "0.21 oz · 6g",
@@ -16025,12 +16513,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Soy Sauce By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_sweet_sour_sauce",
-    "name": "Sweet & Sour Sauce By Panda Express",
-    "nameEs": "Salsa Agridulce Por Panda Express",
+    "name": "Sweet & Sour Sauce",
+    "nameEs": "Salsa Agridulce",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "1.8 oz · 51g",
@@ -16047,12 +16537,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Sweet & Sour Sauce By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_teriyaki_sauce",
-    "name": "Teriyaki Sauce By Panda Express",
-    "nameEs": "Salsa Teriyaki Por Panda Express",
+    "name": "Teriyaki Sauce",
+    "nameEs": "Salsa Teriyaki",
     "category": "Condiments, Seasonings & Spices",
     "emoji": "🥣",
     "servingLabel": "1.8 oz · 51g",
@@ -16069,12 +16561,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Teriyaki Sauce By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_apple_crisps",
-    "name": "Tree Top Apple Crisps By Panda Express",
-    "nameEs": "Chips de Manzana Tree Top Por Panda Express",
+    "name": "Tree Top Apple Crisps",
+    "nameEs": "Chips de Manzana Tree Top",
     "category": "Veggies",
     "emoji": "🍎",
     "servingLabel": "0.34 oz · 10g",
@@ -16091,12 +16585,14 @@
     },
     "other": {
       "cholesterol": 0
-    }
+    },
+    "legacyName": "Tree Top Apple Crisps By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_hot_sour_soup_bowl",
-    "name": "Hot & Sour Soup (Bowl) By Panda Express",
-    "nameEs": "Sopa Agripicante (Tazón) Por Panda Express",
+    "name": "Hot & Sour Soup (Bowl)",
+    "nameEs": "Sopa Agripicante (Tazón)",
     "category": "Protein",
     "emoji": "🍲",
     "servingLabel": "17.4 oz · 493g",
@@ -16113,12 +16609,14 @@
     },
     "other": {
       "cholesterol": 90
-    }
+    },
+    "legacyName": "Hot & Sour Soup (Bowl) By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "panda_hot_sour_soup_cup",
-    "name": "Hot & Sour Soup (Cup) By Panda Express",
-    "nameEs": "Sopa Agripicante (Taza) Por Panda Express",
+    "name": "Hot & Sour Soup (Cup)",
+    "nameEs": "Sopa Agripicante (Taza)",
     "category": "Protein",
     "emoji": "🍲",
     "servingLabel": "12.2 oz · 346g",
@@ -16135,12 +16633,14 @@
     },
     "other": {
       "cholesterol": 65
-    }
+    },
+    "legacyName": "Hot & Sour Soup (Cup) By Panda Express",
+    "brand": "Panda Express"
   },
   {
     "id": "jitb_jumbo_jack",
-    "name": "Jumbo Jack By Jack in the Box",
-    "nameEs": "Jumbo Jack Por Jack in the Box",
+    "name": "Jumbo Jack",
+    "nameEs": "Jumbo Jack",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16158,12 +16658,14 @@
     },
     "other": {
       "cholesterol": 60
-    }
+    },
+    "legacyName": "Jumbo Jack By Jack in the Box",
+    "brand": "Jack in the Box"
   },
   {
     "id": "jitb_jr_jack",
-    "name": "Jr. Jack By Jack in the Box",
-    "nameEs": "Jr. Jack Por Jack in the Box",
+    "name": "Jr. Jack",
+    "nameEs": "Jr. Jack",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16181,12 +16683,14 @@
     },
     "other": {
       "cholesterol": 30
-    }
+    },
+    "legacyName": "Jr. Jack By Jack in the Box",
+    "brand": "Jack in the Box"
   },
   {
     "id": "jitb_hamburger",
-    "name": "Hamburger By Jack in the Box",
-    "nameEs": "Hamburguesa Por Jack in the Box",
+    "name": "Hamburger",
+    "nameEs": "Hamburguesa",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16204,12 +16708,14 @@
     },
     "other": {
       "cholesterol": 25
-    }
+    },
+    "legacyName": "Hamburger By Jack in the Box",
+    "brand": "Jack in the Box"
   },
   {
     "id": "jitb_cheeseburger",
-    "name": "Cheeseburger By Jack in the Box",
-    "nameEs": "Hamburguesa con Queso Por Jack in the Box",
+    "name": "Cheeseburger",
+    "nameEs": "Hamburguesa con Queso",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16227,12 +16733,14 @@
     },
     "other": {
       "cholesterol": 35
-    }
+    },
+    "legacyName": "Cheeseburger By Jack in the Box",
+    "brand": "Jack in the Box"
   },
   {
     "id": "jitb_sourdough_jack",
-    "name": "Sourdough Jack By Jack in the Box",
-    "nameEs": "Sourdough Jack Por Jack in the Box",
+    "name": "Sourdough Jack",
+    "nameEs": "Sourdough Jack",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich · 223g",
@@ -16241,12 +16749,14 @@
     "protein": 35,
     "carbs": 40,
     "fat": 41,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Sourdough Jack By Jack in the Box",
+    "brand": "Jack in the Box"
   },
   {
     "id": "mcd_hamburger",
-    "name": "Hamburger By McDonald's",
-    "nameEs": "Hamburguesa Por McDonald's",
+    "name": "Hamburger",
+    "nameEs": "Hamburguesa",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16255,12 +16765,14 @@
     "protein": 12,
     "carbs": 31,
     "fat": 9,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Hamburger By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_cheeseburger",
-    "name": "Cheeseburger By McDonald's",
-    "nameEs": "Hamburguesa con Queso Por McDonald's",
+    "name": "Cheeseburger",
+    "nameEs": "Hamburguesa con Queso",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16269,12 +16781,14 @@
     "protein": 15,
     "carbs": 32,
     "fat": 13,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Cheeseburger By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_mcdouble",
-    "name": "McDouble By McDonald's",
-    "nameEs": "McDouble Por McDonald's",
+    "name": "McDouble",
+    "nameEs": "McDouble",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16283,12 +16797,14 @@
     "protein": 22,
     "carbs": 33,
     "fat": 20,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "McDouble By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_double_cheeseburger",
-    "name": "Double Cheeseburger By McDonald's",
-    "nameEs": "Doble Hamburguesa con Queso Por McDonald's",
+    "name": "Double Cheeseburger",
+    "nameEs": "Doble Hamburguesa con Queso",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16297,12 +16813,14 @@
     "protein": 25,
     "carbs": 34,
     "fat": 23,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Double Cheeseburger By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_quarter_pounder",
-    "name": "Quarter Pounder By McDonald's",
-    "nameEs": "Quarter Pounder Por McDonald's",
+    "name": "Quarter Pounder",
+    "nameEs": "Quarter Pounder",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16311,12 +16829,14 @@
     "protein": 25,
     "carbs": 37,
     "fat": 21,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Quarter Pounder By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_quarter_pounder_cheese",
-    "name": "Quarter Pounder w/ Cheese By McDonald's",
-    "nameEs": "Quarter Pounder con Queso Por McDonald's",
+    "name": "Quarter Pounder w/ Cheese",
+    "nameEs": "Quarter Pounder con Queso",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16325,12 +16845,14 @@
     "protein": 30,
     "carbs": 40,
     "fat": 27,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Quarter Pounder w/ Cheese By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_double_quarter_pounder_cheese",
-    "name": "Double Quarter Pounder w/ Cheese By McDonald's",
-    "nameEs": "Doble Quarter Pounder con Queso Por McDonald's",
+    "name": "Double Quarter Pounder w/ Cheese",
+    "nameEs": "Doble Quarter Pounder con Queso",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16339,12 +16861,14 @@
     "protein": 48,
     "carbs": 40,
     "fat": 43,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Double Quarter Pounder w/ Cheese By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_big_mac",
-    "name": "Big Mac By McDonald's",
-    "nameEs": "Big Mac Por McDonald's",
+    "name": "Big Mac",
+    "nameEs": "Big Mac",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16353,12 +16877,14 @@
     "protein": 25,
     "carbs": 45,
     "fat": 34,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Big Mac By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_mcchicken",
-    "name": "McChicken By McDonald's",
-    "nameEs": "McChicken Por McDonald's",
+    "name": "McChicken",
+    "nameEs": "McChicken",
     "category": "Protein",
     "emoji": "🍔",
     "servingLabel": "1 sandwich",
@@ -16367,12 +16893,14 @@
     "protein": 14,
     "carbs": 40,
     "fat": 21,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "McChicken By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_filet_o_fish",
-    "name": "Filet-O-Fish By McDonald's",
-    "nameEs": "Filet-O-Fish Por McDonald's",
+    "name": "Filet-O-Fish",
+    "nameEs": "Filet-O-Fish",
     "category": "Protein",
     "emoji": "🐟",
     "servingLabel": "1 sandwich",
@@ -16381,12 +16909,14 @@
     "protein": 16,
     "carbs": 39,
     "fat": 19,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Filet-O-Fish By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_mcnuggets_6pc",
-    "name": "Chicken McNuggets (6 pc) By McDonald's",
-    "nameEs": "McNuggets de Pollo (6 uds) Por McDonald's",
+    "name": "Chicken McNuggets (6 pc)",
+    "nameEs": "McNuggets de Pollo (6 uds)",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "6 pieces",
@@ -16395,12 +16925,14 @@
     "protein": 14,
     "carbs": 16,
     "fat": 15,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Chicken McNuggets (6 pc) By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_mcnuggets_10pc",
-    "name": "Chicken McNuggets (10 pc) By McDonald's",
-    "nameEs": "McNuggets de Pollo (10 uds) Por McDonald's",
+    "name": "Chicken McNuggets (10 pc)",
+    "nameEs": "McNuggets de Pollo (10 uds)",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "10 pieces",
@@ -16409,12 +16941,14 @@
     "protein": 23,
     "carbs": 26,
     "fat": 25,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Chicken McNuggets (10 pc) By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_mcnuggets_20pc",
-    "name": "Chicken McNuggets (20 pc) By McDonald's",
-    "nameEs": "McNuggets de Pollo (20 uds) Por McDonald's",
+    "name": "Chicken McNuggets (20 pc)",
+    "nameEs": "McNuggets de Pollo (20 uds)",
     "category": "Protein",
     "emoji": "🍗",
     "servingLabel": "20 pieces",
@@ -16423,12 +16957,14 @@
     "protein": 47,
     "carbs": 52,
     "fat": 50,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Chicken McNuggets (20 pc) By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_fries_small",
-    "name": "French Fries (Small) By McDonald's",
-    "nameEs": "Papas Fritas Pequeñas Por McDonald's",
+    "name": "French Fries (Small)",
+    "nameEs": "Papas Fritas Pequeñas",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "1 small order",
@@ -16437,12 +16973,14 @@
     "protein": 3,
     "carbs": 30,
     "fat": 11,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "French Fries (Small) By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_fries_medium",
-    "name": "French Fries (Medium) By McDonald's",
-    "nameEs": "Papas Fritas Medianas Por McDonald's",
+    "name": "French Fries (Medium)",
+    "nameEs": "Papas Fritas Medianas",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "1 medium order",
@@ -16451,12 +16989,14 @@
     "protein": 4,
     "carbs": 43,
     "fat": 15,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "French Fries (Medium) By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_fries_large",
-    "name": "French Fries (Large) By McDonald's",
-    "nameEs": "Papas Fritas Grandes Por McDonald's",
+    "name": "French Fries (Large)",
+    "nameEs": "Papas Fritas Grandes",
     "category": "Carbs",
     "emoji": "🍟",
     "servingLabel": "1 large order",
@@ -16465,12 +17005,14 @@
     "protein": 6,
     "carbs": 64,
     "fat": 23,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "French Fries (Large) By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_hash_browns",
-    "name": "Hash Browns By McDonald's",
-    "nameEs": "Papas Ralladas Por McDonald's",
+    "name": "Hash Browns",
+    "nameEs": "Papas Ralladas",
     "category": "Carbs",
     "emoji": "🥔",
     "servingLabel": "1 order",
@@ -16479,12 +17021,14 @@
     "protein": 1,
     "carbs": 15,
     "fat": 8,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Hash Browns By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_egg_mcmuffin",
-    "name": "Egg McMuffin By McDonald's",
-    "nameEs": "Egg McMuffin Por McDonald's",
+    "name": "Egg McMuffin",
+    "nameEs": "Egg McMuffin",
     "category": "Protein",
     "emoji": "🍳",
     "servingLabel": "1 sandwich",
@@ -16493,12 +17037,14 @@
     "protein": 17,
     "carbs": 30,
     "fat": 13,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Egg McMuffin By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_sausage_mcmuffin_egg",
-    "name": "Sausage McMuffin w/ Egg By McDonald's",
-    "nameEs": "Sausage McMuffin con Huevo Por McDonald's",
+    "name": "Sausage McMuffin w/ Egg",
+    "nameEs": "Sausage McMuffin con Huevo",
     "category": "Protein",
     "emoji": "🍳",
     "servingLabel": "1 sandwich",
@@ -16507,12 +17053,14 @@
     "protein": 20,
     "carbs": 30,
     "fat": 31,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Sausage McMuffin w/ Egg By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_bacon_egg_cheese_biscuit",
-    "name": "Bacon, Egg & Cheese Biscuit By McDonald's",
-    "nameEs": "Bísquet de Tocino, Huevo y Queso Por McDonald's",
+    "name": "Bacon, Egg & Cheese Biscuit",
+    "nameEs": "Bísquet de Tocino, Huevo y Queso",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "1 biscuit",
@@ -16521,12 +17069,14 @@
     "protein": 19,
     "carbs": 38,
     "fat": 27,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Bacon, Egg & Cheese Biscuit By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_sausage_biscuit_egg",
-    "name": "Sausage Biscuit w/ Egg By McDonald's",
-    "nameEs": "Bísquet de Salchicha con Huevo Por McDonald's",
+    "name": "Sausage Biscuit w/ Egg",
+    "nameEs": "Bísquet de Salchicha con Huevo",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "1 biscuit",
@@ -16535,12 +17085,14 @@
     "protein": 19,
     "carbs": 36,
     "fat": 35,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Sausage Biscuit w/ Egg By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_sausage_burrito",
-    "name": "Sausage Burrito By McDonald's",
-    "nameEs": "Burrito de Salchicha Por McDonald's",
+    "name": "Sausage Burrito",
+    "nameEs": "Burrito de Salchicha",
     "category": "Protein",
     "emoji": "🌯",
     "servingLabel": "1 order",
@@ -16549,12 +17101,14 @@
     "protein": 12,
     "carbs": 26,
     "fat": 18,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Sausage Burrito By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_big_breakfast",
-    "name": "Big Breakfast By McDonald's",
-    "nameEs": "Big Breakfast Por McDonald's",
+    "name": "Big Breakfast",
+    "nameEs": "Big Breakfast",
     "category": "Protein",
     "emoji": "🍳",
     "servingLabel": "1 order",
@@ -16563,12 +17117,14 @@
     "protein": 28,
     "carbs": 53,
     "fat": 48,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Big Breakfast By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_hotcakes",
-    "name": "Hotcakes By McDonald's",
-    "nameEs": "Hotcakes Por McDonald's",
+    "name": "Hotcakes",
+    "nameEs": "Hotcakes",
     "category": "Carbs",
     "emoji": "🥞",
     "servingLabel": "3 hotcakes w/ syrup & butter",
@@ -16577,12 +17133,14 @@
     "protein": 9,
     "carbs": 100,
     "fat": 16,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Hotcakes By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_scrambled_eggs",
-    "name": "Scrambled Eggs (2) By McDonald's",
-    "nameEs": "Huevos Revueltos (2) Por McDonald's",
+    "name": "Scrambled Eggs (2)",
+    "nameEs": "Huevos Revueltos (2)",
     "category": "Protein",
     "emoji": "🍳",
     "servingLabel": "2 eggs",
@@ -16591,12 +17149,14 @@
     "protein": 13,
     "carbs": 2,
     "fat": 12,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Scrambled Eggs (2) By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_baked_apple_pie",
-    "name": "Baked Apple Pie By McDonald's",
-    "nameEs": "Pay de Manzana Horneado Por McDonald's",
+    "name": "Baked Apple Pie",
+    "nameEs": "Pay de Manzana Horneado",
     "category": "Carbs",
     "emoji": "🥧",
     "servingLabel": "1 pie",
@@ -16605,12 +17165,14 @@
     "protein": 2,
     "carbs": 32,
     "fat": 11,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Baked Apple Pie By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_apple_slices",
-    "name": "Apple Slices By McDonald's",
-    "nameEs": "Rodajas de Manzana Por McDonald's",
+    "name": "Apple Slices",
+    "nameEs": "Rodajas de Manzana",
     "category": "Veggies",
     "emoji": "🍎",
     "servingLabel": "1 side order",
@@ -16619,12 +17181,14 @@
     "protein": 0,
     "carbs": 4,
     "fat": 0,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Apple Slices By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_side_salad",
-    "name": "Side Salad By McDonald's",
-    "nameEs": "Ensalada Pequeña Por McDonald's",
+    "name": "Side Salad",
+    "nameEs": "Ensalada Pequeña",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "1 salad (dressing not included)",
@@ -16633,12 +17197,14 @@
     "protein": 1,
     "carbs": 3,
     "fat": 0,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Side Salad By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_premium_caesar_grilled_chicken_salad",
-    "name": "Premium Caesar w/ Grilled Chicken Salad By McDonald's",
-    "nameEs": "Ensalada César Premium con Pollo a la Parrilla Por McDonald's",
+    "name": "Premium Caesar w/ Grilled Chicken Salad",
+    "nameEs": "Ensalada César Premium con Pollo a la Parrilla",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "1 salad · 10.4 oz (dressing not included)",
@@ -16647,12 +17213,14 @@
     "protein": 27,
     "carbs": 10,
     "fat": 5,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Premium Caesar w/ Grilled Chicken Salad By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_southwest_grilled_chicken_salad",
-    "name": "Southwest Grilled Chicken Salad By McDonald's",
-    "nameEs": "Ensalada Suroeste con Pollo a la Parrilla Por McDonald's",
+    "name": "Southwest Grilled Chicken Salad",
+    "nameEs": "Ensalada Suroeste con Pollo a la Parrilla",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "1 salad (dressing not included)",
@@ -16661,12 +17229,14 @@
     "protein": 37,
     "carbs": 27,
     "fat": 11,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Southwest Grilled Chicken Salad By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_bacon_ranch_grilled_chicken_salad",
-    "name": "Bacon Ranch Salad w/ Grilled Chicken By McDonald's",
-    "nameEs": "Ensalada Ranch con Tocino y Pollo a la Parrilla Por McDonald's",
+    "name": "Bacon Ranch Salad w/ Grilled Chicken",
+    "nameEs": "Ensalada Ranch con Tocino y Pollo a la Parrilla",
     "category": "Veggies",
     "emoji": "🥗",
     "servingLabel": "1 salad (dressing not included)",
@@ -16675,12 +17245,14 @@
     "protein": 42,
     "carbs": 9,
     "fat": 14,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Bacon Ranch Salad w/ Grilled Chicken By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_artisan_grilled_chicken_sandwich",
-    "name": "Artisan Grilled Chicken Sandwich By McDonald's",
-    "nameEs": "Sándwich de Pollo Artesanal a la Parrilla Por McDonald's",
+    "name": "Artisan Grilled Chicken Sandwich",
+    "nameEs": "Sándwich de Pollo Artesanal a la Parrilla",
     "category": "Protein",
     "emoji": "🥪",
     "servingLabel": "1 sandwich · 7 oz",
@@ -16689,12 +17261,14 @@
     "protein": 34,
     "carbs": 40,
     "fat": 15,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Artisan Grilled Chicken Sandwich By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "id": "mcd_ranch_grilled_chicken_snack_wrap",
-    "name": "Ranch w/ Grilled Chicken Snack Wrap By McDonald's",
-    "nameEs": "Snack Wrap Ranch con Pollo a la Parrilla Por McDonald's",
+    "name": "Ranch w/ Grilled Chicken Snack Wrap",
+    "nameEs": "Snack Wrap Ranch con Pollo a la Parrilla",
     "category": "Protein",
     "emoji": "🌯",
     "servingLabel": "1 wrap · 4.2 oz",
@@ -16703,7 +17277,9 @@
     "protein": 16,
     "carbs": 25,
     "fat": 12,
-    "fiber": 0
+    "fiber": 0,
+    "legacyName": "Ranch w/ Grilled Chicken Snack Wrap By McDonald's",
+    "brand": "McDonald's"
   },
   {
     "name": "Peanut Chocolate",
@@ -16711,7 +17287,7 @@
     "barcode": "040000017325",
     "public": true,
     "emoji": "🥜",
-    "category": null,
+    "category": "Carbs",
     "servingG": 28,
     "servingLabel": "12 Pieces · 28 g",
     "servings": [
@@ -16760,7 +17336,7 @@
     "barcode": "884038851137",
     "public": true,
     "emoji": "🫐",
-    "category": null,
+    "category": "Carbs",
     "servingG": 140,
     "servingLabel": "1 Cup · 140 g",
     "servings": [
@@ -16805,7 +17381,7 @@
     "barcode": "073073818759",
     "public": true,
     "emoji": "🥗",
-    "category": null,
+    "category": "Veggies",
     "servingG": 85,
     "servingLabel": "1 2/3 cup · 85 g",
     "servings": [
@@ -16905,7 +17481,7 @@
     "barcode": "",
     "public": true,
     "emoji": "🫙",
-    "category": null,
+    "category": "Supplements",
     "servingG": 1,
     "servingLabel": "1 g",
     "servings": null,
@@ -16918,12 +17494,12 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "1% Low Fat Milk ( Lactose Free )",
+    "name": "1% Low Fat Milk (Lactose Free)",
     "brand": "Crystal Creamery",
     "barcode": "070910000377",
     "public": true,
     "emoji": "🥛",
-    "category": null,
+    "category": "Protein",
     "servingG": 240,
     "servingLabel": "1 Cup · 240 g",
     "servings": [
@@ -16974,7 +17550,8 @@
       "selenium": 0
     },
     "id": "27",
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "1% Low Fat Milk ( Lactose Free )"
   },
   {
     "name": "BBQ Sauce Bourbon Apple",
@@ -16982,7 +17559,7 @@
     "barcode": "755795700139",
     "public": true,
     "emoji": "🥫",
-    "category": null,
+    "category": "Condiments, Seasonings & Spices",
     "servingG": 34,
     "servingLabel": "2 Tbsp · 34 g",
     "servings": [
@@ -17022,8 +17599,8 @@
     "id": "bbq_sauce_bourbon_apple_mu08j1cj"
   },
   {
-    "name": "Lemon Lime",
-    "brand": "Squincher Zero",
+    "name": "Zero Lemon Lime",
+    "brand": "Sqwincher",
     "barcode": "075880512073",
     "public": true,
     "emoji": "🍈",
@@ -17056,10 +17633,11 @@
       "selenium": 0
     },
     "id": 39,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Lemon Lime"
   },
   {
-    "name": "Brown Sugar Cinnamon ( Protein Pastey",
+    "name": "Protein Pastry (Brown Sugar Cinnamon)",
     "brand": "Legendary Foods",
     "barcode": "810035970601",
     "public": true,
@@ -17101,7 +17679,8 @@
       "selenium": 0
     },
     "id": "40",
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Brown Sugar Cinnamon ( Protein Pastey"
   },
   {
     "name": "Roasted Garlic Parmesan Sauce",
@@ -17163,7 +17742,7 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "SALSA CON QUESO",
+    "name": "Salsa Con Queso",
     "brand": "Tostitos",
     "barcode": "028400067409",
     "public": true,
@@ -17216,7 +17795,8 @@
       "water": 0
     },
     "id": "42",
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "SALSA CON QUESO"
   },
   {
     "name": "Juice Pipeline Punch",
@@ -17327,7 +17907,7 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "Dorito Loco Taco",
+    "name": "Doritos Locos Taco",
     "brand": "Taco Bell",
     "barcode": "",
     "public": true,
@@ -17394,11 +17974,12 @@
       "water": 29.5
     },
     "id": "45",
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Dorito Loco Taco"
   },
   {
-    "name": "Zero Sugar",
-    "brand": "PEPSI",
+    "name": "Zero Sugar Cola",
+    "brand": "Pepsi",
     "barcode": "012000018770",
     "public": true,
     "emoji": "🥤",
@@ -17430,7 +18011,8 @@
       "zinc": 0
     },
     "id": 1,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Zero Sugar"
   },
   {
     "name": "Garlic Parmesan",
@@ -17487,7 +18069,7 @@
     "barcode": "071464324520",
     "public": true,
     "emoji": "🧃",
-    "category": null,
+    "category": "Carbs",
     "servingG": 240,
     "servingLabel": "8 FL. Oz · 240 g",
     "servings": [
@@ -17664,7 +18246,7 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "Chocolate  High Protein Shake",
+    "name": "Chocolate High Protein Shake",
     "brand": "Muscle Milk",
     "barcode": "052000068283",
     "public": true,
@@ -17724,15 +18306,16 @@
       "zinc": 0
     },
     "id": 6,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Chocolate  High Protein Shake"
   },
   {
-    "name": "Chromium Picolonate - 200 mcg",
+    "name": "Chromium Picolinate (200 mcg)",
     "brand": "",
     "barcode": "",
     "public": true,
     "emoji": "🫙",
-    "category": "Condiments, Seasonings & Spices",
+    "category": "Supplements",
     "servingG": 1,
     "servingLabel": "1 Capsule · 1 g",
     "servings": [
@@ -17748,15 +18331,16 @@
     "carbs": 0,
     "fiber": 0,
     "id": 8,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Chromium Picolonate - 200 mcg"
   },
   {
-    "name": "Enzyme",
+    "name": "Digestive Enzymes",
     "brand": "Now",
     "barcode": "",
     "public": true,
     "emoji": "🫙",
-    "category": "Condiments, Seasonings & Spices",
+    "category": "Supplements",
     "servingG": 1,
     "servingLabel": "1 Capsule · 1 g",
     "servings": [
@@ -17772,10 +18356,11 @@
     "carbs": 0,
     "fiber": 0,
     "id": 9,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Enzyme"
   },
   {
-    "name": "Rice Cakes ( Lightly Salted )",
+    "name": "Rice Cakes (Lightly Salted)",
     "brand": "Quaker",
     "barcode": "030000169018",
     "public": true,
@@ -17809,7 +18394,8 @@
       "zinc": 0
     },
     "id": 10,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Rice Cakes ( Lightly Salted )"
   },
   {
     "name": "Rice Noodles",
@@ -17850,7 +18436,7 @@
   },
   {
     "name": "Dry Roasted Unsalted Peanuts",
-    "brand": "PLANTERS",
+    "brand": "Planters",
     "barcode": "029000073241",
     "public": true,
     "emoji": "🥜",
@@ -17959,7 +18545,7 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "Daikon ( Raw )",
+    "name": "Daikon (Raw)",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -18026,7 +18612,8 @@
       "water": 319.8
     },
     "submittedBy": "teamacavian@gmail.com",
-    "id": "daikon_raw_muehkh93"
+    "id": "daikon_raw_muehkh93",
+    "legacyName": "Daikon ( Raw )"
   },
   {
     "name": "Grande Flour Tortilla",
@@ -18127,12 +18714,12 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "Liposomal Glutathione ( 1750 mg )",
+    "name": "Liposomal Glutathione (1750 mg)",
     "brand": "Alpha Flow",
     "barcode": "",
     "public": true,
     "emoji": "🫙",
-    "category": "Condiments, Seasonings & Spices",
+    "category": "Supplements",
     "servingG": 2,
     "servingLabel": "2 Capsules · 2 g",
     "servings": [
@@ -18162,15 +18749,16 @@
       "k": 0
     },
     "id": 18,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Liposomal Glutathione ( 1750 mg )"
   },
   {
-    "name": "Super Carb ( Cyclic Dextrin )",
+    "name": "Super Carb (Cyclic Dextrin)",
     "brand": "Nutra Bio",
     "barcode": "649908260910",
     "public": true,
     "emoji": "🫙",
-    "category": "Condiments, Seasonings & Spices",
+    "category": "Supplements",
     "servingG": 28,
     "servingLabel": "1 Scoop · 28 g",
     "servings": [
@@ -18199,10 +18787,11 @@
       "zinc": 0
     },
     "id": 19,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Super Carb ( Cyclic Dextrin )"
   },
   {
-    "name": "Crema Mexicana ( Sour Cream )",
+    "name": "Crema Mexicana (Sour Cream)",
     "brand": "El Mexicano",
     "barcode": "042743123080",
     "public": true,
@@ -18255,15 +18844,16 @@
       "water": 0
     },
     "id": 20,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "Crema Mexicana ( Sour Cream )"
   },
   {
-    "name": "EAA ( Essential Amino Acid )",
+    "name": "EAA (Essential Amino Acids)",
     "brand": "Bulk Supplements",
     "barcode": "X00297NNY3",
     "public": true,
     "emoji": "🫙",
-    "category": "Condiments, Seasonings & Spices",
+    "category": "Supplements",
     "servingG": 10,
     "servingLabel": "4 Tsp · 10 g",
     "servings": [
@@ -18279,6 +18869,7 @@
     "carbs": 0,
     "fiber": 0,
     "id": 21,
-    "submittedBy": "alejandroupmh@gmail.com"
+    "submittedBy": "alejandroupmh@gmail.com",
+    "legacyName": "EAA ( Essential Amino Acid )"
   }
 ]
