@@ -19034,7 +19034,7 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "Ice Cereal",
+    "name": "Rice Cereal",
     "brand": "Gerber",
     "barcode": "015000687700",
     "public": true,
@@ -19093,7 +19093,7 @@
       "sodium": 0,
       "zinc": 1
     },
-    "id": 30,
+    "id": "30",
     "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
