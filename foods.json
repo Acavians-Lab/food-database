@@ -19032,5 +19032,68 @@
     },
     "id": 29,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Ice Cereal",
+    "brand": "Gerber",
+    "barcode": "015000687700",
+    "public": true,
+    "emoji": "🍚",
+    "category": null,
+    "servingG": 15,
+    "servingLabel": "1.4 Cup · 15 g",
+    "servings": [
+      {
+        "qty": 1.4,
+        "unitLabel": "Cup",
+        "grams": 15
+      }
+    ],
+    "calories": 60,
+    "protein": 1,
+    "fat": 0.5,
+    "carbs": 12,
+    "fiber": 0,
+    "netCarbs": 12,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0.075,
+      "b2": 0.1,
+      "b3": 1,
+      "b5": 0,
+      "b6": 0.075,
+      "b12": 0.125,
+      "folate": 12,
+      "a": 0,
+      "c": 8.7,
+      "d": 0,
+      "e": 0.6,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 6.75,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 45,
+      "selenium": 0,
+      "sodium": 0,
+      "zinc": 1
+    },
+    "id": 30,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
