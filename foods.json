@@ -18981,5 +18981,56 @@
     },
     "id": 28,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Cream of Rice",
+    "brand": "B&G Foods",
+    "barcode": "013130006989",
+    "public": true,
+    "emoji": "🍚",
+    "category": "Carbs",
+    "servingG": 45,
+    "servingLabel": "1.4 Cup · 45 g",
+    "servings": [
+      {
+        "qty": 1.4,
+        "unitLabel": "Cup",
+        "grams": 45
+      }
+    ],
+    "calories": 150,
+    "protein": 2,
+    "fat": 0,
+    "carbs": 35,
+    "fiber": 0,
+    "netCarbs": 35,
+    "vitamins": {
+      "b1": 0.3,
+      "b2": 0.33,
+      "b3": 4.2,
+      "b5": 0,
+      "b6": 0.43,
+      "b12": 0,
+      "folate": 100,
+      "a": 0,
+      "c": 0,
+      "d": 5.2,
+      "e": 0,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 340,
+      "copper": 0,
+      "iron": 12.6,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 30,
+      "selenium": 0,
+      "sodium": 0,
+      "zinc": 0
+    },
+    "id": 29,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
