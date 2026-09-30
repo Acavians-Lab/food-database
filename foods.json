@@ -18918,5 +18918,68 @@
     "id": 21,
     "submittedBy": "alejandroupmh@gmail.com",
     "legacyName": "EAA ( Essential Amino Acid )"
+  },
+  {
+    "name": "Salted Cocktail Peanuts",
+    "brand": "Planters",
+    "barcode": "029000072121",
+    "public": true,
+    "emoji": "🥜",
+    "category": "Fat",
+    "servingG": 28,
+    "servingLabel": "35 Pieces · 28 g",
+    "servings": [
+      {
+        "qty": 35,
+        "unitLabel": "Pieces",
+        "grams": 28
+      }
+    ],
+    "calories": 170,
+    "protein": 7,
+    "fat": 14,
+    "carbs": 5,
+    "fiber": 2,
+    "netCarbs": 2,
+    "mono": 8,
+    "poly": 4.5,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 2,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0,
+      "b3": 4.8,
+      "b5": 0.5,
+      "b6": 0,
+      "b12": 0,
+      "folate": 0,
+      "a": 0,
+      "c": 0,
+      "d": 0,
+      "e": 2.3,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 30,
+      "copper": 0.09,
+      "iron": 0.7,
+      "magnesium": 42,
+      "manganese": 0.46,
+      "phosphorus": 0,
+      "potassium": 200,
+      "selenium": 0,
+      "sodium": 100,
+      "zinc": 1.1
+    },
+    "id": 28,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
