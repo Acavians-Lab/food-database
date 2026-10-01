@@ -8731,11 +8731,62 @@
     "emoji": "🥥",
     "servingLabel": "1 tbsp · 13.6 g",
     "servingG": 13.6,
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Tbsp",
+        "grams": 13.6
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Spray",
+        "grams": 0.25
+      }
+    ],
     "calories": 117,
     "protein": 0,
     "carbs": 0,
-    "fat": 13,
-    "fiber": 0
+    "fat": 13.5,
+    "fiber": 0,
+    "satFat": 11.2,
+    "transFat": 0,
+    "mono": 0.86,
+    "poly": 0.23,
+    "omega3": 0,
+    "omega6": 0.23,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "a": 0,
+      "c": 0,
+      "d": 0,
+      "e": 0.015,
+      "k": 0.08,
+      "b1": 0,
+      "b2": 0,
+      "b3": 0,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0,
+      "folate": 0
+    },
+    "minerals": {
+      "calcium": 0.14,
+      "iron": 0.007,
+      "magnesium": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "sodium": 0,
+      "zinc": 0.003,
+      "copper": 0,
+      "manganese": 0,
+      "selenium": 0
+    },
+    "other": {
+      "cholesterol": 0,
+      "choline": 0.04,
+      "caffeine": 0
+    }
   },
   {
     "id": "oil_corn",
