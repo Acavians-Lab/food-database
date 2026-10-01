@@ -10579,28 +10579,60 @@
     "submittedBy": null
   },
   {
-    "id": "rotisserie_chicken_costco",
-    "name": "Rotisserie Chicken",
-    "nameEs": "Pollo Rostizado",
-    "category": "Protein",
+    "name": "Rotisserie Chicken ( Skin Eaten )",
+    "brand": "Costco",
+    "barcode": "",
+    "public": true,
     "emoji": "🍗",
-    "servingLabel": "1 Serving · 85 g",
+    "category": "Protein",
     "servingG": 85,
+    "servingLabel": "1 Serving · 85 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 85
+      }
+    ],
     "calories": 140,
     "protein": 19,
-    "carbs": 0.5,
     "fat": 7,
+    "carbs": 0.5,
     "fiber": 0,
-    "sugars": 0.5,
+    "netCarbs": 0.5,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
     "satFat": 2.5,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 0.5,
+    "sugarsAdded": 0,
     "minerals": {
-      "sodium": 460
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 0,
+      "selenium": 0,
+      "sodium": 460,
+      "zinc": 0
     },
     "other": {
-      "cholesterol": 55
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 55,
+      "choline": 0,
+      "water": 0
     },
-    "legacyName": "Rotisserie Chicken By Costco",
-    "brand": "Costco"
+    "id": "rotisserie_chicken_costco",
+    "submittedBy": null
   },
   {
     "id": "large_unbuttered_popcorn_regal",
