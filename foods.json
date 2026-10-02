@@ -19367,5 +19367,60 @@
     },
     "id": 33,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Classic Crust Supreme Pizza",
+    "brand": "Red Baron",
+    "barcode": "072180634719",
+    "public": true,
+    "emoji": "🍕",
+    "category": "Fat",
+    "servingG": 133,
+    "servingLabel": "1 Slice · 133 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Slice",
+        "grams": 133
+      }
+    ],
+    "calories": 300,
+    "protein": 12,
+    "fat": 14,
+    "carbs": 33,
+    "fiber": 2,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 6,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 7,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 200,
+      "copper": 0,
+      "iron": 2.3,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 290,
+      "selenium": 0,
+      "sodium": 650,
+      "zinc": 0
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 30,
+      "choline": 0,
+      "water": 0
+    },
+    "id": 35,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
