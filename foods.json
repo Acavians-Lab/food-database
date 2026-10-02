@@ -19297,5 +19297,75 @@
     },
     "id": 32,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Extravangzza ( Hand Tossed )",
+    "brand": "Domino's",
+    "barcode": "",
+    "public": true,
+    "emoji": "🍕",
+    "category": "Carbs",
+    "servingG": 152,
+    "servingLabel": "1 Slice · 152 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Slice",
+        "grams": 152
+      }
+    ],
+    "calories": 363.9,
+    "protein": 0,
+    "fat": 17.2,
+    "carbs": 34.5,
+    "fiber": 2,
+    "netCarbs": 32.5,
+    "mono": 6.5,
+    "poly": 2.6,
+    "omega3": 0,
+    "omega3ALA": 0.21,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0.5,
+      "b2": 0.36,
+      "b3": 4.63,
+      "b5": 0.74,
+      "b6": 0.2,
+      "b12": 0.74,
+      "folate": 67.4,
+      "a": 65,
+      "c": 8,
+      "d": 0.39,
+      "e": 1.18,
+      "k": 7.16
+    },
+    "minerals": {
+      "calcium": 199.2,
+      "copper": 0.18,
+      "iron": 3.29,
+      "magnesium": 29.2,
+      "manganese": 0.46,
+      "phosphorus": 241.1,
+      "potassium": 302,
+      "selenium": 22,
+      "sodium": 901.6,
+      "zinc": 2.08
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 38.5,
+      "choline": 32.6,
+      "water": 91.4
+    },
+    "id": 33,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
