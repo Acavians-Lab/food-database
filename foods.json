@@ -19471,5 +19471,85 @@
     },
     "id": 36,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Beef Ribeye Steak Boneless Lean ( Trimmed 1/8 Fat, Raw )",
+    "brand": "All Grades",
+    "barcode": "",
+    "public": true,
+    "emoji": "🥩",
+    "category": "Protein",
+    "servingG": 100,
+    "servingLabel": "1 Serving · 100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Steak",
+        "grams": 361
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Roast",
+        "grams": 2155
+      }
+    ],
+    "calories": 244,
+    "protein": 18.8,
+    "fat": 18.7,
+    "carbs": 0,
+    "fiber": 0,
+    "netCarbs": 0,
+    "mono": 8.8,
+    "poly": 0.9,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0.6,
+    "satFat": 8.3,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0.1,
+      "b2": 0.2,
+      "b3": 4.7,
+      "b5": 0.5,
+      "b6": 0.4,
+      "b12": 1.7,
+      "folate": 3,
+      "a": 5,
+      "c": 0,
+      "d": 0.1,
+      "e": 0.1,
+      "k": 1.5
+    },
+    "minerals": {
+      "calcium": 8,
+      "copper": 0.1,
+      "iron": 1.7,
+      "magnesium": 19,
+      "manganese": 0.1,
+      "phosphorus": 132,
+      "potassium": 236,
+      "selenium": 23.3,
+      "sodium": 50,
+      "zinc": 4.8
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 70,
+      "choline": 42.1,
+      "water": 61.8
+    },
+    "id": 37,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
