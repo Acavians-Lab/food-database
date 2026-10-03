@@ -19551,5 +19551,48 @@
     },
     "id": 37,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Krill Oil",
+    "brand": "Kirkland",
+    "barcode": "196633906694",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Supplements",
+    "servingG": 1,
+    "servingLabel": "1 Softgel · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Softgel",
+        "grams": 1
+      }
+    ],
+    "calories": 5,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 500,
+    "omega3ALA": 0,
+    "omega3DHA": 0.03,
+    "omega3EPA": 0.06,
+    "omega6": 0,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 10,
+      "choline": 0,
+      "water": 0
+    },
+    "id": 38,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
