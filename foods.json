@@ -19792,5 +19792,61 @@
     },
     "id": 48,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Cinnamon Cookies",
+    "brand": "Nestlé",
+    "barcode": "050000820146",
+    "public": true,
+    "emoji": "🍪",
+    "category": "Carbs",
+    "servingG": 20,
+    "servingLabel": "1 Cookie · 20 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Cookie",
+        "grams": 20
+      }
+    ],
+    "calories": 90,
+    "protein": 0.5,
+    "fat": 4,
+    "carbs": 12,
+    "fiber": 0,
+    "netCarbs": 12,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 2,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 7,
+    "sugarsAdded": 7,
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0.2,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 10,
+      "selenium": 0,
+      "sodium": 55,
+      "zinc": 0
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 5,
+      "choline": 0,
+      "water": 0
+    },
+    "id": 49,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
