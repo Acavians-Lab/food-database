@@ -19945,5 +19945,68 @@
     },
     "id": 49,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Cinnamon Toast Crunch",
+    "brand": "General Mills",
+    "barcode": "3019660034031",
+    "public": true,
+    "emoji": "🥣",
+    "category": "Carbs",
+    "servingG": 42,
+    "servingLabel": "1 Cup · 42 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Cup",
+        "grams": 42
+      }
+    ],
+    "calories": 170,
+    "protein": 4,
+    "fat": 4.5,
+    "carbs": 32,
+    "fiber": 3,
+    "netCarbs": 29,
+    "mono": 2.5,
+    "poly": 1,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 1,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 10,
+    "sugarsAdded": 10,
+    "vitamins": {
+      "b1": 0.24,
+      "b2": 0.13,
+      "b3": 1.6,
+      "b5": 0,
+      "b6": 0.34,
+      "b12": 0.48,
+      "folate": 45,
+      "a": 90,
+      "c": 9,
+      "d": 4,
+      "e": 0,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 130,
+      "copper": 0,
+      "iron": 3.6,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 120,
+      "selenium": 0,
+      "sodium": 0,
+      "zinc": 2.2
+    },
+    "id": 51,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
