@@ -20008,5 +20008,85 @@
     },
     "id": 51,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Kiwi",
+    "brand": "",
+    "barcode": "",
+    "public": true,
+    "emoji": "🥝",
+    "category": "Carbs",
+    "servingG": 100,
+    "servingLabel": "1 Serving · 100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Large",
+        "grams": 91
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Medium",
+        "grams": 76
+      }
+    ],
+    "calories": 61,
+    "protein": 1.1,
+    "fat": 0.5,
+    "carbs": 14.7,
+    "fiber": 3,
+    "netCarbs": 11.7,
+    "mono": 0,
+    "poly": 0.3,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 9,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0,
+      "b3": 0.3,
+      "b5": 0.2,
+      "b6": 0.1,
+      "b12": 0,
+      "folate": 25,
+      "a": 4.3,
+      "c": 92.7,
+      "d": 0,
+      "e": 1.5,
+      "k": 40.3
+    },
+    "minerals": {
+      "calcium": 34,
+      "copper": 0.1,
+      "iron": 0.3,
+      "magnesium": 17,
+      "manganese": 0.1,
+      "phosphorus": 34,
+      "potassium": 312,
+      "selenium": 0.2,
+      "sodium": 3,
+      "zinc": 0.1
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 0,
+      "choline": 7.8,
+      "water": 0
+    },
+    "id": 52,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
