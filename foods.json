@@ -617,18 +617,33 @@
     "fiber": 0
   },
   {
-    "id": "cheese_american",
     "name": "Cheese (American)",
-    "nameEs": "Queso (Americano)",
-    "category": "Protein",
+    "brand": "",
+    "barcode": "",
+    "public": true,
     "emoji": "🧀",
-    "servingLabel": "100 g",
+    "category": "Fat",
     "servingG": 100,
+    "servingLabel": "1 Serving · 100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Slice",
+        "grams": 21
+      }
+    ],
     "calories": 371,
     "protein": 18,
-    "carbs": 5,
     "fat": 31,
-    "fiber": 0
+    "carbs": 5,
+    "fiber": 0,
+    "id": "cheese_american",
+    "submittedBy": null
   },
   {
     "id": "cheese_asiago",
