@@ -624,19 +624,8 @@
     "emoji": "🧀",
     "category": "Fat",
     "servingG": 100,
-    "servingLabel": "1 Serving · 100 g",
-    "servings": [
-      {
-        "qty": 1,
-        "unitLabel": "Serving",
-        "grams": 100
-      },
-      {
-        "qty": 1,
-        "unitLabel": "Slice",
-        "grams": 21
-      }
-    ],
+    "servingLabel": "100 g",
+    "servings": null,
     "calories": 371,
     "protein": 18,
     "fat": 31,
