@@ -20249,5 +20249,61 @@
     },
     "id": 55,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Thin Sliced Oven Roasted White Turkey",
+    "brand": "Foster Farms",
+    "barcode": "075278155301",
+    "public": true,
+    "emoji": "🍖",
+    "category": "Protein",
+    "servingG": 70,
+    "servingLabel": "2 Slices · 70 g",
+    "servings": [
+      {
+        "qty": 2,
+        "unitLabel": "Slices",
+        "grams": 70
+      }
+    ],
+    "calories": 70,
+    "protein": 8,
+    "fat": 3,
+    "carbs": 2,
+    "fiber": 1,
+    "netCarbs": 1,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0.5,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0.5,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 200,
+      "selenium": 0,
+      "sodium": 590,
+      "zinc": 0
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 25,
+      "choline": 0,
+      "water": 0
+    },
+    "id": 56,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
