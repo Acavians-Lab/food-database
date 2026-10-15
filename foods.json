@@ -20139,5 +20139,36 @@
     },
     "id": 53,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Vodka ( 80 Proof )",
+    "brand": "",
+    "barcode": "",
+    "public": true,
+    "emoji": "🍶",
+    "category": "Carbs",
+    "servingG": 50,
+    "servingLabel": "1 Shot · 50 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Shot",
+        "grams": 50
+      }
+    ],
+    "calories": 116,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "other": {
+      "alcohol": 16.7,
+      "caffeine": 0,
+      "cholesterol": 0,
+      "choline": 0,
+      "water": 0
+    },
+    "id": 54,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
