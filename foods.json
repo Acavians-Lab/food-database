@@ -20148,12 +20148,17 @@
     "emoji": "🍶",
     "category": "Carbs",
     "servingG": 50,
-    "servingLabel": "1 Shot · 50 g",
+    "servingLabel": "1 Nip · 50 g",
     "servings": [
       {
         "qty": 1,
-        "unitLabel": "Shot",
+        "unitLabel": "Nip",
         "grams": 50
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Jigger",
+        "grams": 42
       }
     ],
     "calories": 116,
@@ -20168,7 +20173,7 @@
       "choline": 0,
       "water": 0
     },
-    "id": 54,
+    "id": "54",
     "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
