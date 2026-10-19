@@ -17640,62 +17640,6 @@
     "submittedBy": "alejandroupmh@gmail.com"
   },
   {
-    "name": "Creamy Crisp",
-    "brand": "Barebells",
-    "barcode": "850000020566",
-    "public": true,
-    "emoji": "🍫",
-    "category": "Protein",
-    "servingG": 55,
-    "servingLabel": "1 Bar · 55 g",
-    "servings": [
-      {
-        "qty": 1,
-        "unitLabel": "Bar",
-        "grams": 55
-      }
-    ],
-    "calories": 200,
-    "protein": 20,
-    "fat": 8,
-    "carbs": 19,
-    "fiber": 3,
-    "netCarbs": 16,
-    "mono": 0,
-    "poly": 0,
-    "omega3": 0,
-    "omega3ALA": 0,
-    "omega3DHA": 0,
-    "omega3EPA": 0,
-    "omega6": 0,
-    "satFat": 3.5,
-    "transFat": 0,
-    "starch": 0,
-    "sugars": 1,
-    "sugarsAdded": 0,
-    "minerals": {
-      "calcium": 140,
-      "copper": 0,
-      "iron": 1.5,
-      "magnesium": 0,
-      "manganese": 0,
-      "phosphorus": 0,
-      "potassium": 150,
-      "selenium": 0,
-      "sodium": 120,
-      "zinc": 0
-    },
-    "other": {
-      "alcohol": 0,
-      "caffeine": 0,
-      "cholesterol": 10,
-      "choline": 0,
-      "water": 0
-    },
-    "id": 25,
-    "submittedBy": "alejandroupmh@gmail.com"
-  },
-  {
     "name": "3 Meat Pizza",
     "brand": "7 Eleven",
     "barcode": "",
