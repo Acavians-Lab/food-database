@@ -20353,5 +20353,47 @@
     },
     "id": 57,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "4-in-1 Fiber",
+    "brand": "Meta Mucil",
+    "barcode": "037000741367",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Supplements",
+    "servingG": 5.8,
+    "servingLabel": "1 Teaspoon · 5.8 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Teaspoon",
+        "grams": 5.8
+      },
+      {
+        "qty": 2,
+        "unitLabel": "Teaspoons",
+        "grams": 11.6
+      }
+    ],
+    "calories": 15,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 5,
+    "fiber": 3,
+    "netCarbs": 2,
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0.4,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 30,
+      "selenium": 0,
+      "sodium": 5,
+      "zinc": 0
+    },
+    "id": 58,
+    "submittedBy": "alejandroupmh@gmail.com"
   }
 ]
