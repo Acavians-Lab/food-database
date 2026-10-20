@@ -20461,5 +20461,55 @@
     "fiber": 0,
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "gaba_750_mg_mvg2ikfl"
+  },
+  {
+    "name": "Daily Multivitamin",
+    "brand": "Kirkland",
+    "barcode": "096619416073",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Supplements",
+    "servingG": 1,
+    "servingLabel": "1 Tablet · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Tablet",
+        "grams": 1
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "vitamins": {
+      "b1": 1.5,
+      "b2": 1.7,
+      "b3": 20,
+      "b5": 10,
+      "b6": 2,
+      "b12": 6,
+      "folate": 833,
+      "a": 1050,
+      "c": 90,
+      "d": 10,
+      "e": 13.5,
+      "k": 25
+    },
+    "minerals": {
+      "calcium": 200,
+      "copper": 0.9,
+      "iron": 18,
+      "magnesium": 100,
+      "manganese": 2.3,
+      "phosphorus": 109,
+      "potassium": 80,
+      "selenium": 55,
+      "sodium": 0,
+      "zinc": 11
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "daily_multivitamin_mvg2okuv"
   }
 ]
