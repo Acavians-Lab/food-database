@@ -20535,5 +20535,55 @@
     "fiber": 0,
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "nac_600_mg_mvg2qhm9"
+  },
+  {
+    "name": "Super B-Complex",
+    "brand": "Kirkland Signature",
+    "barcode": "096619777792",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Supplements",
+    "servingG": 1,
+    "servingLabel": "1 Tablet · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Tablet",
+        "grams": 1
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "vitamins": {
+      "b1": 100,
+      "b2": 20,
+      "b3": 25,
+      "b5": 5.5,
+      "b6": 3,
+      "b12": 100,
+      "folate": 666,
+      "a": 0,
+      "c": 200,
+      "d": 0,
+      "e": 0,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 0,
+      "copper": 0,
+      "iron": 0,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 30,
+      "selenium": 0,
+      "sodium": 90,
+      "zinc": 0
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "super_b_complex_mvg2t392"
   }
 ]
