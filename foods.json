@@ -20659,5 +20659,75 @@
     "sugarsAdded": 0,
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "proomega_fish_oil_2000_mvg3035d"
+  },
+  {
+    "name": "Brownie Batter",
+    "brand": "Barebell",
+    "barcode": "850075778447",
+    "public": true,
+    "emoji": "🍫",
+    "category": "Protein",
+    "servingG": 55,
+    "servingLabel": "1 Bar · 55 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Bar",
+        "grams": 55
+      }
+    ],
+    "calories": 210,
+    "protein": 20,
+    "fat": 8,
+    "carbs": 20,
+    "fiber": 3,
+    "netCarbs": 17,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 4,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 1,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0,
+      "b3": 0,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0,
+      "folate": 0,
+      "a": 0,
+      "c": 0,
+      "d": 0.2,
+      "e": 0,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 150,
+      "copper": 0,
+      "iron": 1.6,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 140,
+      "selenium": 0,
+      "sodium": 150,
+      "zinc": 0
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 5,
+      "choline": 0,
+      "water": 0
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "brownie_batter_mvg7np9q"
   }
 ]
