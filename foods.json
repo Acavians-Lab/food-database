@@ -20339,5 +20339,29 @@
     },
     "id": 58,
     "submittedBy": "alejandroupmh@gmail.com"
+  },
+  {
+    "name": "Berberine ( 500mg )",
+    "brand": "",
+    "barcode": "",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Supplements",
+    "servingG": 1,
+    "servingLabel": "1 Capsule · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Capsule",
+        "grams": 1
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "berberine_500mg_mvfxwuaa"
   }
 ]
