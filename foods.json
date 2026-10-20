@@ -20511,5 +20511,29 @@
     },
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "daily_multivitamin_mvg2okuv"
+  },
+  {
+    "name": "NAC ( 600 mg )",
+    "brand": "The Vitamin Shoppe",
+    "barcode": "766536016969",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Supplements",
+    "servingG": 1,
+    "servingLabel": "1 Capsule · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Capsule",
+        "grams": 1
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "nac_600_mg_mvg2qhm9"
   }
 ]
