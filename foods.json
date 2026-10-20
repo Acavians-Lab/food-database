@@ -20437,5 +20437,29 @@
     "fiber": 0,
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "l_tryptophan_500_mg_mvg2hb7x"
+  },
+  {
+    "name": "GABA ( 750 MG )",
+    "brand": "The Vitamin Shoppe",
+    "barcode": "766536022182",
+    "public": true,
+    "emoji": "🫙",
+    "category": "Supplements",
+    "servingG": 1,
+    "servingLabel": "1 Capsule · 1 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Capsule",
+        "grams": 1
+      }
+    ],
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 0,
+    "fiber": 0,
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "gaba_750_mg_mvg2ikfl"
   }
 ]
