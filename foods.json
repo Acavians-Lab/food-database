@@ -20931,5 +20931,74 @@
     },
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "reduced_fat_2_milk_mvhpo6nr"
+  },
+  {
+    "name": "Carnitas ( Only Meat )",
+    "brand": "",
+    "barcode": "",
+    "public": true,
+    "emoji": "🐖",
+    "category": "Protein",
+    "servingG": 100,
+    "servingLabel": "1 Serving · 100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      }
+    ],
+    "calories": 303,
+    "protein": 22,
+    "fat": 23,
+    "carbs": 0,
+    "fiber": 0,
+    "mono": 0,
+    "poly": 0,
+    "omega3": 0.1,
+    "omega3ALA": 0.1,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 2,
+    "satFat": 8.7,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0.6,
+      "b2": 0.3,
+      "b3": 3.8,
+      "b5": 0.6,
+      "b6": 0.2,
+      "b12": 0.8,
+      "folate": 4.7,
+      "a": 1.9,
+      "c": 0.7,
+      "d": 1.4,
+      "e": 0.2,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 26.5,
+      "copper": 0.1,
+      "iron": 1.4,
+      "magnesium": 17,
+      "manganese": 0,
+      "phosphorus": 186.4,
+      "potassium": 314.2,
+      "selenium": 32.5,
+      "sodium": 63.4,
+      "zinc": 3.8
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 0,
+      "choline": 77.8,
+      "water": 54.4
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "carnitas_only_meat_mvo5m29t"
   }
 ]
