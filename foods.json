@@ -10994,31 +10994,6 @@
     "brand": "PBfit"
   },
   {
-    "id": "rosarita_no_fat_refried_beans",
-    "name": "No Fat Traditional Refried Beans",
-    "nameEs": "Frijoles Refritos Tradicionales Sin Grasa",
-    "category": "Carbs",
-    "emoji": "🫘",
-    "servingLabel": "1/2 Cup · 128 g",
-    "servingG": 128,
-    "calories": 80,
-    "protein": 5,
-    "carbs": 16,
-    "fat": 0,
-    "fiber": 5,
-    "satFat": 0,
-    "transFat": 0,
-    "sugars": 1,
-    "sugarsAdded": 0,
-    "minerals": {
-      "sodium": 470,
-      "iron": 1.4,
-      "potassium": 560
-    },
-    "legacyName": "No Fat Traditional Refried Beans By Rosarita",
-    "brand": "Rosarita"
-  },
-  {
     "id": "bum_thuper_thavage_preworkout_citrus_grapefruit",
     "name": "Thuper Thavage Pre-Workout (Citrus Grapefruit)",
     "nameEs": "Pre-Entreno Thuper Thavage (Cítrico Toronja)",
