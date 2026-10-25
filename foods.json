@@ -3346,18 +3346,74 @@
     "fiber": 0
   },
   {
-    "id": "tilapia",
     "name": "Tilapia",
-    "nameEs": "Tilapia",
-    "category": "Protein",
+    "brand": "",
+    "barcode": "",
+    "public": true,
     "emoji": "🐟",
-    "servingLabel": "1 Fillet · 116 g",
-    "servingG": 116,
-    "calories": 110,
-    "protein": 23,
+    "category": "Protein",
+    "servingG": 100,
+    "servingLabel": "100 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Serving",
+        "grams": 100
+      }
+    ],
+    "calories": 96,
+    "protein": 20.1,
+    "fat": 1.7,
     "carbs": 0,
-    "fat": 2,
-    "fiber": 0
+    "fiber": 0,
+    "netCarbs": 0,
+    "mono": 0.5,
+    "poly": 0.4,
+    "omega3": 0.2,
+    "omega3ALA": 0,
+    "omega3DHA": 0.1,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0.6,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 0,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0.1,
+      "b3": 3.9,
+      "b5": 0.5,
+      "b6": 0.2,
+      "b12": 1.6,
+      "folate": 24,
+      "a": 0,
+      "c": 0,
+      "d": 3.1,
+      "e": 0.4,
+      "k": 1.4
+    },
+    "minerals": {
+      "calcium": 10,
+      "copper": 0.1,
+      "iron": 0.6,
+      "magnesium": 27,
+      "manganese": 0,
+      "phosphorus": 170,
+      "potassium": 302,
+      "selenium": 41.8,
+      "sodium": 52,
+      "zinc": 0.3
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 50,
+      "choline": 42.5,
+      "water": 78.1
+    },
+    "id": "tilapia",
+    "submittedBy": null
   },
   {
     "id": "tofu_silken_firm",
