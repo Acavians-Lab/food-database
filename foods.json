@@ -21374,5 +21374,61 @@
     },
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "carnitas_only_meat_mvo5m29t"
+  },
+  {
+    "name": "Protein Bumpin' Blueberry",
+    "brand": "Pop-Tarts",
+    "barcode": "038000331466",
+    "public": true,
+    "emoji": "🍞",
+    "category": "Carbs",
+    "servingG": 102,
+    "servingLabel": "2 Pastries · 102 g",
+    "servings": [
+      {
+        "qty": 2,
+        "unitLabel": "Pastries",
+        "grams": 102
+      }
+    ],
+    "calories": 380,
+    "protein": 10,
+    "fat": 7,
+    "carbs": 69,
+    "fiber": 1,
+    "netCarbs": 68,
+    "mono": 1.5,
+    "poly": 2.5,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 2,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 31,
+    "sugarsAdded": 0,
+    "minerals": {
+      "calcium": 20,
+      "copper": 0,
+      "iron": 1.7,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 60,
+      "selenium": 0,
+      "sodium": 270,
+      "zinc": 0
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 20,
+      "choline": 0,
+      "water": 0
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "protein_bumpin_blueberry_mvph3bvz"
   }
 ]
