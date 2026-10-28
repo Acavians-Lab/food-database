@@ -21500,5 +21500,68 @@
     },
     "submittedBy": "alejandroupmh@gmail.com",
     "id": "strawberries_n_cr_me_mvph5sjk"
+  },
+  {
+    "name": "Hamburger Buns",
+    "brand": "Bimbo",
+    "barcode": "074323002201",
+    "public": true,
+    "emoji": "🍔",
+    "category": "Carbs",
+    "servingG": 53,
+    "servingLabel": "1 Bun · 53 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Bun",
+        "grams": 53
+      }
+    ],
+    "calories": 150,
+    "protein": 5,
+    "fat": 1.5,
+    "carbs": 28,
+    "fiber": 2,
+    "netCarbs": 26,
+    "mono": 0,
+    "poly": 1,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 4,
+    "sugarsAdded": 4,
+    "vitamins": {
+      "b1": 0.21,
+      "b2": 0.15,
+      "b3": 2.3,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0,
+      "folate": 110,
+      "a": 0,
+      "c": 0,
+      "d": 0,
+      "e": 0,
+      "k": 0
+    },
+    "minerals": {
+      "calcium": 45,
+      "copper": 0,
+      "iron": 1.5,
+      "magnesium": 0,
+      "manganese": 0,
+      "phosphorus": 0,
+      "potassium": 45,
+      "selenium": 0,
+      "sodium": 280,
+      "zinc": 0
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "hamburger_buns_mvrkdr7a"
   }
 ]
