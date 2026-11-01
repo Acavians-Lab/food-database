@@ -7573,18 +7573,94 @@
     "fiber": 0
   },
   {
-    "id": "peaches",
     "name": "Peaches",
-    "nameEs": "Duraznos",
-    "category": "Carbs",
+    "brand": "",
+    "barcode": "",
+    "public": true,
     "emoji": "🍑",
-    "servingLabel": "100 g",
-    "servingG": 100,
-    "calories": 36,
-    "protein": 1,
-    "carbs": 8,
-    "fat": 0,
-    "fiber": 0
+    "category": "Carbs",
+    "servingG": 175,
+    "servingLabel": "1 Large · 175 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Large",
+        "grams": 175
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Medium",
+        "grams": 150
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Slice",
+        "grams": 20
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Small",
+        "grams": 30
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Extra Large",
+        "grams": 224
+      }
+    ],
+    "calories": 68,
+    "protein": 1.6,
+    "fat": 0.4,
+    "carbs": 16.7,
+    "fiber": 2.6,
+    "netCarbs": 14.1,
+    "mono": 0.1,
+    "poly": 0.2,
+    "omega3": 0,
+    "omega3ALA": 0,
+    "omega3DHA": 0,
+    "omega3EPA": 0,
+    "omega6": 0.1,
+    "satFat": 0,
+    "transFat": 0,
+    "starch": 0,
+    "sugars": 14.7,
+    "sugarsAdded": 0,
+    "vitamins": {
+      "b1": 0,
+      "b2": 0.1,
+      "b3": 1.4,
+      "b5": 0,
+      "b6": 0,
+      "b12": 0,
+      "folate": 7,
+      "a": 28.5,
+      "c": 11.6,
+      "d": 0,
+      "e": 1.2,
+      "k": 4.5
+    },
+    "minerals": {
+      "calcium": 10.5,
+      "copper": 0.1,
+      "iron": 0.4,
+      "magnesium": 15.8,
+      "manganese": 0.1,
+      "phosphorus": 35,
+      "potassium": 332.5,
+      "selenium": 0.2,
+      "sodium": 0,
+      "zinc": 0.3
+    },
+    "other": {
+      "alcohol": 0,
+      "caffeine": 0,
+      "cholesterol": 0,
+      "choline": 10.7,
+      "water": 155.5
+    },
+    "id": "peaches",
+    "submittedBy": null
   },
   {
     "id": "peaches_frozen",
