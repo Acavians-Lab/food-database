@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="globster" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF7043"/>
+      <stop offset="100%" stop-color="#E64A19"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="44" fill="url(#globster)"/>
+  
+    <path d="M56 30 Q72 36 72 48 Q72 62 56 66 Q44 68 36 62 Q30 56 34 50 Q38 44 46 42 Q52 38 56 30Z" fill="#FFCCBC" stroke="#BF360C" stroke-width="0.5" opacity="0.3"/>
+    <path d="M56 30 Q72 36 72 48 Q72 62 56 66 Q44 68 36 62 Q30 56 34 50 Q38 44 46 42 Q52 38 56 30Z" fill="#FFCCBC"/>
+    <path d="M56 34 Q66 38 68 48 Q68 58 56 62" stroke="#FBE9E7" stroke-width="1.5" fill="none" opacity="0.4"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="gmayonnaiselight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDD835"/>
+      <stop offset="100%" stop-color="#F9A825"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="44" fill="url(#gmayonnaiselight)"/>
+  
+    <rect x="26" y="38" width="44" height="24" rx="3" fill="#FFFDE7"/>
+    <rect x="26" y="38" width="44" height="10" rx="3" fill="#FFF9C4" opacity="0.25"/>
+    <line x1="44" y1="38" x2="44" y2="62" stroke="#F57F17" stroke-width="0.8" opacity="0.15"/>
+</svg>

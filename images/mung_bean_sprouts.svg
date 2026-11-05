@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="gmungbeansprouts" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#66BB6A"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="44" fill="url(#gmungbeansprouts)"/>
+  
+    <path d="M28 52 Q28 38 48 34 Q68 38 68 52 Q68 62 48 66 Q28 62 28 52Z" fill="#C8E6C9"/>
+    <circle cx="38" cy="50" r="5" fill="#E8F5E9" opacity="0.5"/>
+    <circle cx="48" cy="48" r="5" fill="#E8F5E9" opacity="0.5"/>
+    <circle cx="58" cy="50" r="5" fill="#E8F5E9" opacity="0.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="gdatespitted" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFB74D"/>
+      <stop offset="100%" stop-color="#F57C00"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="44" fill="url(#gdatespitted)"/>
+  
+    <circle cx="48" cy="52" r="20" fill="#EF5350"/>
+    <path d="M48 32 Q50 24 54 26" stroke="#795548" stroke-width="2" fill="none"/>
+    <path d="M52 30 Q58 24 56 32" fill="#FFF3E0"/>
+    <ellipse cx="40" cy="48" rx="4" ry="7" fill="#E53935" opacity="0.3"/>
+</svg>

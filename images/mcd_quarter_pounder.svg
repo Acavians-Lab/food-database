@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <defs>
+    <linearGradient id="gmcdquarterpounder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF7043"/>
+      <stop offset="100%" stop-color="#E64A19"/>
+    </linearGradient>
+  </defs>
+  <circle cx="48" cy="48" r="44" fill="url(#gmcdquarterpounder)"/>
+  
+    <path d="M26 54 L26 42 Q26 30 48 30 Q70 30 70 42 L70 54 Q70 62 48 62 Q26 62 26 54Z" fill="#FFCCBC"/>
+    <path d="M26 42 Q26 30 48 30 Q70 30 70 42 Q70 50 48 50 Q26 50 26 42Z" fill="#FBE9E7" opacity="0.3"/>
+    <line x1="48" y1="32" x2="48" y2="48" stroke="#BF360C" stroke-width="0.8" opacity="0.2"/>
+</svg>
