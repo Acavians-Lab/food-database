@@ -387,7 +387,7 @@
     },
     "id": "beef_9010_ground",
     "submittedBy": null,
-    "searchName": "Beef"
+    "searchName": "Ground Beef"
   },
   {
     "name": "Beef ( 93% Lean )",
@@ -452,7 +452,7 @@
     },
     "id": "beef_937_ground",
     "submittedBy": null,
-    "searchName": "Beef"
+    "searchName": "Lean Ground Beef"
   },
   {
     "name": "Beef ( 95% Lean )",
@@ -517,7 +517,7 @@
     },
     "id": "beef_955_ground",
     "submittedBy": null,
-    "searchName": "Beef"
+    "searchName": "Extra Lean Ground Beef"
   },
   {
     "id": "beef_bottom_round_roast",
@@ -532,7 +532,7 @@
     "carbs": 0,
     "fat": 4,
     "fiber": 0,
-    "searchName": "Beef"
+    "searchName": "Beef Bottom Round Roast"
   },
   {
     "id": "beef_eye_of_round_roast",
@@ -547,7 +547,7 @@
     "carbs": 0,
     "fat": 7,
     "fiber": 0,
-    "searchName": "Beef"
+    "searchName": "Beef Eye Round Roast"
   },
   {
     "name": "Beef (85% Lean)",
@@ -612,7 +612,7 @@
     },
     "id": "beef_8515_ground",
     "submittedBy": null,
-    "searchName": "Beef"
+    "searchName": "Ground Beef Patty"
   },
   {
     "id": "beef_heart",
@@ -627,7 +627,7 @@
     "carbs": 0,
     "fat": 4,
     "fiber": 0,
-    "searchName": "Beef heart"
+    "searchName": "Beef Heart"
   },
   {
     "id": "beef_kidney",
@@ -642,7 +642,7 @@
     "carbs": 0,
     "fat": 4,
     "fiber": 0,
-    "searchName": "Beef kidney"
+    "searchName": "Beef Kidney"
   },
   {
     "id": "beef_liver",
@@ -657,7 +657,7 @@
     "carbs": 3,
     "fat": 4,
     "fiber": 0,
-    "searchName": "Beef liver"
+    "searchName": "Beef Liver"
   },
   {
     "id": "beef_tongue",
@@ -731,7 +731,7 @@
       "choline": 0,
       "water": 64.5
     },
-    "searchName": "Beef tongue"
+    "searchName": "Beef Tongue"
   },
   {
     "id": "bison_chuck",
@@ -761,7 +761,7 @@
     "carbs": 0,
     "fat": 7,
     "fiber": 0,
-    "searchName": "Bison"
+    "searchName": "Ground Bison"
   },
   {
     "id": "bison_top_round",
@@ -1155,7 +1155,7 @@
     "carbs": 2,
     "fat": 22,
     "fiber": 0,
-    "searchName": "Mozzarella Cheese"
+    "searchName": "Mozzarella"
   },
   {
     "name": "Organic String Mozzarella",
@@ -1447,7 +1447,7 @@
       "choline": 74.2,
       "water": 75.6
     },
-    "searchName": "Chicken"
+    "searchName": "Chicken Breast"
   },
   {
     "id": "chicken_dark_meat",
@@ -1477,7 +1477,7 @@
     "carbs": 0,
     "fat": 8,
     "fiber": 0,
-    "searchName": "Chicken"
+    "searchName": "Ground Chicken"
   },
   {
     "name": "Chicken Wing - Raw",
@@ -1647,7 +1647,7 @@
     "carbs": 0,
     "fat": 11,
     "fiber": 0,
-    "searchName": "Chicken"
+    "searchName": "Chicken Thigh"
   },
   {
     "id": "chicken_liver",
@@ -1903,7 +1903,7 @@
     "carbs": 0,
     "fat": 4,
     "fiber": 0,
-    "searchName": "Duck"
+    "searchName": "Duck Breast"
   },
   {
     "id": "duck_leg",
@@ -1918,7 +1918,7 @@
     "carbs": 0,
     "fat": 3,
     "fiber": 0,
-    "searchName": "Duck"
+    "searchName": "Duck Leg"
   },
   {
     "id": "edamame_pasta",
@@ -1993,7 +1993,7 @@
     "carbs": 0,
     "fat": 5,
     "fiber": 0,
-    "searchName": "Eggs"
+    "searchName": "Whole Eggs"
   },
   {
     "id": "eggs_boiled",
@@ -2374,7 +2374,7 @@
     "carbs": 0,
     "fat": 5,
     "fiber": 0,
-    "searchName": "Lamb"
+    "searchName": "Lamb Leg"
   },
   {
     "id": "lamb_shoulder",
@@ -2419,7 +2419,7 @@
     "carbs": 0,
     "fat": 6,
     "fiber": 0,
-    "searchName": "Lamb"
+    "searchName": "Lamb Shank"
   },
   {
     "id": "lamb_ground",
@@ -2434,7 +2434,7 @@
     "carbs": 0,
     "fat": 13,
     "fiber": 0,
-    "searchName": "Lamb"
+    "searchName": "Ground Lamb"
   },
   {
     "id": "lamb_liver",
@@ -2524,7 +2524,7 @@
     "carbs": 12,
     "fat": 2,
     "fiber": 0,
-    "searchName": "1% Milk"
+    "searchName": "1 Percent Milk"
   },
   {
     "id": "milk_2",
@@ -2539,7 +2539,7 @@
     "carbs": 12,
     "fat": 5,
     "fiber": 0,
-    "searchName": "2% Milk"
+    "searchName": "2 Percent Milk"
   },
   {
     "id": "milk_nonfat",
@@ -3424,7 +3424,7 @@
     "carbs": 0,
     "fat": 4,
     "fiber": 0,
-    "searchName": "Salmon"
+    "searchName": "Smoked Salmon"
   },
   {
     "id": "salmon_canned",
@@ -3439,7 +3439,7 @@
     "carbs": 0,
     "fat": 5,
     "fiber": 0,
-    "searchName": "Salmon"
+    "searchName": "Canned Salmon"
   },
   {
     "id": "sardines_canned_in_sauce",
@@ -3724,7 +3724,7 @@
     "carbs": 0,
     "fat": 6,
     "fiber": 0,
-    "searchName": "Filet Mignon Steak"
+    "searchName": "Filet Mignon"
   },
   {
     "id": "steak_ribeye",
@@ -3739,7 +3739,7 @@
     "carbs": 0,
     "fat": 7,
     "fiber": 0,
-    "searchName": "Ribeye Steak"
+    "searchName": "Ribeye Steak Raw"
   },
   {
     "id": "steak_sirloin_tip",
@@ -3960,7 +3960,7 @@
     "carbs": 2,
     "fat": 2,
     "fiber": 0,
-    "searchName": "Tofu"
+    "searchName": "Extra Firm Tofu"
   },
   {
     "id": "tofu_regular",
@@ -3990,7 +3990,7 @@
     "carbs": 0,
     "fat": 9,
     "fiber": 0,
-    "searchName": "Tofu"
+    "searchName": "Firm Tofu"
   },
   {
     "id": "trout",
@@ -4035,7 +4035,7 @@
     "carbs": 0,
     "fat": 8,
     "fiber": 0,
-    "searchName": "Tuna"
+    "searchName": "Tuna In Oil"
   },
   {
     "id": "tuna_canned_in_water",
@@ -4050,7 +4050,7 @@
     "carbs": 0,
     "fat": 3,
     "fiber": 0,
-    "searchName": "Tuna"
+    "searchName": "Canned Tuna"
   },
   {
     "id": "tuna_yellowfin",
@@ -4095,7 +4095,7 @@
     "carbs": 0,
     "fat": 2,
     "fiber": 0,
-    "searchName": "Turkey"
+    "searchName": "Turkey Breast"
   },
   {
     "id": "turkey_ground",
@@ -4125,7 +4125,7 @@
     "carbs": 0,
     "fat": 5,
     "fiber": 0,
-    "searchName": "Turkey"
+    "searchName": "Turkey Thigh"
   },
   {
     "id": "turkey_leg",
@@ -4140,7 +4140,7 @@
     "carbs": 0,
     "fat": 5,
     "fiber": 0,
-    "searchName": "Turkey"
+    "searchName": "Turkey Leg"
   },
   {
     "id": "turkey_8515_ground",
@@ -4425,7 +4425,7 @@
     "carbs": 4,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Bell Peppers"
+    "searchName": "Green Bell Pepper"
   },
   {
     "id": "bell_peppers_orange",
@@ -4440,7 +4440,7 @@
     "carbs": 6,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Bell Peppers"
+    "searchName": "Orange Bell Pepper"
   },
   {
     "id": "bell_peppers_red",
@@ -4455,7 +4455,7 @@
     "carbs": 6,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Bell Peppers"
+    "searchName": "Red Bell Pepper"
   },
   {
     "id": "bell_peppers_yellow",
@@ -4470,7 +4470,7 @@
     "carbs": 6,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Bell Peppers"
+    "searchName": "Yellow Bell Pepper"
   },
   {
     "id": "bitter_melons",
@@ -5164,7 +5164,7 @@
     "carbs": 7,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Mushrooms"
+    "searchName": "Shiitake Mushrooms"
   },
   {
     "id": "mushrooms_white",
@@ -5179,7 +5179,7 @@
     "carbs": 2,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Mushrooms"
+    "searchName": "White Mushrooms"
   },
   {
     "id": "mushrooms_enoki",
@@ -5553,7 +5553,7 @@
     "carbs": 7,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Squash"
+    "searchName": "Acorn Squash"
   },
   {
     "id": "squash_butternut",
@@ -5568,7 +5568,7 @@
     "carbs": 8,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Squash"
+    "searchName": "Butternut Squash"
   },
   {
     "id": "squash_kabocha",
@@ -5598,7 +5598,7 @@
     "carbs": 6,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Squash"
+    "searchName": "Spaghetti Squash"
   },
   {
     "id": "squash_yellow",
@@ -5613,7 +5613,7 @@
     "carbs": 3,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Squash"
+    "searchName": "Yellow Squash"
   },
   {
     "id": "tarragon_fresh",
@@ -8162,7 +8162,7 @@
     "carbs": 9,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Peas"
+    "searchName": "Green Peas"
   },
   {
     "id": "peas_snow",
@@ -8177,7 +8177,7 @@
     "carbs": 5,
     "fat": 0,
     "fiber": 0,
-    "searchName": "Peas"
+    "searchName": "Snow Peas"
   },
   {
     "id": "peas_sugar_snap",
@@ -9212,7 +9212,7 @@
     "carbs": 9,
     "fat": 1,
     "fiber": 0,
-    "searchName": "Tortillas"
+    "searchName": "Corn Tortilla"
   },
   {
     "id": "tortillas_flour",
@@ -10300,7 +10300,7 @@
     "carbs": 8,
     "fat": 31,
     "fiber": 0,
-    "searchName": "Seeds"
+    "searchName": "Chia Seeds"
   },
   {
     "id": "seeds_flax",
@@ -10315,7 +10315,7 @@
     "carbs": 2,
     "fat": 42,
     "fiber": 0,
-    "searchName": "Seeds"
+    "searchName": "Flax Seeds"
   },
   {
     "id": "seeds_hemp",
@@ -10330,7 +10330,7 @@
     "carbs": 1,
     "fat": 15,
     "fiber": 0,
-    "searchName": "Seeds"
+    "searchName": "Hemp Seeds"
   },
   {
     "id": "seeds_sesame",
@@ -10360,7 +10360,7 @@
     "carbs": 16,
     "fat": 72,
     "fiber": 0,
-    "searchName": "Seeds"
+    "searchName": "Sunflower Seeds"
   },
   {
     "id": "sour_cream",
