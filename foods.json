@@ -19608,23 +19608,6 @@
     "searchName": "McDonald's Hotcakes"
   },
   {
-    "id": "mcd_scrambled_eggs",
-    "name": "Scrambled Eggs (2)",
-    "nameEs": "Huevos Revueltos (2)",
-    "category": "Protein",
-    "emoji": "🍳",
-    "servingLabel": "2 eggs",
-    "servingG": 98,
-    "calories": 170,
-    "protein": 13,
-    "carbs": 2,
-    "fat": 12,
-    "fiber": 0,
-    "legacyName": "Scrambled Eggs (2) By McDonald's",
-    "brand": "McDonald's",
-    "searchName": "McDonald's Scrambled Eggs"
-  },
-  {
     "id": "mcd_baked_apple_pie",
     "name": "Baked Apple Pie",
     "nameEs": "Pay de Manzana Horneado",
