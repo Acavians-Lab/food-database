@@ -2077,7 +2077,7 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Eggs.png"
   },
   {
-    "name": "Eggs (Whole)",
+    "name": "Eggs",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2094,7 +2094,8 @@
     "fiber": 0,
     "netCarbs": 0,
     "id": "eggs_whole",
-    "submittedBy": null
+    "submittedBy": null,
+    "legacyName": "Eggs (Whole)"
   },
   {
     "id": "eggs_boiled",
