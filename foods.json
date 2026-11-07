@@ -8220,22 +8220,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Lychees.png"
   },
   {
-    "id": "maltodextrin",
-    "name": "Maltodextrin",
-    "nameEs": "Maltodextrina",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "100 g",
-    "servingG": 100,
-    "calories": 380,
-    "protein": 0,
-    "carbs": 95,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Maltodextrin",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Maltodextrin.png"
-  },
-  {
     "id": "mangoes",
     "name": "Mangoes",
     "nameEs": "Mangos",
