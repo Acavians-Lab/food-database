@@ -3587,22 +3587,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/David%20Protein%20Bar.png"
   },
   {
-    "id": "protein_shot_blueberry_lemonade",
-    "name": "Protein Shot Blueberry Lemonade",
-    "nameEs": "Shot de Proteína Arándano y Limonada",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "Genius Shot · 1 shot",
-    "servingG": 1,
-    "calories": 100,
-    "protein": 23,
-    "carbs": 2,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Protein Shot Blueberry Lemonade",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Shot%20Blueberry%20Lemonade.png"
-  },
-  {
     "id": "protein_shot_lemon_lime",
     "name": "Protein Shot Lemon Lime",
     "nameEs": "Shot de Proteína Limón y Lima",
