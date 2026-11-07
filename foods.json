@@ -3587,22 +3587,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/David%20Protein%20Bar.png"
   },
   {
-    "id": "protein_shot_blue_raspberry",
-    "name": "Protein Shot Blue Raspberry",
-    "nameEs": "Shot de Proteína Frambuesa Azul",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "Genius Shot · 1 shot",
-    "servingG": 1,
-    "calories": 92,
-    "protein": 23,
-    "carbs": 0,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Protein Shot Blue Raspberry",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Shot%20Blue%20Raspberry.png"
-  },
-  {
     "id": "protein_shot_blueberry_lemonade",
     "name": "Protein Shot Blueberry Lemonade",
     "nameEs": "Shot de Proteína Arándano y Limonada",
