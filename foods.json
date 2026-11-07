@@ -10827,7 +10827,7 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Corn%20Oil.png"
   },
   {
-    "name": "Oil (Fish)",
+    "name": "Fish Oil",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -10844,7 +10844,8 @@
     "fiber": 0,
     "netCarbs": 0,
     "id": "oil_fish",
-    "submittedBy": null
+    "submittedBy": null,
+    "legacyName": "Oil (Fish)"
   },
   {
     "id": "oil_flaxseed",
