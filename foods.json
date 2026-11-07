@@ -4099,22 +4099,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Soybeans.png"
   },
   {
-    "id": "spirulina_dried",
-    "name": "Spirulina (Dried)",
-    "nameEs": "Espirulina (Seca)",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "1 tbsp · 7 g",
-    "servingG": 7,
-    "calories": 29,
-    "protein": 4,
-    "carbs": 1,
-    "fat": 1,
-    "fiber": 0,
-    "searchName": "Spirulina",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Spirulina.png"
-  },
-  {
     "id": "squidcalamari",
     "name": "Squid/Calamari",
     "nameEs": "Calamar",
