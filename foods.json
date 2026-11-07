@@ -4835,22 +4835,6 @@
     "submittedBy": null
   },
   {
-    "id": "textured_veg_protein",
-    "name": "Textured Veg Protein",
-    "nameEs": "Proteína Vegetal Texturizada",
-    "category": "Protein",
-    "emoji": "🌱",
-    "servingLabel": "100 g",
-    "servingG": 100,
-    "calories": 368,
-    "protein": 53,
-    "carbs": 12,
-    "fat": 12,
-    "fiber": 0,
-    "searchName": "Textured Veg Protein",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Textured%20Veg%20Protein.png"
-  },
-  {
     "name": "Tilapia",
     "brand": "",
     "barcode": "",
