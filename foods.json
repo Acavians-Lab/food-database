@@ -7646,22 +7646,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Dates.png"
   },
   {
-    "id": "dextrose",
-    "name": "Dextrose",
-    "nameEs": "Dextrosa",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "100 g",
-    "servingG": 100,
-    "calories": 400,
-    "protein": 0,
-    "carbs": 100,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Dextrose",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Dextrose.png"
-  },
-  {
     "id": "dragon_fruit",
     "name": "Dragon Fruit",
     "nameEs": "Pitahaya",
