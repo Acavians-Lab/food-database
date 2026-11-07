@@ -2105,22 +2105,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Colby.png"
   },
   {
-    "id": "cornish_game_hens",
-    "name": "Cornish game hens",
-    "nameEs": "Gallina de Cornualles",
-    "category": "Protein",
-    "emoji": "🍗",
-    "servingLabel": "1 Hen · 239 g",
-    "servingG": 239,
-    "calories": 264,
-    "protein": 48,
-    "carbs": 0,
-    "fat": 8,
-    "fiber": 0,
-    "searchName": "Cornish game hens",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Cornish%20Game%20Hens.png"
-  },
-  {
     "id": "cotija",
     "name": "Cotija",
     "nameEs": "Queso Cotija",
