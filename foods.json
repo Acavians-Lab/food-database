@@ -2243,7 +2243,7 @@
     "submittedBy": null
   },
   {
-    "name": "Duck (Breast)",
+    "name": "Duck Breast",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2260,7 +2260,8 @@
     "fiber": 0,
     "netCarbs": 0,
     "id": "duck_breast",
-    "submittedBy": null
+    "submittedBy": null,
+    "legacyName": "Duck (Breast)"
   },
   {
     "name": "Duck Leg",
