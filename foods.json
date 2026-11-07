@@ -1580,22 +1580,6 @@
     "legacyName": "Chicken (Breast)"
   },
   {
-    "id": "chicken_dark_meat",
-    "name": "Chicken (Dark Meat)",
-    "nameEs": "Pollo (Carne Oscura)",
-    "category": "Protein",
-    "emoji": "🍗",
-    "servingLabel": "100 g",
-    "servingG": 100,
-    "calories": 143,
-    "protein": 20,
-    "carbs": 0,
-    "fat": 7,
-    "fiber": 0,
-    "searchName": "Chicken",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Chicken%20Breast.png"
-  },
-  {
     "id": "chicken_ground",
     "name": "Chicken (Ground)",
     "nameEs": "Pollo (Molido)",
