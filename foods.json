@@ -10731,6 +10731,7 @@
   {
     "id": "tortillas_corn",
     "submittedBy": null,
+    "legacyName": "Tortillas (Corn)",
     "name": "Corn Tortilla",
     "brand": "",
     "barcode": "",
@@ -10760,6 +10761,11 @@
         "qty": 1,
         "unitLabel": "Extra Large",
         "grams": 65
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Extra Small",
+        "grams": 14.67
       }
     ],
     "calories": 52,
@@ -10812,8 +10818,7 @@
       "cholesterol": 0,
       "choline": 3.2,
       "water": 11
-    },
-    "legacyName": "Tortillas (Corn)"
+    }
   },
   {
     "name": "Tortillas (Flour)",
