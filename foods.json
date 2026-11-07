@@ -10011,7 +10011,9 @@
     "legacyName": "Rice (Brown)"
   },
   {
-    "name": "Rice ( White )",
+    "id": "rice_white",
+    "submittedBy": null,
+    "name": "White Rice Steamed",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -10083,8 +10085,7 @@
       "choline": 2.1,
       "water": 68.4
     },
-    "id": "rice_white",
-    "submittedBy": null
+    "legacyName": "Rice ( White )"
   },
   {
     "id": "rice_wild",
