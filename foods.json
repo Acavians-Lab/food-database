@@ -3289,22 +3289,6 @@
     "submittedBy": null
   },
   {
-    "id": "plant_protein_powder_fermented",
-    "name": "Plant Protein Powder (Fermented)",
-    "nameEs": "Proteína en Polvo Vegetal (Fermentada)",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "100 g",
-    "servingG": 100,
-    "calories": 371,
-    "protein": 67,
-    "carbs": 10,
-    "fat": 7,
-    "fiber": 0,
-    "searchName": "Plant Protein Powder",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Plant%20Protein%20Powder.png"
-  },
-  {
     "id": "pollock",
     "name": "Pollock",
     "nameEs": "Abadejo",
