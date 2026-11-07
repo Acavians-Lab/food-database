@@ -4006,22 +4006,6 @@
     "submittedBy": null
   },
   {
-    "id": "protein_cakes_dry_mix",
-    "name": "Protein Cakes (Dry Mix)",
-    "nameEs": "Pasteles de Proteína (Mezcla Seca)",
-    "category": "Protein",
-    "emoji": "🥞",
-    "servingLabel": "1 cup · 106 g",
-    "servingG": 106,
-    "calories": 348,
-    "protein": 28,
-    "carbs": 50,
-    "fat": 4,
-    "fiber": 0,
-    "searchName": "Protein Cakes",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Cakes.png"
-  },
-  {
     "name": "Chocolate Chip Cookie Dough",
     "brand": "David",
     "barcode": "850064303001",
