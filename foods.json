@@ -4610,7 +4610,7 @@
     "legacyName": "Whey Protein Powder (Concentrate)"
   },
   {
-    "name": "Whey Protein Powder (Isolate)",
+    "name": "Whey Protein Isolate",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -4627,7 +4627,8 @@
     "fiber": 0,
     "netCarbs": 1,
     "id": "whey_protein_powder_isolate",
-    "submittedBy": null
+    "submittedBy": null,
+    "legacyName": "Whey Protein Powder (Isolate)"
   },
   {
     "id": "yogurt_plain",
