@@ -3587,22 +3587,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/David%20Protein%20Bar.png"
   },
   {
-    "id": "protein_shot_watermelon_berry",
-    "name": "Protein Shot Watermelon Berry",
-    "nameEs": "Shot de Proteína Sandía y Bayas",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "Genius Shot · 1 shot",
-    "servingG": 1,
-    "calories": 100,
-    "protein": 23,
-    "carbs": 2,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Protein Shot Watermelon Berry",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Shot%20Watermelon%20Berry.png"
-  },
-  {
     "id": "quail",
     "name": "Quail",
     "nameEs": "Codorniz",
