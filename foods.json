@@ -3587,22 +3587,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/David%20Protein%20Bar.png"
   },
   {
-    "id": "protein_shot_orange_cream",
-    "name": "Protein Shot Orange Cream",
-    "nameEs": "Shot de Proteína Crema de Naranja",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "Genius Shot · 1 shot",
-    "servingG": 1,
-    "calories": 92,
-    "protein": 23,
-    "carbs": 0,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Protein Shot Orange Cream",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Shot%20Orange%20Cream.png"
-  },
-  {
     "id": "protein_shot_peach_rings",
     "name": "Protein Shot Peach Rings",
     "nameEs": "Shot de Proteína Aros de Durazno",
