@@ -3587,22 +3587,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/David%20Protein%20Bar.png"
   },
   {
-    "id": "protein_shot_pineapple",
-    "name": "Protein Shot Pineapple",
-    "nameEs": "Shot de Proteína Piña",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "Genius Shot · 1 shot",
-    "servingG": 1,
-    "calories": 100,
-    "protein": 23,
-    "carbs": 2,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Protein Shot Pineapple",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Shot%20Pineapple.png"
-  },
-  {
     "id": "protein_shot_strawberry_guava",
     "name": "Protein Shot Strawberry Guava",
     "nameEs": "Shot de Proteína Fresa y Guayaba",
