@@ -4225,7 +4225,8 @@
     "id": "salmon_farmed",
     "nameEs": "Salmón (de Granja)",
     "searchName": "Salmon",
-    "name": "Salmon (Farmed)",
+    "submittedBy": null,
+    "name": "Farmed Salmon",
     "brand": "",
     "barcode": "",
     "emoji": "🐟",
@@ -4240,7 +4241,7 @@
     "carbs": 0,
     "fiber": 0,
     "netCarbs": 0,
-    "submittedBy": null
+    "legacyName": "Salmon (Farmed)"
   },
   {
     "id": "salmon_wild",
