@@ -3587,22 +3587,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/David%20Protein%20Bar.png"
   },
   {
-    "id": "protein_shot_lemon_lime",
-    "name": "Protein Shot Lemon Lime",
-    "nameEs": "Shot de Proteína Limón y Lima",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "Genius Shot · 1 shot",
-    "servingG": 1,
-    "calories": 100,
-    "protein": 23,
-    "carbs": 2,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Protein Shot Lemon Lime",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Shot%20Lemon%20Lime.png"
-  },
-  {
     "id": "protein_shot_orange_cream",
     "name": "Protein Shot Orange Cream",
     "nameEs": "Shot de Proteína Crema de Naranja",
