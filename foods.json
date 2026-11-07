@@ -3595,22 +3595,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/David%20Protein%20Bar.png"
   },
   {
-    "id": "protein_shot_apple_melon",
-    "name": "Protein Shot Apple Melon",
-    "nameEs": "Shot de Proteína Manzana y Melón",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "Genius Shot · 1 shot",
-    "servingG": 1,
-    "calories": 92,
-    "protein": 23,
-    "carbs": 0,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Protein Shot Apple Melon",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Protein%20Shot%20Apple%20Melon.png"
-  },
-  {
     "id": "protein_shot_blue_raspberry",
     "name": "Protein Shot Blue Raspberry",
     "nameEs": "Shot de Proteína Frambuesa Azul",
