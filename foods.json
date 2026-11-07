@@ -1112,22 +1112,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Cheddar%20Cheese.png"
   },
   {
-    "id": "cheese_fat_free",
-    "name": "Cheese (Fat Free)",
-    "nameEs": "Queso (Sin Grasa)",
-    "category": "Protein",
-    "emoji": "🧀",
-    "servingLabel": "100 g",
-    "servingG": 100,
-    "calories": 156,
-    "protein": 32,
-    "carbs": 7,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Fat Free Cheese",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Fat%20Free%20Cheese.png"
-  },
-  {
     "id": "cheese_feta",
     "name": "Cheese (Feta)",
     "nameEs": "Queso (Feta)",
