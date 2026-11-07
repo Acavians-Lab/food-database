@@ -3851,7 +3851,8 @@
     "id": "pork_belly",
     "nameEs": "Cerdo (Panceta)",
     "searchName": "Belly Pork",
-    "name": "Pork (Belly)",
+    "submittedBy": null,
+    "name": "Pork Belly",
     "brand": "",
     "barcode": "",
     "emoji": "🥓",
@@ -3866,7 +3867,7 @@
     "carbs": 0,
     "fiber": 0,
     "netCarbs": 0,
-    "submittedBy": null
+    "legacyName": "Pork (Belly)"
   },
   {
     "id": "pork_ribs",
