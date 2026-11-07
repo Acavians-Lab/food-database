@@ -10180,22 +10180,6 @@
     "searchName": "Double Happiness Extra Thin Rice-Paper"
   },
   {
-    "id": "rice_cakes",
-    "name": "Rice Cakes",
-    "nameEs": "Tostadas de Arroz",
-    "category": "Carbs",
-    "emoji": "🍘",
-    "servingLabel": "1 Cake · 9 g",
-    "servingG": 9,
-    "calories": 32,
-    "protein": 1,
-    "carbs": 7,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Rice Cakes",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Rice%20Cakes.png"
-  },
-  {
     "id": "rice_flour",
     "name": "Rice flour",
     "nameEs": "Harina de Arroz",
