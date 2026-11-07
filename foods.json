@@ -6512,22 +6512,6 @@
     "imageUrl": "https://www.themealdb.com/images/ingredients/Acorns.png"
   },
   {
-    "id": "advanced_carbs_vitargo_etc",
-    "name": "Advanced Carbs (Vitargo, etc.)",
-    "nameEs": "Carbohidratos Avanzados (Vitargo, etc.)",
-    "category": "Supplements",
-    "emoji": "💊",
-    "servingLabel": "1 Scoop · 38 g",
-    "servingG": 38,
-    "calories": 144,
-    "protein": 0,
-    "carbs": 36,
-    "fat": 0,
-    "fiber": 0,
-    "searchName": "Advanced Carbs",
-    "imageUrl": "https://www.themealdb.com/images/ingredients/Advanced%20Carbs.png"
-  },
-  {
     "id": "agar",
     "name": "Agar",
     "nameEs": "Agar",
