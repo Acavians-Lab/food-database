@@ -9712,7 +9712,8 @@
     "id": "pineapples",
     "nameEs": "Piñas",
     "searchName": "Pineapples",
-    "name": "Pineapples",
+    "submittedBy": null,
+    "name": "Pineapple",
     "brand": "",
     "barcode": "",
     "emoji": "🍍",
@@ -9727,7 +9728,7 @@
     "carbs": 12,
     "fiber": 0,
     "netCarbs": 12,
-    "submittedBy": null
+    "legacyName": "Pineapples"
   },
   {
     "id": "pineapples_frozen",
