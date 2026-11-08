@@ -9733,7 +9733,8 @@
     "id": "pineapples_frozen",
     "nameEs": "Piñas (Congeladas)",
     "searchName": "Pineapples",
-    "name": "Pineapples (Frozen)",
+    "submittedBy": null,
+    "name": "Frozen Pineapple",
     "brand": "",
     "barcode": "",
     "emoji": "🍍",
@@ -9748,7 +9749,7 @@
     "carbs": 20,
     "fiber": 0,
     "netCarbs": 20,
-    "submittedBy": null
+    "legacyName": "Pineapples (Frozen)"
   },
   {
     "id": "pitas_white",
