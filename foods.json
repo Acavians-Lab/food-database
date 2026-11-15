@@ -1,6 +1,7 @@
 [
   {
     "name": "Almond Milk (Unsweetened Vanilla)",
+    "nameEs": "Leche de Almendra (Vainilla sin Azúcar)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -21,6 +22,7 @@
   },
   {
     "name": "Almond Milk (Unsweetened)",
+    "nameEs": "Leche de Almendra (sin Azúcar)",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -86,6 +88,7 @@
   },
   {
     "name": "Anchovies",
+    "nameEs": "Anchoas",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -151,6 +154,7 @@
   },
   {
     "name": "Anchovies (In Oil)",
+    "nameEs": "Anchoas (en Aceite)",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -232,6 +236,7 @@
   },
   {
     "name": "Ahi Tuna",
+    "nameEs": "Atún Ahi",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -348,6 +353,7 @@
   },
   {
     "name": "Beef ( 90% Lean )",
+    "nameEs": "Res Molida ( 90% Magra )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -413,6 +419,7 @@
   },
   {
     "name": "Beef ( 93% Lean )",
+    "nameEs": "Res Molida ( 93% Magra )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -478,6 +485,7 @@
   },
   {
     "name": "Beef ( 95% Lean )",
+    "nameEs": "Res Molida ( 95% Magra )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -543,6 +551,7 @@
   },
   {
     "name": "Beef (Bottom Round Roast)",
+    "nameEs": "Res (Asado de Bola)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -563,6 +572,7 @@
   },
   {
     "name": "Beef (Eye of Round Roast)",
+    "nameEs": "Res (Asado de Ojo de Bola)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -583,6 +593,7 @@
   },
   {
     "name": "Beef (85% Lean)",
+    "nameEs": "Res Molida (85% Magra)",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -648,6 +659,7 @@
   },
   {
     "name": "Beef heart",
+    "nameEs": "Corazón de Res",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -668,6 +680,7 @@
   },
   {
     "name": "Beef kidney",
+    "nameEs": "Riñón de Res",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -688,6 +701,7 @@
   },
   {
     "name": "Beef liver",
+    "nameEs": "Hígado de Res",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -708,6 +722,7 @@
   },
   {
     "name": "Beef tongue",
+    "nameEs": "Lengua de Res",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -773,6 +788,7 @@
   },
   {
     "name": "Bison (Chuck)",
+    "nameEs": "Bisonte (Aguja)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -793,6 +809,7 @@
   },
   {
     "name": "Bison (Ground)",
+    "nameEs": "Bisonte (Molido)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -813,6 +830,7 @@
   },
   {
     "name": "Bison (Top Round)",
+    "nameEs": "Bisonte (Tapa)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -833,6 +851,7 @@
   },
   {
     "name": "Bonito",
+    "nameEs": "Bonito",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -853,6 +872,7 @@
   },
   {
     "name": "Branzino",
+    "nameEs": "Lubina (Branzino)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -873,6 +893,7 @@
   },
   {
     "name": "Bratwurst",
+    "nameEs": "Salchicha Bratwurst",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -893,6 +914,7 @@
   },
   {
     "name": "Bresaola",
+    "nameEs": "Bresaola",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -913,6 +935,7 @@
   },
   {
     "name": "Burrata",
+    "nameEs": "Burrata",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -933,6 +956,7 @@
   },
   {
     "name": "Buttermilk",
+    "nameEs": "Suero de Leche",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -953,6 +977,7 @@
   },
   {
     "name": "Camembert",
+    "nameEs": "Queso Camembert",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -973,6 +998,7 @@
   },
   {
     "name": "Casein Protein Powder",
+    "nameEs": "Proteína de Caseína en Polvo",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -993,6 +1019,7 @@
   },
   {
     "name": "Catfish",
+    "nameEs": "Bagre",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -1045,6 +1072,7 @@
   },
   {
     "name": "Cheese (American)",
+    "nameEs": "Queso (Americano)",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -1241,6 +1269,7 @@
   },
   {
     "name": "Cheese (Mozzarella)",
+    "nameEs": "Queso (Mozzarella)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -1261,6 +1290,7 @@
   },
   {
     "name": "Organic String Mozzarella",
+    "nameEs": "Mozzarella en Tiras Orgánica",
     "brand": "Galbani",
     "barcode": "",
     "public": true,
@@ -1494,6 +1524,7 @@
   },
   {
     "name": "Chicken Breast",
+    "nameEs": "Pechuga de Pollo",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -1581,6 +1612,7 @@
   },
   {
     "name": "Ground Chicken",
+    "nameEs": "Pollo Molido",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -1658,6 +1690,7 @@
   },
   {
     "name": "Chicken Wing - Raw",
+    "nameEs": "Ala de Pollo - Cruda",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -1744,6 +1777,7 @@
   },
   {
     "name": "Whole Chicken",
+    "nameEs": "Pollo Entero",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -1810,6 +1844,7 @@
   },
   {
     "name": "Chicken Drumstick ( With Skin )",
+    "nameEs": "Muslo de Pollo (Pierna) ( Con Piel )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -1876,6 +1911,7 @@
   },
   {
     "name": "Chicken Thigh ( No Skin )",
+    "nameEs": "Contramuslo de Pollo ( Sin Piel )",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -1958,6 +1994,7 @@
   },
   {
     "name": "Chargrilled Chipotle Seasoned Chicken",
+    "nameEs": "Pollo Asado Sazonado con Chipotle",
     "brand": "Costco",
     "barcode": "196633849465",
     "public": false,
@@ -2009,6 +2046,7 @@
   },
   {
     "name": "Chorizo",
+    "nameEs": "Chorizo",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2029,6 +2067,7 @@
   },
   {
     "name": "Clams",
+    "nameEs": "Almejas",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2049,6 +2088,7 @@
   },
   {
     "name": "Canned Clams",
+    "nameEs": "Almejas Enlatadas",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2070,6 +2110,7 @@
   },
   {
     "name": "Cod",
+    "nameEs": "Bacalao",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2122,6 +2163,7 @@
   },
   {
     "name": "Cottage Cheese (2%)",
+    "nameEs": "Requesón (2%)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2142,6 +2184,7 @@
   },
   {
     "name": "Cottage Cheese (Nonfat)",
+    "nameEs": "Requesón (sin Grasa)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2162,6 +2205,7 @@
   },
   {
     "name": "Cottage Cheese (Full Fat)",
+    "nameEs": "Requesón (Entero)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2182,6 +2226,7 @@
   },
   {
     "name": "Shelled Crab",
+    "nameEs": "Cangrejo sin Cáscara",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2203,6 +2248,7 @@
   },
   {
     "name": "Shelled Crawfish ( Crayfish )",
+    "nameEs": "Langostino de Río sin Cáscara ( Acocil )",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2224,6 +2270,7 @@
   },
   {
     "name": "Duck",
+    "nameEs": "Pato",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2244,6 +2291,7 @@
   },
   {
     "name": "Duck Breast",
+    "nameEs": "Pechuga de Pato",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2265,6 +2313,7 @@
   },
   {
     "name": "Duck Leg",
+    "nameEs": "Pierna de Pato",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2286,6 +2335,7 @@
   },
   {
     "name": "Edamame Pasta",
+    "nameEs": "Pasta de Edamame",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2306,6 +2356,7 @@
   },
   {
     "name": "Eel",
+    "nameEs": "Anguila",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2326,6 +2377,7 @@
   },
   {
     "name": "Egg White Protein Powder",
+    "nameEs": "Proteína de Clara de Huevo en Polvo",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2346,6 +2398,7 @@
   },
   {
     "name": "Eggs (Whites)",
+    "nameEs": "Huevos (Claras)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2366,6 +2419,7 @@
   },
   {
     "name": "Egg",
+    "nameEs": "Huevo",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2458,6 +2512,7 @@
   },
   {
     "name": "Eggs (Boiled)",
+    "nameEs": "Huevos (Cocidos)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2544,6 +2599,7 @@
   },
   {
     "name": "Elk",
+    "nameEs": "Alce",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2564,6 +2620,7 @@
   },
   {
     "name": "Evaporated milk",
+    "nameEs": "Leche Evaporada",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2606,6 +2663,7 @@
   },
   {
     "name": "Gelatin",
+    "nameEs": "Gelatina",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2626,6 +2684,7 @@
   },
   {
     "name": "Goat",
+    "nameEs": "Cabra",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2646,6 +2705,7 @@
   },
   {
     "name": "Goose",
+    "nameEs": "Ganso",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2666,6 +2726,7 @@
   },
   {
     "name": "Greek Yogurt (2%)",
+    "nameEs": "Yogur Griego (2%)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2686,6 +2747,7 @@
   },
   {
     "name": "Greek Yogurt (Fat Free)",
+    "nameEs": "Yogur Griego (sin Grasa)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2706,6 +2768,7 @@
   },
   {
     "name": "Greek Yogurt (Full Fat)",
+    "nameEs": "Yogur Griego (Entero)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2726,6 +2789,7 @@
   },
   {
     "name": "Greek Yogurt Nonfat Plain",
+    "nameEs": "Yogur Griego Natural sin Grasa",
     "brand": "Chobani",
     "barcode": "",
     "public": false,
@@ -2791,6 +2855,7 @@
   },
   {
     "name": "Grouper",
+    "nameEs": "Mero",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2811,6 +2876,7 @@
   },
   {
     "name": "Haddock",
+    "nameEs": "Eglefino",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2831,6 +2897,7 @@
   },
   {
     "name": "Halibut (Atlantic / Pacific)",
+    "nameEs": "Halibut (Atlántico / Pacífico)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2851,6 +2918,7 @@
   },
   {
     "name": "Halibut (Greenland)",
+    "nameEs": "Halibut (Groenlandia)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2871,6 +2939,7 @@
   },
   {
     "name": "Ham",
+    "nameEs": "Jamón",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2913,6 +2982,7 @@
   },
   {
     "name": "Hemp Protein Powder",
+    "nameEs": "Proteína de Cáñamo en Polvo",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2933,6 +3003,7 @@
   },
   {
     "name": "Atlantic Herring",
+    "nameEs": "Arenque del Atlántico",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2954,6 +3025,7 @@
   },
   {
     "name": "Pacific Herring",
+    "nameEs": "Arenque del Pacífico",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2975,6 +3047,7 @@
   },
   {
     "name": "Italian sausage",
+    "nameEs": "Salchicha Italiana",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -2995,6 +3068,7 @@
   },
   {
     "name": "Kefir",
+    "nameEs": "Kéfir",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3015,6 +3089,7 @@
   },
   {
     "name": "Kielbasa",
+    "nameEs": "Kielbasa",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3035,6 +3110,7 @@
   },
   {
     "name": "Lamb Leg",
+    "nameEs": "Pierna de Cordero",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3056,6 +3132,7 @@
   },
   {
     "name": "Lamb Shoulder",
+    "nameEs": "Paleta de Cordero",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3077,6 +3154,7 @@
   },
   {
     "name": "Lamb (Rack/chops)",
+    "nameEs": "Cordero (Costillar/chuletas)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3097,6 +3175,7 @@
   },
   {
     "name": "Lamb Shank",
+    "nameEs": "Jarrete de Cordero",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3118,6 +3197,7 @@
   },
   {
     "name": "Ground Lamb",
+    "nameEs": "Cordero Molido",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3139,6 +3219,7 @@
   },
   {
     "name": "Lamb liver",
+    "nameEs": "Hígado de Cordero",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3159,6 +3240,7 @@
   },
   {
     "name": "Langostino",
+    "nameEs": "Langostino",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3179,6 +3261,7 @@
   },
   {
     "name": "Lobster",
+    "nameEs": "Langosta",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3199,6 +3282,7 @@
   },
   {
     "name": "Mackerel",
+    "nameEs": "Caballa",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3219,6 +3303,7 @@
   },
   {
     "name": "Mahi Mahi",
+    "nameEs": "Mahi Mahi (Dorado)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3239,6 +3324,7 @@
   },
   {
     "name": "Milk (1%)",
+    "nameEs": "Leche (1%)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3259,6 +3345,7 @@
   },
   {
     "name": "Milk (2%)",
+    "nameEs": "Leche (2%)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3279,6 +3366,7 @@
   },
   {
     "name": "Milk (Nonfat)",
+    "nameEs": "Leche (Descremada)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3299,6 +3387,7 @@
   },
   {
     "name": "Whole Milk",
+    "nameEs": "Leche Entera",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3320,6 +3409,7 @@
   },
   {
     "name": "2% Milk (Lactose Free)",
+    "nameEs": "Leche 2% (sin Lactosa)",
     "brand": "Crystal Creamery",
     "barcode": "",
     "public": false,
@@ -3340,6 +3430,7 @@
   },
   {
     "name": "Monkfish",
+    "nameEs": "Rape",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3360,6 +3451,7 @@
   },
   {
     "name": "Mussels",
+    "nameEs": "Mejillones",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3380,6 +3472,7 @@
   },
   {
     "name": "Mycoprotein",
+    "nameEs": "Micoproteína",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3400,6 +3493,7 @@
   },
   {
     "name": "Nutritional Yeast",
+    "nameEs": "Levadura Nutricional",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3420,6 +3514,7 @@
   },
   {
     "name": "Oat Milk (Unsweetened)",
+    "nameEs": "Leche de Avena (sin Azúcar)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3634,6 +3729,7 @@
   },
   {
     "name": "Pea Protein Powder (Isolate)",
+    "nameEs": "Proteína de Guisante en Polvo (Aislada)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3717,6 +3813,7 @@
   },
   {
     "name": "Plant Protein Powder",
+    "nameEs": "Proteína Vegetal en Polvo",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -3930,6 +4027,7 @@
   },
   {
     "name": "Frozen Cooked Shrimp",
+    "nameEs": "Camarones Cocidos Congelados",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -4007,6 +4105,7 @@
   },
   {
     "name": "Chocolate Chip Cookie Dough",
+    "nameEs": "Masa de Galleta con Chispas de Chocolate",
     "brand": "David",
     "barcode": "850064303001",
     "public": false,
@@ -4065,6 +4164,7 @@
   },
   {
     "name": "Peanut Butter Chocolate Chunk",
+    "nameEs": "Mantequilla de Maní con Trozos de Chocolate",
     "brand": "David",
     "barcode": "850064303155",
     "public": false,
@@ -4606,6 +4706,7 @@
   },
   {
     "name": "Soy Protein Powder (Isolate)",
+    "nameEs": "Proteína de Soya en Polvo (Aislada)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -4839,6 +4940,7 @@
     "submittedBy": null,
     "searchName": "Tilapia",
     "name": "Tilapia",
+    "nameEs": "Tilapia",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -5247,6 +5349,7 @@
   },
   {
     "name": "Ground Turkey (97% / 3%)",
+    "nameEs": "Pavo Molido (97% / 3%)",
     "brand": "Butterball",
     "barcode": "",
     "public": false,
@@ -5386,6 +5489,7 @@
   },
   {
     "name": "Whey Protein Concentrate",
+    "nameEs": "Proteína de Suero Concentrada",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -5407,6 +5511,7 @@
   },
   {
     "name": "Whey Protein Isolate",
+    "nameEs": "Proteína de Suero Aislada",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -6254,6 +6359,7 @@
   },
   {
     "name": "Jalapeños",
+    "nameEs": "Jalapeños",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -6861,6 +6967,7 @@
   },
   {
     "name": "Spinach",
+    "nameEs": "Espinaca",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -7319,6 +7426,7 @@
   },
   {
     "name": "All-purpose flour",
+    "nameEs": "Harina de Trigo Común",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -7515,6 +7623,7 @@
   },
   {
     "name": "Bananas",
+    "nameEs": "Plátanos",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -7623,6 +7732,7 @@
   },
   {
     "name": "Black Beans",
+    "nameEs": "Frijoles Negros",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -7897,6 +8007,7 @@
   },
   {
     "name": "White Bread",
+    "nameEs": "Pan Blanco",
     "brand": "Bimbo",
     "barcode": "",
     "public": false,
@@ -8189,6 +8300,7 @@
   },
   {
     "name": "Penne Pasta",
+    "nameEs": "Pasta Penne",
     "brand": "Doria",
     "barcode": "",
     "public": false,
@@ -8851,6 +8963,7 @@
   },
   {
     "name": "Ketchup",
+    "nameEs": "Kétchup",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -9106,6 +9219,7 @@
   },
   {
     "name": "Water",
+    "nameEs": "Agua",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -9181,6 +9295,7 @@
   },
   {
     "name": "Mixed Berries (Frozen)",
+    "nameEs": "Frutos Rojos Mixtos (Congelados)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -9343,6 +9458,7 @@
   },
   {
     "name": "Oats (Old Fashioned)",
+    "nameEs": "Avena (Tradicional)",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -9507,6 +9623,7 @@
   },
   {
     "name": "Peaches",
+    "nameEs": "Duraznos",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -9882,6 +9999,7 @@
   },
   {
     "name": "Potatoes Raw",
+    "nameEs": "Papas Crudas",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -10141,6 +10259,7 @@
     "id": "rice_white",
     "submittedBy": null,
     "name": "White Rice Steamed",
+    "nameEs": "Arroz Blanco al Vapor",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -10745,6 +10864,7 @@
     "submittedBy": null,
     "legacyName": "Tortillas (Corn)",
     "name": "Corn Tortilla",
+    "nameEs": "Tortilla de Maíz",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -10836,6 +10956,7 @@
     "id": "tortillas_flour",
     "submittedBy": null,
     "name": "Flour Tortillas",
+    "nameEs": "Tortillas de Harina",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -10923,6 +11044,7 @@
     "id": "tortillas_wheat",
     "submittedBy": null,
     "name": "Wheat Tortillas",
+    "nameEs": "Tortillas de Trigo Integral",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -11185,6 +11307,7 @@
   },
   {
     "name": "Butter",
+    "nameEs": "Mantequilla",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -11708,6 +11831,7 @@
   },
   {
     "name": "Oil (Coconut)",
+    "nameEs": "Aceite (Coco)",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -11800,6 +11924,7 @@
   },
   {
     "name": "Fish Oil",
+    "nameEs": "Aceite de Pescado",
     "brand": "",
     "barcode": "",
     "public": false,
@@ -13793,6 +13918,7 @@
     "submittedBy": null,
     "searchName": "Coors Light",
     "name": "Coors Light",
+    "nameEs": "Coors Light",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -13834,6 +13960,7 @@
   },
   {
     "name": "Michelob Ultra",
+    "nameEs": "Michelob Ultra",
     "brand": "",
     "barcode": "018200003325",
     "public": true,
@@ -13880,6 +14007,7 @@
     "submittedBy": null,
     "searchName": "Costco Rotisserie Chicken",
     "name": "Rotisserie Chicken ( Skin Eaten )",
+    "nameEs": "Pollo Rostizado ( con Piel )",
     "brand": "Costco",
     "barcode": "",
     "public": true,
@@ -13990,6 +14118,7 @@
   },
   {
     "name": "Mango Passion ( Zero Sugar )",
+    "nameEs": "Mango Maracuyá ( sin Azúcar )",
     "brand": "Minute Maid",
     "barcode": "",
     "public": false,
@@ -14091,6 +14220,7 @@
   },
   {
     "name": "Classic Roasted Peanut Powder",
+    "nameEs": "Mantequilla de Maní en Polvo Clásica Tostada",
     "brand": "PBfit",
     "barcode": "856260006005",
     "public": true,
@@ -14141,6 +14271,7 @@
   },
   {
     "name": "Thuper Thavage Pre-Workout (Citrus Grapefruit)",
+    "nameEs": "Pre-Entreno Thuper Thavage (Toronja Cítrica)",
     "brand": "RAW",
     "barcode": "",
     "public": false,
@@ -14247,6 +14378,7 @@
   },
   {
     "name": "Hot Cereal",
+    "nameEs": "Cereal Caliente",
     "brand": "Cream of Rice",
     "barcode": "",
     "public": false,
@@ -14293,6 +14425,7 @@
   },
   {
     "name": "Fish Sauce",
+    "nameEs": "Salsa de Pescado",
     "brand": "King Crab",
     "barcode": "",
     "public": true,
@@ -14336,6 +14469,7 @@
   },
   {
     "name": "Whey Protein",
+    "nameEs": "Proteína de Suero",
     "brand": "Optimum Nutrition",
     "barcode": "",
     "public": false,
@@ -20267,6 +20401,7 @@
   },
   {
     "name": "Peanut Chocolate",
+    "nameEs": "Chocolate con Cacahuate",
     "brand": "M&M's",
     "barcode": "040000017325",
     "public": true,
@@ -20317,6 +20452,7 @@
   },
   {
     "name": "Teriyaki Marinade & Sauce",
+    "nameEs": "Marinada y Salsa Teriyaki",
     "brand": "Kikkoman",
     "barcode": "04139645",
     "public": true,
@@ -20367,6 +20503,7 @@
   },
   {
     "name": "Chocolate Dough",
+    "nameEs": "Masa de Chocolate",
     "brand": "Barebells",
     "barcode": "850000429260",
     "public": true,
@@ -20424,6 +20561,7 @@
   },
   {
     "name": "3 Meat Pizza",
+    "nameEs": "Pizza 3 Carnes",
     "brand": "7 Eleven",
     "barcode": "",
     "public": true,
@@ -20474,6 +20612,7 @@
   },
   {
     "name": "1% Low Fat Milk (Lactose Free)",
+    "nameEs": "Leche Baja en Grasa 1% (sin Lactosa)",
     "brand": "Crystal Creamery",
     "barcode": "070910000377",
     "public": true,
@@ -20538,6 +20677,7 @@
   },
   {
     "name": "BBQ Sauce Bourbon Apple",
+    "nameEs": "Salsa BBQ Bourbon y Manzana",
     "brand": "Kinder's",
     "barcode": "755795700139",
     "public": true,
@@ -20584,6 +20724,7 @@
   },
   {
     "name": "Traditional Refried Beans ( No Fat )",
+    "nameEs": "Frijoles Refritos Tradicionales ( sin Grasa )",
     "brand": "Rosarita",
     "barcode": "044300106185",
     "public": true,
@@ -20634,6 +20775,7 @@
   },
   {
     "name": "Queso Fresco",
+    "nameEs": "Queso Fresco",
     "brand": "El Mexicano",
     "barcode": "042743123875",
     "public": true,
@@ -20690,6 +20832,7 @@
   },
   {
     "name": "Prickly Pear Tuna ( Raw )",
+    "nameEs": "Tuna ( Cruda )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -20762,6 +20905,7 @@
   },
   {
     "name": "Salsa Con Queso",
+    "nameEs": "Salsa con Queso",
     "brand": "Tostitos",
     "barcode": "028400067409",
     "public": true,
@@ -20820,6 +20964,7 @@
   },
   {
     "name": "Juice Pipeline Punch",
+    "nameEs": "Juice Pipeline Punch",
     "brand": "Monster",
     "barcode": "070847022909",
     "public": true,
@@ -20866,6 +21011,7 @@
   },
   {
     "name": "Crunchy Taco",
+    "nameEs": "Taco Crujiente",
     "brand": "Taco Bell",
     "barcode": "",
     "public": true,
@@ -20930,6 +21076,7 @@
   },
   {
     "name": "Green Grapes",
+    "nameEs": "Uvas Verdes",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -21002,6 +21149,7 @@
   },
   {
     "name": "Zero Sugar Cola",
+    "nameEs": "Cola sin Azúcar",
     "brand": "Pepsi",
     "barcode": "012000018770",
     "public": true,
@@ -21040,6 +21188,7 @@
   },
   {
     "name": "Garlic Parmesan",
+    "nameEs": "Ajo y Parmesano",
     "brand": "Kurtz",
     "barcode": "051933371767",
     "public": true,
@@ -21090,6 +21239,7 @@
   },
   {
     "name": "Pomegranate Juice",
+    "nameEs": "Jugo de Granada",
     "brand": "Bolthouse Farms",
     "barcode": "071464324520",
     "public": true,
@@ -21154,6 +21304,7 @@
   },
   {
     "name": "Classic Premium Cooked Ham",
+    "nameEs": "Jamón Cocido Premium Clásico",
     "brand": "Farmer John",
     "barcode": "050500312318",
     "public": true,
@@ -21204,6 +21355,7 @@
   },
   {
     "name": "Milk Chocolate Bar",
+    "nameEs": "Barra de Chocolate con Leche",
     "brand": "Trader Joe's",
     "barcode": "00204682",
     "public": true,
@@ -21275,6 +21427,7 @@
   },
   {
     "name": "Chocolate High Protein Shake",
+    "nameEs": "Batido Alto en Proteína de Chocolate",
     "brand": "Muscle Milk",
     "barcode": "052000068283",
     "public": true,
@@ -21339,6 +21492,7 @@
   },
   {
     "name": "Chromium Picolinate (200 mcg)",
+    "nameEs": "Picolinato de Cromo (200 mcg)",
     "brand": "Best Naturals",
     "barcode": "817716013541",
     "public": true,
@@ -21365,6 +21519,7 @@
   },
   {
     "name": "Digestive Enzymes",
+    "nameEs": "Enzimas Digestivas",
     "brand": "Now",
     "barcode": "733739029621",
     "public": true,
@@ -21391,6 +21546,7 @@
   },
   {
     "name": "Rice Cakes (Lightly Salted)",
+    "nameEs": "Pasteles de Arroz (Ligeramente Salados)",
     "brand": "Quaker",
     "barcode": "030000169018",
     "public": true,
@@ -21429,6 +21585,7 @@
   },
   {
     "name": "Rice Noodles",
+    "nameEs": "Fideos de Arroz",
     "brand": "Seng Cheang Mong Food Corp",
     "barcode": "607558168932",
     "public": true,
@@ -21467,6 +21624,7 @@
   },
   {
     "name": "Dry Roasted Unsalted Peanuts",
+    "nameEs": "Cacahuates Tostados sin Sal",
     "brand": "Planters",
     "barcode": "029000073241",
     "public": true,
@@ -21522,6 +21680,7 @@
   },
   {
     "name": "Organic California Blend",
+    "nameEs": "Mezcla California Orgánica",
     "brand": "Integrity Farms",
     "barcode": "811449020012",
     "public": true,
@@ -21579,6 +21738,7 @@
   },
   {
     "name": "Daikon (Raw)",
+    "nameEs": "Rábano Daikon (Crudo)",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -21652,6 +21812,7 @@
   },
   {
     "name": "Flour Tortilla ( Burrito )",
+    "nameEs": "Tortilla de Harina ( Burrito )",
     "brand": "Guerrero",
     "barcode": "048564073009",
     "public": true,
@@ -21703,6 +21864,7 @@
   },
   {
     "name": "Guacamole Now Mild",
+    "nameEs": "Guacamole Suave",
     "brand": "Cabo Fresh",
     "barcode": "811892028580",
     "public": true,
@@ -21753,6 +21915,7 @@
   },
   {
     "name": "Liposomal Glutathione (1750 mg)",
+    "nameEs": "Glutatión Liposomal (1750 mg)",
     "brand": "Alpha Flow",
     "barcode": "",
     "public": true,
@@ -21793,6 +21956,7 @@
   },
   {
     "name": "Super Carb ( Orange Mango )",
+    "nameEs": "Super Carb ( Naranja Mango )",
     "brand": "Nutra Bio",
     "barcode": "649908260910",
     "public": true,
@@ -21831,6 +21995,7 @@
   },
   {
     "name": "Crema Mexicana (Sour Cream)",
+    "nameEs": "Crema Mexicana",
     "brand": "El Mexicano",
     "barcode": "042743123080",
     "public": true,
@@ -21889,6 +22054,7 @@
   },
   {
     "name": "EAA (Essential Amino Acids)",
+    "nameEs": "EAA (Aminoácidos Esenciales)",
     "brand": "Bulk Supplements",
     "barcode": "X00297NNY3",
     "public": true,
@@ -21915,6 +22081,7 @@
   },
   {
     "name": "Salted Cocktail Peanuts",
+    "nameEs": "Cacahuates Salados para Botana",
     "brand": "Planters",
     "barcode": "029000072121",
     "public": true,
@@ -21979,6 +22146,7 @@
   },
   {
     "name": "Cream of Rice",
+    "nameEs": "Crema de Arroz",
     "brand": "B&G Foods",
     "barcode": "013130006989",
     "public": true,
@@ -22031,6 +22199,7 @@
   },
   {
     "name": "Rice Cereal",
+    "nameEs": "Cereal de Arroz",
     "brand": "Gerber",
     "barcode": "015000687700",
     "public": true,
@@ -22098,6 +22267,7 @@
     "submittedBy": "alejandroupmh@gmail.com",
     "searchName": "Costco Rotisserie Chicken",
     "name": "Rotisserie Chicken ( Skinless )",
+    "nameEs": "Pollo Rostizado ( sin Piel )",
     "brand": "Costco",
     "barcode": "",
     "public": true,
@@ -22167,6 +22337,7 @@
   },
   {
     "name": "Four Cheese Blend ( Mexican Style )",
+    "nameEs": "Mezcla de Cuatro Quesos ( Estilo Mexicano )",
     "brand": "Simply Go",
     "barcode": "810159830171",
     "public": true,
@@ -22217,6 +22388,7 @@
   },
   {
     "name": "Extravangzza ( Hand Tossed )",
+    "nameEs": "Extravaganzza ( Masa Tradicional )",
     "brand": "Domino's",
     "barcode": "",
     "public": true,
@@ -22288,6 +22460,7 @@
   },
   {
     "name": "Classic Crust Supreme Pizza",
+    "nameEs": "Pizza Suprema Masa Clásica",
     "brand": "Red Baron",
     "barcode": "072180634719",
     "public": true,
@@ -22344,6 +22517,7 @@
   },
   {
     "name": "Fish Cake",
+    "nameEs": "Pastel de Pescado",
     "brand": "Ikatako Bozu",
     "barcode": "4974911210048",
     "public": true,
@@ -22394,6 +22568,7 @@
   },
   {
     "name": "Beef Ribeye Steak Boneless Lean ( Trimmed 1/8 Fat, Raw )",
+    "nameEs": "Bistec Ribeye de Res sin Hueso Magro ( Recortado 1/8 de Grasa, Crudo )",
     "brand": "All Grades",
     "barcode": "",
     "public": true,
@@ -22475,6 +22650,7 @@
   },
   {
     "name": "Krill Oil",
+    "nameEs": "Aceite de Krill",
     "brand": "Kirkland",
     "barcode": "196633906694",
     "public": true,
@@ -22520,6 +22696,7 @@
   },
   {
     "name": "Pink Lemonade ( Zero Sugar )",
+    "nameEs": "Limonada Rosa ( sin Azúcar )",
     "brand": "Minute Maid",
     "barcode": "025000120541",
     "public": true,
@@ -22577,6 +22754,7 @@
   },
   {
     "name": "Korean Bbq Sauce ( Bulgogi )",
+    "nameEs": "Salsa BBQ Coreana ( Bulgogi )",
     "brand": "Butterfly",
     "barcode": "721557214909",
     "public": true,
@@ -22621,6 +22799,7 @@
   },
   {
     "name": "Sugar Cookie",
+    "nameEs": "Galleta de Azúcar",
     "brand": "Nestlé",
     "barcode": "050000374816",
     "public": true,
@@ -22671,6 +22850,7 @@
   },
   {
     "name": "Cinnamon Cookies",
+    "nameEs": "Galletas de Canela",
     "brand": "Nestlé",
     "barcode": "050000820146",
     "public": true,
@@ -22728,6 +22908,7 @@
   },
   {
     "name": "Cinnamon Toast Crunch",
+    "nameEs": "Cinnamon Toast Crunch",
     "brand": "General Mills",
     "barcode": "3019660034031",
     "public": true,
@@ -22791,6 +22972,7 @@
   },
   {
     "name": "Kiwi",
+    "nameEs": "Kiwi",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -22873,6 +23055,7 @@
   },
   {
     "name": "Golden Kiwi",
+    "nameEs": "Kiwi Dorado",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -22926,6 +23109,7 @@
   },
   {
     "name": "Vodka ( 80 Proof )",
+    "nameEs": "Vodka ( 40% Alcohol )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -22964,6 +23148,7 @@
   },
   {
     "name": "American Cheese",
+    "nameEs": "Queso Americano",
     "brand": "Kraft",
     "barcode": "",
     "public": true,
@@ -23038,6 +23223,7 @@
     "submittedBy": "alejandroupmh@gmail.com",
     "searchName": "Foster Farms Thin Sliced Oven Roasted White Turkey",
     "name": "Thin Sliced Oven Roasted White Turkey",
+    "nameEs": "Pechuga de Pavo Horneada en Rebanadas Finas",
     "brand": "Foster Farms",
     "barcode": "075278155301",
     "public": true,
@@ -23093,6 +23279,7 @@
   },
   {
     "name": "Light Mayonnaise",
+    "nameEs": "Mayonesa Ligera",
     "brand": "Simply GO",
     "barcode": "810159835114",
     "public": true,
@@ -23142,6 +23329,7 @@
   },
   {
     "name": "4-in-1 Fiber",
+    "nameEs": "Fibra 4 en 1",
     "brand": "Meta Mucil",
     "barcode": "037000741367",
     "public": true,
@@ -23185,6 +23373,7 @@
   },
   {
     "name": "Berberine ( 500mg )",
+    "nameEs": "Berberina ( 500 mg )",
     "brand": "Best Naturals",
     "barcode": "817716016177",
     "public": true,
@@ -23211,6 +23400,7 @@
   },
   {
     "name": "Magnesium Glycinate ( 500 mg )",
+    "nameEs": "Glicinato de Magnesio ( 500 mg )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -23263,6 +23453,7 @@
   },
   {
     "name": "L-Tryptophan ( 500 mg )",
+    "nameEs": "L-Triptófano ( 500 mg )",
     "brand": "Bulk Supplements",
     "barcode": "",
     "public": true,
@@ -23289,6 +23480,7 @@
   },
   {
     "name": "GABA ( 750 MG )",
+    "nameEs": "GABA ( 750 mg )",
     "brand": "The Vitamin Shoppe",
     "barcode": "766536022182",
     "public": true,
@@ -23315,6 +23507,7 @@
   },
   {
     "name": "Daily Multivitamin",
+    "nameEs": "Multivitamínico Diario",
     "brand": "Kirkland",
     "barcode": "096619416073",
     "public": true,
@@ -23367,6 +23560,7 @@
   },
   {
     "name": "NAC ( 600 mg )",
+    "nameEs": "NAC ( 600 mg )",
     "brand": "The Vitamin Shoppe",
     "barcode": "766536016969",
     "public": true,
@@ -23393,6 +23587,7 @@
   },
   {
     "name": "Super B-Complex",
+    "nameEs": "Súper Complejo B",
     "brand": "Kirkland Signature",
     "barcode": "096619777792",
     "public": true,
@@ -23445,6 +23640,7 @@
   },
   {
     "name": "Vitamin D3",
+    "nameEs": "Vitamina D3",
     "brand": "Kirkland Signature",
     "barcode": "096619393916",
     "public": true,
@@ -23485,6 +23681,7 @@
   },
   {
     "name": "ProOmega Fish Oil ( 2000 )",
+    "nameEs": "Aceite de Pescado ProOmega ( 2000 )",
     "brand": "Nordic Naturals",
     "barcode": "768990121371",
     "public": true,
@@ -23523,6 +23720,7 @@
   },
   {
     "name": "Brownie Batter",
+    "nameEs": "Masa de Brownie",
     "brand": "Barebell",
     "barcode": "850075778447",
     "public": true,
@@ -23594,6 +23792,7 @@
   },
   {
     "name": "Creamy Crisp",
+    "nameEs": "Crujiente Cremoso",
     "brand": "Barebells",
     "barcode": "850000429413",
     "public": true,
@@ -23651,6 +23850,7 @@
   },
   {
     "name": "Classic Crust Four Meat Pizza",
+    "nameEs": "Pizza Cuatro Carnes Masa Clásica",
     "brand": "Red Baron",
     "barcode": "072180566249",
     "public": true,
@@ -23728,6 +23928,7 @@
   },
   {
     "name": "Carnitas ( Only Meat )",
+    "nameEs": "Carnitas ( Solo Carne )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -23799,6 +24000,7 @@
   },
   {
     "name": "Protein Bumpin' Blueberry",
+    "nameEs": "Protein Bumpin' Blueberry",
     "brand": "Pop-Tarts",
     "barcode": "038000331466",
     "public": true,
@@ -23859,6 +24061,7 @@
     "id": "strawberries_n_cr_me_mvph5sjk",
     "searchName": "Muscle Milk Strawberries ‘N Crème",
     "name": "Strawberries ‘N Crème",
+    "nameEs": "Fresas con Crema",
     "brand": "Muscle Milk",
     "barcode": "052000068245",
     "public": true,
@@ -23928,6 +24131,7 @@
   },
   {
     "name": "Hamburger Buns",
+    "nameEs": "Pan para Hamburguesa",
     "brand": "Bimbo",
     "barcode": "074323002201",
     "public": true,
@@ -23992,6 +24196,7 @@
   },
   {
     "name": "Singles American Cheese",
+    "nameEs": "Queso Americano en Rebanadas",
     "brand": "Kraft",
     "barcode": "021000604647",
     "public": true,
@@ -24063,6 +24268,7 @@
   },
   {
     "name": "Protein Shake",
+    "nameEs": "Batido de Proteína",
     "brand": "Lean Body",
     "barcode": "710779770102",
     "public": true,
@@ -24134,6 +24340,7 @@
   },
   {
     "name": "KitKat",
+    "nameEs": "KitKat",
     "brand": "Hershey's",
     "barcode": "",
     "public": true,
@@ -24220,6 +24427,7 @@
   },
   {
     "name": "Diet Cranberry",
+    "nameEs": "Arándano Dietético",
     "brand": "Ocean Spray",
     "barcode": "031200014870",
     "public": true,
@@ -24284,6 +24492,7 @@
   },
   {
     "name": "Frosted Lemon Blueberry Crumble",
+    "nameEs": "Crumble Glaseado de Limón y Arándano",
     "brand": "poptart",
     "barcode": "038000292545",
     "public": true,
@@ -24348,6 +24557,7 @@
   },
   {
     "name": "Home Style Alfredo",
+    "nameEs": "Alfredo Casero",
     "brand": "Prego",
     "barcode": "051000222121",
     "public": true,
@@ -24405,6 +24615,7 @@
   },
   {
     "name": "Original Cheese Slices",
+    "nameEs": "Rebanadas de Queso Original",
     "brand": "Velveeta",
     "barcode": "021000611447",
     "public": true,
@@ -24476,6 +24687,7 @@
   },
   {
     "name": "Whipped Cream Cheese Spread",
+    "nameEs": "Queso Crema Batido para Untar",
     "brand": "Simply Go",
     "barcode": "810159830881",
     "public": true,
@@ -24533,6 +24745,7 @@
   },
   {
     "name": "Chicken Thigh ( With Skin )",
+    "nameEs": "Contramuslo de Pollo ( Con Piel )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -24597,6 +24810,7 @@
   },
   {
     "name": "Chicken Drumstick ( No Skin )",
+    "nameEs": "Muslo de Pollo (Pierna) ( Sin Piel )",
     "brand": "",
     "barcode": "",
     "public": true,
@@ -24678,6 +24892,7 @@
   },
   {
     "name": "Butter Crowns",
+    "nameEs": "Coronas de Mantequilla",
     "brand": "Marinela",
     "barcode": "074323051575",
     "public": true,
@@ -24735,6 +24950,7 @@
   },
   {
     "name": "Orange Pineapple ( Zero Sugar )",
+    "nameEs": "Naranja Piña ( sin Azúcar )",
     "brand": "Minute Maid",
     "barcode": "4043200436428",
     "public": true,
@@ -24792,6 +25008,7 @@
   },
   {
     "name": "Rice Krispies Treats Original",
+    "nameEs": "Rice Krispies Treats Original",
     "brand": "Kellogg's",
     "barcode": "038000265013",
     "public": true,
@@ -24842,6 +25059,7 @@
   },
   {
     "name": "Cherry",
+    "nameEs": "Cereza",
     "brand": "Coca Cola",
     "barcode": "049000072303",
     "public": true,
@@ -24892,6 +25110,7 @@
   },
   {
     "name": "Gingerbread Mochi Ice Cream",
+    "nameEs": "Mochi Helado de Pan de Jengibre",
     "brand": "My Mochi",
     "barcode": "070934999343",
     "public": true,
@@ -24942,6 +25161,7 @@
   },
   {
     "name": "Traditional",
+    "nameEs": "Tradicional",
     "brand": "Prego",
     "barcode": "051000269775",
     "public": true,
@@ -24992,6 +25212,7 @@
   },
   {
     "name": "White Chocolate Cran-Orange Cookie/Bar Mix",
+    "nameEs": "Mezcla para Galleta/Barra de Chocolate Blanco, Arándano y Naranja",
     "brand": "Homemade Gourmet",
     "barcode": "816277011171",
     "public": true,
@@ -25042,6 +25263,7 @@
   },
   {
     "name": "Frosted Chocolate Chip Cookie Dough",
+    "nameEs": "Masa de Galleta con Chispas de Chocolate Glaseada",
     "brand": "Pop-Tarts",
     "barcode": "038000307881",
     "public": true,
