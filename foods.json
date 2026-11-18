@@ -24494,9 +24494,11 @@
     "searchName": "Ocean Spray Diet Cranberry"
   },
   {
+    "id": "frosted_lemon_blueberry_crumble_mvzjgsqy",
+    "submittedBy": "alejandroupmh@gmail.com",
     "name": "Frosted Lemon Blueberry Crumble",
     "nameEs": "Crumble Glaseado de Limón y Arándano",
-    "brand": "poptart",
+    "brand": "Pop-Tarts",
     "barcode": "038000292545",
     "public": true,
     "emoji": "🍋",
@@ -24535,6 +24537,7 @@
       "b3": 0,
       "b5": 0,
       "b6": 0,
+      "b7": 0,
       "b12": 0,
       "folate": 20,
       "a": 0,
@@ -24553,10 +24556,10 @@
       "potassium": 40,
       "selenium": 0,
       "sodium": 310,
-      "zinc": 0
-    },
-    "id": "frosted_lemon_blueberry_crumble_mvzjgsqy",
-    "submittedBy": "alejandroupmh@gmail.com"
+      "zinc": 0,
+      "chromium": 0,
+      "iodine": 0
+    }
   },
   {
     "name": "Home Style Alfredo",
