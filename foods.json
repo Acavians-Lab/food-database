@@ -25265,6 +25265,8 @@
     "id": "white_chocolate_cran_orange_cookie_bar_mix_mw8jggd3"
   },
   {
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "frosted_chocolate_chip_cookie_dough_mw9izl4a",
     "name": "Frosted Chocolate Chip Cookie Dough",
     "nameEs": "Masa de Galleta con Chispas de Chocolate Glaseada",
     "brand": "Pop-Tarts",
@@ -25306,6 +25308,7 @@
       "b3": 1.6,
       "b5": 0,
       "b6": 0,
+      "b7": 0,
       "b12": 0,
       "folate": 40,
       "a": 0,
@@ -25324,10 +25327,10 @@
       "potassium": 60,
       "selenium": 0,
       "sodium": 0,
-      "zinc": 0
-    },
-    "submittedBy": "alejandroupmh@gmail.com",
-    "id": "frosted_chocolate_chip_cookie_dough_mw9izl4a"
+      "zinc": 0,
+      "chromium": 0,
+      "iodine": 0
+    }
   },
   {
     "name": "Fresh Rice Stick Noodle",
