@@ -25863,5 +25863,46 @@
     },
     "submittedBy": "madrizdeanna@gmail.com",
     "id": "ades_unsweetened_soy_milk_mwu9mec5"
+  },
+  {
+    "name": "Super Carb ( Pineapple )",
+    "nameEs": "Super Carb ( Piña )",
+    "brand": "Nutra Bio",
+    "barcode": "649908260712",
+    "public": true,
+    "emoji": "🍽️",
+    "category": "Carbs",
+    "photoUrl": "https://raw.githubusercontent.com/Acavians-Lab/food-database/main/photos/super_carb_pineapple_mwuvsr5h.jpg?v=mwuvssgb",
+    "servingG": 28,
+    "servingLabel": "1 Scoop · 28 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Scoop",
+        "grams": 28
+      }
+    ],
+    "calories": 100,
+    "protein": 0,
+    "fat": 0,
+    "carbs": 25,
+    "fiber": 0,
+    "netCarbs": 25,
+    "minerals": {
+      "calcium": 95,
+      "chromium": 0,
+      "copper": 0,
+      "iodine": 0,
+      "iron": 0,
+      "magnesium": 28,
+      "manganese": 0,
+      "phosphorus": 81,
+      "potassium": 80,
+      "selenium": 0,
+      "sodium": 50,
+      "zinc": 0
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "super_carb_pineapple_mwuvsr5h"
   }
 ]
