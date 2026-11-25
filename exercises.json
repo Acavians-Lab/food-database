@@ -1,0 +1,4257 @@
+{
+  "version": 1,
+  "updated": "2026-11-25",
+  "exercises": [
+    {
+      "id": "ab-wheel.bodyweight.abs",
+      "nameEn": "Ab Wheel",
+      "nameEs": "Rueda Abdominal",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [
+        "Back"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "arnold-press.dumbbell.shoulders",
+      "nameEn": "Arnold Press",
+      "nameEs": "Press Arnold",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "assisted-dip.assisted.triceps",
+      "nameEn": "Assisted Dip",
+      "nameEs": "Fondos Asistidos",
+      "equipment": "Assisted",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "assisted-dips.assisted.chest",
+      "nameEn": "Assisted Dips",
+      "nameEs": "Fondos Asistidos",
+      "equipment": "Assisted",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "assisted-pullup-normal-grip.assisted.back",
+      "nameEn": "Assisted Pullup (Normal Grip)",
+      "nameEs": "Dominada Asistida (Agarre Normal)",
+      "equipment": "Assisted",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "assisted-pullup-parallel-grip.assisted.back",
+      "nameEn": "Assisted Pullup (Parallel Grip)",
+      "nameEs": "Dominada Asistida (Agarre Paralelo)",
+      "equipment": "Assisted",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "assisted-pullup-underhand-grip.assisted.back",
+      "nameEn": "Assisted Pullup (Underhand Grip)",
+      "nameEs": "Dominada Asistida (Agarre Supino)",
+      "equipment": "Assisted",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "assisted-pullup-wide-grip.assisted.back",
+      "nameEn": "Assisted Pullup (Wide Grip)",
+      "nameEs": "Dominada Asistida (Agarre Ancho)",
+      "equipment": "Assisted",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "back-raise-45-degree.bodyweight.hamstrings",
+      "nameEn": "Back Raise (45 degree)",
+      "nameEs": "Extensión de Espalda (45 grados)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "back-raise-glute-ham-deck.bodyweight.hamstrings",
+      "nameEn": "Back Raise (Glute Ham Deck)",
+      "nameEs": "Extensión de Espalda (GHD)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-bent-over-row.barbell.back",
+      "nameEn": "Barbell Bent Over Row",
+      "nameEs": "Remo con Barra Inclinado",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-bent-over-shrug.barbell.shoulders",
+      "nameEn": "Barbell Bent Over Shrug",
+      "nameEs": "Encogimiento con Barra Inclinado",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-bent-over-shrug.barbell.traps",
+      "nameEn": "Barbell Bent Over Shrug",
+      "nameEs": "Encogimiento con Barra Inclinado",
+      "equipment": "Barbell",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-curl-narrow-grip.barbell.biceps",
+      "nameEn": "Barbell Curl (Narrow Grip)",
+      "nameEs": "Curl con Barra (Agarre Cerrado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-curl-normal-grip.barbell.biceps",
+      "nameEn": "Barbell Curl (Normal Grip)",
+      "nameEs": "Curl con Barra (Agarre Normal)",
+      "equipment": "Barbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-facepull.barbell.shoulders",
+      "nameEn": "Barbell Facepull",
+      "nameEs": "Jalón a la Cara con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-flexion-row.barbell.back",
+      "nameEn": "Barbell Flexion Row",
+      "nameEs": "Remo con Flexión con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-front-raise.barbell.shoulders",
+      "nameEn": "Barbell Front Raise",
+      "nameEs": "Elevación Frontal con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-front-raise-ez-bar-underhand.barbell.shoulders",
+      "nameEn": "Barbell Front Raise (EZ Bar, Underhand)",
+      "nameEs": "Elevación Frontal (Barra EZ, Supino)",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-front-raise-overhand.barbell.shoulders",
+      "nameEn": "Barbell Front Raise (Overhand)",
+      "nameEs": "Elevación Frontal (Pronado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-good-morning-cambered-bar.barbell.hamstrings",
+      "nameEn": "Barbell Good Morning (Cambered Bar)",
+      "nameEs": "Buenos Días (Barra Curvada)",
+      "equipment": "Barbell",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-good-morning-high-bar.barbell.hamstrings",
+      "nameEn": "Barbell Good Morning (High Bar)",
+      "nameEs": "Buenos Días (Barra Alta)",
+      "equipment": "Barbell",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-good-morning-low-bar.barbell.hamstrings",
+      "nameEn": "Barbell Good Morning (Low Bar)",
+      "nameEs": "Buenos Días (Barra Baja)",
+      "equipment": "Barbell",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-good-morning-safety-bar.barbell.hamstrings",
+      "nameEn": "Barbell Good Morning (Safety Bar)",
+      "nameEs": "Buenos Días (Barra de Seguridad)",
+      "equipment": "Barbell",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-hip-thrust.barbell.glutes",
+      "nameEn": "Barbell Hip Thrust",
+      "nameEs": "Empuje de Cadera con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-overhead-triceps-extension.barbell.triceps",
+      "nameEn": "Barbell Overhead Triceps Extension",
+      "nameEs": "Extensión de Tríceps sobre Cabeza con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-overhead-triceps-extension-seated.barbell.triceps",
+      "nameEn": "Barbell Overhead Triceps Extension (Seated)",
+      "nameEs": "Extensión de Tríceps sobre Cabeza (Sentado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-pullover.barbell.back",
+      "nameEn": "Barbell Pullover",
+      "nameEs": "Pullover con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Chest",
+        "Triceps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-row-to-chest.barbell.back",
+      "nameEn": "Barbell Row to Chest",
+      "nameEs": "Remo al Pecho con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-shoulder-press-seated.barbell.shoulders",
+      "nameEn": "Barbell Shoulder Press (Seated)",
+      "nameEs": "Press de Hombro con Barra (Sentado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-shoulder-press-standing.barbell.shoulders",
+      "nameEn": "Barbell Shoulder Press (Standing)",
+      "nameEs": "Press de Hombro con Barra (De Pie)",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-shrug.barbell.shoulders",
+      "nameEn": "Barbell Shrug",
+      "nameEs": "Encogimiento con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-shrug.barbell.traps",
+      "nameEn": "Barbell Shrug",
+      "nameEs": "Encogimiento con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-skullcrusher.barbell.triceps",
+      "nameEn": "Barbell Skullcrusher",
+      "nameEs": "Press Francés con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-split-squat.barbell.quads",
+      "nameEn": "Barbell Split Squat",
+      "nameEs": "Sentadilla Dividida con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-squat-cambered-bar.barbell.quads",
+      "nameEn": "Barbell Squat (Cambered Bar)",
+      "nameEs": "Sentadilla (Barra Curvada)",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-squat-close-stance-feet-forward.barbell.quads",
+      "nameEn": "Barbell Squat (Close Stance, Feet Forward)",
+      "nameEs": "Sentadilla (Pies Adelante, Postura Cerrada)",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-squat-high-bar.barbell.quads",
+      "nameEn": "Barbell Squat (High Bar)",
+      "nameEs": "Sentadilla (Barra Alta)",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-squat-narrow-stance.barbell.quads",
+      "nameEn": "Barbell Squat (Narrow Stance)",
+      "nameEs": "Sentadilla (Postura Estrecha)",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-squat-safety-bar.barbell.quads",
+      "nameEn": "Barbell Squat (Safety Bar)",
+      "nameEs": "Sentadilla (Barra de Seguridad)",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-squat-sumo-stance.barbell.glutes",
+      "nameEn": "Barbell Squat (Sumo Stance)",
+      "nameEs": "Sentadilla (Postura Sumo)",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-standing-wrist-curl.barbell.forearms",
+      "nameEn": "Barbell Standing Wrist Curl",
+      "nameEs": "Curl de Muñeca de Pie con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Forearms",
+      "secondaryMuscles": [
+        "Biceps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "barbell-upright-row.barbell.shoulders",
+      "nameEn": "Barbell Upright Row",
+      "nameEs": "Remo al Cuello con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Biceps"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bayesian-curl.cable.biceps",
+      "nameEn": "Bayesian Curl",
+      "nameEs": "Curl Bayesiano",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "belt-squat.machine.quads",
+      "nameEn": "Belt Squat",
+      "nameEs": "Sentadilla con Cinturón",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "belt-squat-wide-stance.machine.glutes",
+      "nameEn": "Belt Squat (Wide Stance)",
+      "nameEs": "Sentadilla con Cinturón (Postura Ancha)",
+      "equipment": "Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "belt-squat-calves.machine.calves",
+      "nameEn": "Belt Squat Calves",
+      "nameEs": "Pantorrilla en Sentadilla con Cinturón",
+      "equipment": "Machine",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-cambered-bar.barbell.chest",
+      "nameEn": "Bench Press (Cambered Bar)",
+      "nameEs": "Press de Banca (Barra Curvada)",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-close-grip.barbell.triceps",
+      "nameEn": "Bench Press (Close Grip)",
+      "nameEs": "Press de Banca (Agarre Cerrado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-decline.barbell.chest",
+      "nameEn": "Bench Press (Decline)",
+      "nameEs": "Press de Banca Declinado",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-incline-medium-grip.barbell.chest",
+      "nameEn": "Bench Press (Incline, Medium Grip)",
+      "nameEs": "Press de Banca Inclinado (Agarre Medio)",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-incline-narrow-grip.barbell.chest",
+      "nameEn": "Bench Press (Incline, Narrow Grip)",
+      "nameEs": "Press de Banca Inclinado (Agarre Cerrado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-incline-wide-grip.barbell.chest",
+      "nameEn": "Bench Press (Incline, Wide Grip)",
+      "nameEs": "Press de Banca Inclinado (Agarre Ancho)",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-medium-grip.barbell.chest",
+      "nameEn": "Bench Press (Medium Grip)",
+      "nameEs": "Press de Banca (Agarre Medio)",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-narrow-grip.barbell.chest",
+      "nameEn": "Bench Press (Narrow Grip)",
+      "nameEs": "Press de Banca (Agarre Cerrado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bench-press-wide-grip.barbell.chest",
+      "nameEn": "Bench Press (Wide Grip)",
+      "nameEs": "Press de Banca (Agarre Ancho)",
+      "equipment": "Barbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "bodyweight-squat-2-3.bodyweight.quads",
+      "nameEn": "Bodyweight Squat (2/3)",
+      "nameEs": "Sentadilla con Peso Corporal (2/3)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "bulgarian-split-squat-glute-focused.dumbbell.glutes",
+      "nameEn": "Bulgarian Split Squat (Glute-Focused)",
+      "nameEs": "Sentadilla Búlgara (Enfoque Glúteo)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "bulgarian-split-squat-quad-focused.dumbbell.quads",
+      "nameEn": "Bulgarian Split Squat (Quad-Focused)",
+      "nameEs": "Sentadilla Búlgara (Enfoque Cuádriceps)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "cable-bent-over-shrug.cable.shoulders",
+      "nameEn": "Cable Bent Over Shrug",
+      "nameEs": "Encogimiento Inclinado en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-bent-over-shrug.cable.traps",
+      "nameEn": "Cable Bent Over Shrug",
+      "nameEs": "Encogimiento Inclinado en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-chest-press.cable.chest",
+      "nameEn": "Cable Chest Press",
+      "nameEs": "Press de Pecho en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-cross-body-bent-lateral-raise.cable.shoulders",
+      "nameEn": "Cable Cross Body Bent Lateral Raise",
+      "nameEs": "Elevación Lateral Cruzada Inclinada en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-cross-body-lateral-raise.cable.shoulders",
+      "nameEn": "Cable Cross Body Lateral Raise",
+      "nameEs": "Elevación Lateral Cruzada en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-curl.cable.biceps",
+      "nameEn": "Cable Curl",
+      "nameEs": "Curl en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-curl-ez-bar.cable.biceps",
+      "nameEn": "Cable Curl (EZ Bar)",
+      "nameEs": "Curl en Cable (Barra EZ)",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-curl-ez-bar-wide-grip.cable.biceps",
+      "nameEn": "Cable Curl (EZ Bar, Wide Grip)",
+      "nameEs": "Curl en Cable (Barra EZ, Agarre Ancho)",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-curl-single-arm.cable.biceps",
+      "nameEn": "Cable Curl (Single-Arm)",
+      "nameEs": "Curl en Cable (Un Brazo)",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-flexion-row.cable.back",
+      "nameEn": "Cable Flexion Row",
+      "nameEs": "Remo con Flexión en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-flye.cable.chest",
+      "nameEn": "Cable Flye",
+      "nameEs": "Aperturas en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-flye-bent-over.cable.chest",
+      "nameEn": "Cable Flye (Bent Over)",
+      "nameEs": "Aperturas en Cable (Inclinado)",
+      "equipment": "Cable",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-flye-high.cable.chest",
+      "nameEn": "Cable Flye (High)",
+      "nameEs": "Aperturas en Cable (Alto)",
+      "equipment": "Cable",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-flye-seated.cable.chest",
+      "nameEn": "Cable Flye (Seated)",
+      "nameEs": "Aperturas en Cable (Sentado)",
+      "equipment": "Cable",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-flye-underhand.cable.chest",
+      "nameEn": "Cable Flye (Underhand)",
+      "nameEs": "Aperturas en Cable (Supino)",
+      "equipment": "Cable",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-front-raise-overhand.cable.shoulders",
+      "nameEn": "Cable Front Raise (Overhand)",
+      "nameEs": "Elevación Frontal en Cable (Pronado)",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-front-raise-underhand.cable.shoulders",
+      "nameEn": "Cable Front Raise (Underhand)",
+      "nameEs": "Elevación Frontal en Cable (Supino)",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-hammer-curl-rope.cable.biceps",
+      "nameEn": "Cable Hammer Curl (Rope)",
+      "nameEs": "Curl Martillo en Cable (Cuerda)",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-kickback.cable.glutes",
+      "nameEn": "Cable Kickback",
+      "nameEs": "Patada en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "cable-lateral-raise-single-arm.cable.shoulders",
+      "nameEn": "Cable Lateral Raise (Single-Arm)",
+      "nameEs": "Elevación Lateral en Cable (Un Brazo)",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-leaning-lateral-raise.cable.shoulders",
+      "nameEn": "Cable Leaning Lateral Raise",
+      "nameEs": "Elevación Lateral Inclinado en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-overhead-triceps-extension.cable.triceps",
+      "nameEn": "Cable Overhead Triceps Extension",
+      "nameEs": "Extensión de Tríceps sobre Cabeza en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-overhead-triceps-extension-rope.cable.triceps",
+      "nameEn": "Cable Overhead Triceps Extension (Rope)",
+      "nameEs": "Extensión de Tríceps sobre Cabeza en Cable (Cuerda)",
+      "equipment": "Cable",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-pull-through.cable.glutes",
+      "nameEn": "Cable Pull Through",
+      "nameEs": "Jalón de Cadera en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "cable-pullover.cable.back",
+      "nameEn": "Cable Pullover",
+      "nameEs": "Pullover en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Chest",
+        "Triceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-rope-crunch.cable.abs",
+      "nameEn": "Cable Rope Crunch",
+      "nameEs": "Crunch con Cuerda en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [
+        "Back"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-rope-facepull.cable.shoulders",
+      "nameEn": "Cable Rope Facepull",
+      "nameEs": "Jalón a la Cara con Cuerda",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-rope-facepull-kneeling.cable.shoulders",
+      "nameEn": "Cable Rope Facepull (Kneeling)",
+      "nameEs": "Jalón a la Cara con Cuerda (De Rodillas)",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-rope-twist-curl.cable.biceps",
+      "nameEn": "Cable Rope Twist Curl",
+      "nameEs": "Curl con Giro y Cuerda en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-shrug.cable.shoulders",
+      "nameEn": "Cable Shrug",
+      "nameEs": "Encogimiento en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-shrug.cable.traps",
+      "nameEn": "Cable Shrug",
+      "nameEs": "Encogimiento en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-side-shrug.cable.shoulders",
+      "nameEn": "Cable Side Shrug",
+      "nameEs": "Encogimiento Lateral en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-side-shrug.cable.traps",
+      "nameEn": "Cable Side Shrug",
+      "nameEs": "Encogimiento Lateral en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-single-arm-rear-delt-raise.cable.shoulders",
+      "nameEn": "Cable Single Arm Rear Delt Raise",
+      "nameEs": "Elevación Posterior a Un Brazo en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-single-arm-side-shrug.cable.shoulders",
+      "nameEn": "Cable Single Arm Side Shrug",
+      "nameEs": "Encogimiento Lateral a Un Brazo en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-single-arm-side-shrug.cable.traps",
+      "nameEn": "Cable Single Arm Side Shrug",
+      "nameEs": "Encogimiento Lateral a Un Brazo en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-tricep-kickback.cable.triceps",
+      "nameEn": "Cable Tricep Kickback",
+      "nameEs": "Patada de Tríceps en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-triceps-pushdown-bar.cable.triceps",
+      "nameEn": "Cable Triceps Pushdown (Bar)",
+      "nameEs": "Extensión de Tríceps en Cable (Barra)",
+      "equipment": "Cable",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-triceps-pushdown-rope.cable.triceps",
+      "nameEn": "Cable Triceps Pushdown (Rope)",
+      "nameEs": "Extensión de Tríceps en Cable (Cuerda)",
+      "equipment": "Cable",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-triceps-pushdown-single-arm.cable.triceps",
+      "nameEn": "Cable Triceps Pushdown (Single-Arm)",
+      "nameEs": "Extensión de Tríceps en Cable (Un Brazo)",
+      "equipment": "Cable",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-upright-row.cable.shoulders",
+      "nameEn": "Cable Upright Row",
+      "nameEs": "Remo al Cuello en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Biceps"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "cable-wrist-curl.cable.forearms",
+      "nameEn": "Cable Wrist Curl",
+      "nameEs": "Curl de Muñeca en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Forearms",
+      "secondaryMuscles": [
+        "Biceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "calf-machine.machine.calves",
+      "nameEn": "Calf Machine",
+      "nameEs": "Máquina de Pantorrilla",
+      "equipment": "Machine",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "cambered-bar-row.barbell.back",
+      "nameEn": "Cambered Bar Row",
+      "nameEs": "Remo con Barra Curvada",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "chest-supported-row.machine.back",
+      "nameEn": "Chest Supported Row",
+      "nameEs": "Remo con Soporte de Pecho",
+      "equipment": "Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "concentration-curl.dumbbell.biceps",
+      "nameEn": "Concentration Curl",
+      "nameEs": "Curl de Concentración",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "curl-straight-bar.cable.biceps",
+      "nameEn": "Curl (Straight Bar)",
+      "nameEs": "Curl (Barra Recta)",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "deadlift.barbell.glutes",
+      "nameEn": "Deadlift",
+      "nameEs": "Peso Muerto",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "deadlift.barbell.back",
+      "nameEn": "Deadlift",
+      "nameEs": "Peso Muerto",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings",
+        "Traps"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "deadlift-deficit-25-s.barbell.glutes",
+      "nameEn": "Deadlift (Deficit 25's)",
+      "nameEs": "Peso Muerto (Déficit 25)",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "deadlift-deficit.barbell.glutes",
+      "nameEn": "Deadlift (Deficit)",
+      "nameEs": "Peso Muerto (Déficit)",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "deadlift-flexion.barbell.back",
+      "nameEn": "Deadlift (Flexion)",
+      "nameEs": "Peso Muerto (Flexión)",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings",
+        "Traps"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "deadlift-sumo-stance.barbell.glutes",
+      "nameEn": "Deadlift (Sumo Stance)",
+      "nameEs": "Peso Muerto (Postura Sumo)",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "deadlift-sumo-stance-deficit.barbell.glutes",
+      "nameEn": "Deadlift (Sumo Stance, Deficit)",
+      "nameEs": "Peso Muerto (Sumo, Déficit)",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "decline-dumbbell-curl.dumbbell.biceps",
+      "nameEn": "Decline Dumbbell Curl",
+      "nameEs": "Curl con Mancuerna Declinado",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dip-chest-focused.bodyweight.chest",
+      "nameEn": "Dip (Chest-Focused)",
+      "nameEs": "Fondos (Enfoque Pecho)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dip-triceps-focused.bodyweight.triceps",
+      "nameEn": "Dip (Triceps-Focused)",
+      "nameEs": "Fondos (Enfoque Tríceps)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dip-machine.machine.triceps",
+      "nameEn": "Dip Machine",
+      "nameEs": "Máquina de Fondos",
+      "equipment": "Machine",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dip-press.machine.chest",
+      "nameEn": "Dip Press",
+      "nameEs": "Press de Fondos",
+      "equipment": "Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "donkey-calf-raise.machine.calves",
+      "nameEn": "Donkey Calf Raise",
+      "nameEs": "Elevación de Pantorrilla Burro",
+      "equipment": "Machine",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "dual-cable-pullover.cable.back",
+      "nameEn": "Dual Cable Pullover",
+      "nameEs": "Pullover Doble en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Chest",
+        "Triceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-flexion-row.dumbbell.back",
+      "nameEn": "Dumbbell Flexion Row",
+      "nameEs": "Remo con Flexión con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-bench-wrist-curl.dumbbell.forearms",
+      "nameEn": "Dumbbell Bench Wrist Curl",
+      "nameEs": "Curl de Muñeca en Banco con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Forearms",
+      "secondaryMuscles": [
+        "Biceps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-bent-lateral-raise.dumbbell.shoulders",
+      "nameEn": "Dumbbell Bent Lateral Raise",
+      "nameEs": "Elevación Lateral Inclinada con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-bent-over-shrug.dumbbell.shoulders",
+      "nameEn": "Dumbbell Bent Over Shrug",
+      "nameEs": "Encogimiento Inclinado con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-bent-over-shrug.dumbbell.traps",
+      "nameEn": "Dumbbell Bent Over Shrug",
+      "nameEs": "Encogimiento Inclinado con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-curl-2-arm.dumbbell.biceps",
+      "nameEn": "Dumbbell Curl (2-Arm)",
+      "nameEs": "Curl con Mancuerna (2 Brazos)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-curl-alternating.dumbbell.biceps",
+      "nameEn": "Dumbbell Curl (Alternating)",
+      "nameEs": "Curl con Mancuerna (Alternado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-curl-incline.dumbbell.biceps",
+      "nameEn": "Dumbbell Curl (Incline)",
+      "nameEs": "Curl con Mancuerna (Inclinado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-facepull.dumbbell.shoulders",
+      "nameEn": "Dumbbell Facepull",
+      "nameEs": "Jalón a la Cara con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-facepull-incline.dumbbell.shoulders",
+      "nameEn": "Dumbbell Facepull (Incline)",
+      "nameEs": "Jalón a la Cara con Mancuerna (Inclinado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-flye-flat.dumbbell.chest",
+      "nameEn": "Dumbbell Flye (Flat)",
+      "nameEs": "Aperturas con Mancuerna (Plano)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-flye-incline.dumbbell.chest",
+      "nameEn": "Dumbbell Flye (Incline)",
+      "nameEs": "Aperturas con Mancuerna (Inclinado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-front-raise.dumbbell.shoulders",
+      "nameEn": "Dumbbell Front Raise",
+      "nameEs": "Elevación Frontal con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-front-squat.dumbbell.quads",
+      "nameEn": "Dumbbell Front Squat",
+      "nameEs": "Sentadilla Frontal con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-hip-thrust-single-leg.dumbbell.glutes",
+      "nameEn": "Dumbbell Hip Thrust (Single Leg)",
+      "nameEs": "Empuje de Cadera con Mancuerna (Una Pierna)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-lateral-raise.dumbbell.shoulders",
+      "nameEn": "Dumbbell Lateral Raise",
+      "nameEs": "Elevación Lateral con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-lateral-raise-incline.dumbbell.shoulders",
+      "nameEn": "Dumbbell Lateral Raise (Incline)",
+      "nameEs": "Elevación Lateral con Mancuerna (Inclinado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-lateral-raise-seated.dumbbell.shoulders",
+      "nameEn": "Dumbbell Lateral Raise (Seated)",
+      "nameEs": "Elevación Lateral con Mancuerna (Sentado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-lateral-raise-super-rom.dumbbell.shoulders",
+      "nameEn": "Dumbbell Lateral Raise (Super ROM)",
+      "nameEs": "Elevación Lateral con Mancuerna (ROM Extendido)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-lateral-raise-thumbs-down.dumbbell.shoulders",
+      "nameEn": "Dumbbell Lateral Raise (Thumbs Down)",
+      "nameEs": "Elevación Lateral con Mancuerna (Pulgares Abajo)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-lateral-raise-top-hold.dumbbell.shoulders",
+      "nameEn": "Dumbbell Lateral Raise (Top Hold)",
+      "nameEs": "Elevación Lateral con Mancuerna (Pausa Arriba)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-leaning-shrug.dumbbell.shoulders",
+      "nameEn": "Dumbbell Leaning Shrug",
+      "nameEs": "Encogimiento Inclinado con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-leaning-shrug.dumbbell.traps",
+      "nameEn": "Dumbbell Leaning Shrug",
+      "nameEs": "Encogimiento Inclinado con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-overhead-extension.dumbbell.triceps",
+      "nameEn": "Dumbbell Overhead Extension",
+      "nameEs": "Extensión sobre Cabeza con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-overhead-extension-single-arm.dumbbell.triceps",
+      "nameEn": "Dumbbell Overhead Extension (Single-Arm)",
+      "nameEs": "Extensión sobre Cabeza con Mancuerna (Un Brazo)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-preacher-curl-single-arm.dumbbell.biceps",
+      "nameEn": "Dumbbell Preacher Curl (Single-Arm)",
+      "nameEs": "Curl Predicador con Mancuerna (Un Brazo)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-press-flat.dumbbell.chest",
+      "nameEn": "Dumbbell Press (Flat)",
+      "nameEs": "Press con Mancuerna (Plano)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-press-high-incline.dumbbell.shoulders",
+      "nameEn": "Dumbbell Press (High Incline)",
+      "nameEs": "Press con Mancuerna (Inclinado Alto)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-press-high-incline.dumbbell.chest",
+      "nameEn": "Dumbbell Press (High Incline)",
+      "nameEs": "Press con Mancuerna (Inclinado Alto)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-press-low-incline.dumbbell.chest",
+      "nameEn": "Dumbbell Press (Low Incline)",
+      "nameEs": "Press con Mancuerna (Inclinado Bajo)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-press-medium-incline.dumbbell.chest",
+      "nameEn": "Dumbbell Press (Medium Incline)",
+      "nameEs": "Press con Mancuerna (Inclinado Medio)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-press-flye-flat.dumbbell.chest",
+      "nameEn": "Dumbbell Press Flye (Flat)",
+      "nameEs": "Press y Aperturas con Mancuerna (Plano)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-press-flye-incline.dumbbell.chest",
+      "nameEn": "Dumbbell Press Flye (Incline)",
+      "nameEs": "Press y Aperturas con Mancuerna (Inclinado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-pullover.dumbbell.back",
+      "nameEn": "Dumbbell Pullover",
+      "nameEs": "Pullover con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Chest",
+        "Triceps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-row-2-arm.dumbbell.back",
+      "nameEn": "Dumbbell Row (2-Arm)",
+      "nameEs": "Remo con Mancuerna (2 Brazos)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-row-2-arm-incline.dumbbell.back",
+      "nameEn": "Dumbbell Row (2-Arm, Incline)",
+      "nameEs": "Remo con Mancuerna (2 Brazos, Inclinado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-row-single-arm-supported.dumbbell.back",
+      "nameEn": "Dumbbell Row (Single-Arm, Supported)",
+      "nameEs": "Remo con Mancuerna (Un Brazo, Apoyado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-row-to-hips.dumbbell.back",
+      "nameEn": "Dumbbell Row to Hips",
+      "nameEs": "Remo a la Cadera con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-shoulder-press-seated.dumbbell.shoulders",
+      "nameEn": "Dumbbell Shoulder Press (Seated)",
+      "nameEs": "Press de Hombro con Mancuerna (Sentado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-shoulder-press-standing.dumbbell.shoulders",
+      "nameEn": "Dumbbell Shoulder Press (Standing)",
+      "nameEs": "Press de Hombro con Mancuerna (De Pie)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-shrug.dumbbell.shoulders",
+      "nameEn": "Dumbbell Shrug",
+      "nameEs": "Encogimiento con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-shrug.dumbbell.traps",
+      "nameEn": "Dumbbell Shrug",
+      "nameEs": "Encogimiento con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-shrug-seated.dumbbell.shoulders",
+      "nameEn": "Dumbbell Shrug (Seated)",
+      "nameEs": "Encogimiento con Mancuerna (Sentado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-shrug-seated.dumbbell.traps",
+      "nameEn": "Dumbbell Shrug (Seated)",
+      "nameEs": "Encogimiento con Mancuerna (Sentado)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-skullcrusher.dumbbell.triceps",
+      "nameEn": "Dumbbell Skullcrusher",
+      "nameEs": "Press Francés con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-spider-curl.dumbbell.biceps",
+      "nameEn": "Dumbbell Spider Curl",
+      "nameEs": "Curl Araña con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-split-squat.dumbbell.glutes",
+      "nameEn": "Dumbbell Split Squat",
+      "nameEs": "Sentadilla Dividida con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-standing-wrist-curl.dumbbell.forearms",
+      "nameEn": "Dumbbell Standing Wrist Curl",
+      "nameEs": "Curl de Muñeca de Pie con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Forearms",
+      "secondaryMuscles": [
+        "Biceps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-stiff-legged-deadlift.dumbbell.hamstrings",
+      "nameEn": "Dumbbell Stiff Legged Deadlift",
+      "nameEs": "Peso Muerto Piernas Rígidas con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-twist-curl.dumbbell.biceps",
+      "nameEn": "Dumbbell Twist Curl",
+      "nameEs": "Curl con Giro con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "dumbbell-upright-row.dumbbell.shoulders",
+      "nameEn": "Dumbbell Upright Row",
+      "nameEs": "Remo al Cuello con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Biceps"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-curl-narrow-grip.ez-bar.biceps",
+      "nameEn": "EZ Bar Curl (Narrow Grip)",
+      "nameEs": "Curl con Barra EZ (Agarre Cerrado)",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-curl-normal-grip.ez-bar.biceps",
+      "nameEn": "EZ Bar Curl (Normal Grip)",
+      "nameEs": "Curl con Barra EZ (Agarre Normal)",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-curl-wide-grip.ez-bar.biceps",
+      "nameEn": "EZ Bar Curl (Wide Grip)",
+      "nameEs": "Curl con Barra EZ (Agarre Ancho)",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-overhead-triceps-extension.ez-bar.triceps",
+      "nameEn": "EZ Bar Overhead Triceps Extension",
+      "nameEs": "Extensión de Tríceps sobre Cabeza (Barra EZ)",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-overhead-triceps-extension-seated.ez-bar.triceps",
+      "nameEn": "EZ Bar Overhead Triceps Extension (Seated)",
+      "nameEs": "Extensión de Tríceps sobre Cabeza (Barra EZ, Sentado)",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-preacher-curl.ez-bar.biceps",
+      "nameEn": "EZ Bar Preacher Curl",
+      "nameEs": "Curl Predicador con Barra EZ",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-row-underhand.ez-bar.back",
+      "nameEn": "EZ Bar Row (Underhand)",
+      "nameEs": "Remo con Barra EZ (Supino)",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 6,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-skullcrusher.ez-bar.triceps",
+      "nameEn": "EZ Bar Skullcrusher",
+      "nameEs": "Press Francés con Barra EZ",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "ez-bar-spider-curl.ez-bar.biceps",
+      "nameEn": "EZ Bar Spider Curl",
+      "nameEs": "Curl Araña con Barra EZ",
+      "equipment": "EZ Bar",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "front-foot-elevated-smith-lunge.smith-machine.glutes",
+      "nameEn": "Front Foot Elevated Smith Lunge",
+      "nameEs": "Estocada en Smith (Pie Delantero Elevado)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "front-squat.barbell.quads",
+      "nameEn": "Front Squat",
+      "nameEs": "Sentadilla Frontal",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "front-squat-cross-grip.barbell.quads",
+      "nameEn": "Front Squat (Cross Grip)",
+      "nameEs": "Sentadilla Frontal (Agarre Cruzado)",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "goblet-squat.dumbbell.quads",
+      "nameEn": "Goblet Squat",
+      "nameEs": "Sentadilla Goblet",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "grip-roller.machine.forearms",
+      "nameEn": "Grip Roller",
+      "nameEs": "Rodillo de Agarre",
+      "equipment": "Machine",
+      "muscleGroup": "Forearms",
+      "secondaryMuscles": [
+        "Biceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hack-squat.machine.quads",
+      "nameEn": "Hack Squat",
+      "nameEs": "Sentadilla Hack",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "hammer-curl.dumbbell.biceps",
+      "nameEn": "Hammer Curl",
+      "nameEs": "Curl Martillo",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hammer-machine-chest-press-flat.machine.chest",
+      "nameEn": "Hammer Machine Chest Press (Flat)",
+      "nameEs": "Press de Pecho en Máquina Hammer (Plano)",
+      "equipment": "Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hammer-machine-chest-press-incline.machine.chest",
+      "nameEn": "Hammer Machine Chest Press (Incline)",
+      "nameEs": "Press de Pecho en Máquina Hammer (Inclinado)",
+      "equipment": "Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hammer-machine-row-high.machine.back",
+      "nameEn": "Hammer Machine Row (High)",
+      "nameEs": "Remo en Máquina Hammer (Alto)",
+      "equipment": "Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hammer-machine-row-low.machine.back",
+      "nameEn": "Hammer Machine Row (Low)",
+      "nameEs": "Remo en Máquina Hammer (Bajo)",
+      "equipment": "Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hammer-preacher-curl.dumbbell.biceps",
+      "nameEn": "Hammer Preacher Curl",
+      "nameEs": "Curl Predicador Martillo",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hanging-knee-raise.bodyweight.abs",
+      "nameEn": "Hanging Knee Raise",
+      "nameEs": "Elevación de Rodillas Colgado",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [
+        "Back"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hanging-straight-leg-raise.bodyweight.abs",
+      "nameEn": "Hanging Straight Leg Raise",
+      "nameEs": "Elevación de Piernas Rectas Colgado",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [
+        "Back"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "hip-abduction-machine.machine.glutes",
+      "nameEn": "Hip Abduction Machine",
+      "nameEs": "Máquina de Abducción de Cadera",
+      "equipment": "Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "hip-adduction.machine.quads",
+      "nameEn": "Hip Adduction",
+      "nameEs": "Aducción de Cadera",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "hip-thrust.smith-machine.glutes",
+      "nameEn": "Hip Thrust",
+      "nameEs": "Empuje de Cadera",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "incline-reverse-fly.dumbbell.shoulders",
+      "nameEn": "Incline Reverse Fly",
+      "nameEs": "Aperturas Posteriores Inclinado",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "inverted-row.bodyweight.back",
+      "nameEn": "Inverted Row",
+      "nameEs": "Remo Invertido",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "inverted-skullcrusher.bodyweight.triceps",
+      "nameEn": "Inverted Skullcrusher",
+      "nameEs": "Press Francés Invertido",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "jm-press.barbell.triceps",
+      "nameEn": "JM Press",
+      "nameEs": "Press JM",
+      "equipment": "Barbell",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "landmine-row.barbell.back",
+      "nameEn": "Landmine Row",
+      "nameEs": "Remo Landmine",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "leg-extension.machine.quads",
+      "nameEn": "Leg Extension",
+      "nameEs": "Extensión de Pierna",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "leg-press.machine.quads",
+      "nameEn": "Leg Press",
+      "nameEs": "Prensa de Piernas",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "leg-press-calves.machine.calves",
+      "nameEn": "Leg Press Calves",
+      "nameEs": "Pantorrilla en Prensa",
+      "equipment": "Machine",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "lying-biceps-dumbbell-curl.dumbbell.biceps",
+      "nameEn": "Lying Biceps Dumbbell Curl",
+      "nameEs": "Curl de Bíceps Acostado con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "lying-cable-curl.cable.biceps",
+      "nameEn": "Lying Cable Curl",
+      "nameEs": "Curl Acostado en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "lying-dumbbell-curl.dumbbell.biceps",
+      "nameEn": "Lying Dumbbell Curl",
+      "nameEs": "Curl Acostado con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "lying-leg-curl.machine.hamstrings",
+      "nameEn": "Lying Leg Curl",
+      "nameEs": "Curl de Pierna Acostado",
+      "equipment": "Machine",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Calves"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "machine-chest-press.machine.chest",
+      "nameEn": "Machine Chest Press",
+      "nameEs": "Press de Pecho en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-chest-press-incline.machine.chest",
+      "nameEn": "Machine Chest Press (Incline)",
+      "nameEs": "Press de Pecho en Máquina (Inclinado)",
+      "equipment": "Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-chest-supported-row.machine.back",
+      "nameEn": "Machine Chest Supported Row",
+      "nameEs": "Remo con Soporte de Pecho en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-crunch.machine.abs",
+      "nameEn": "Machine Crunch",
+      "nameEs": "Crunch en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [
+        "Back"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-flye.machine.chest",
+      "nameEn": "Machine Flye",
+      "nameEs": "Aperturas en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-glute-kickback.machine.glutes",
+      "nameEn": "Machine Glute Kickback",
+      "nameEs": "Patada de Glúteo en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "machine-hip-thrust.machine.glutes",
+      "nameEn": "Machine Hip Thrust",
+      "nameEs": "Empuje de Cadera en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "machine-lateral-raise.machine.shoulders",
+      "nameEn": "Machine Lateral Raise",
+      "nameEs": "Elevación Lateral en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-preacher-curl.machine.biceps",
+      "nameEn": "Machine Preacher Curl",
+      "nameEs": "Curl Predicador en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-pulldown.machine.back",
+      "nameEn": "Machine Pulldown",
+      "nameEs": "Jalón en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-pullover.machine.back",
+      "nameEn": "Machine Pullover",
+      "nameEs": "Pullover en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Chest",
+        "Triceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-reverse-flye.machine.shoulders",
+      "nameEn": "Machine Reverse Flye",
+      "nameEs": "Aperturas Posteriores en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Back",
+        "Biceps"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-shoulder-press.machine.shoulders",
+      "nameEn": "Machine Shoulder Press",
+      "nameEs": "Press de Hombro en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-shrug.machine.traps",
+      "nameEn": "Machine Shrug",
+      "nameEs": "Encogimiento en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-triceps-extension.machine.triceps",
+      "nameEn": "Machine Triceps Extension",
+      "nameEs": "Extensión de Tríceps en Máquina",
+      "equipment": "Machine",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "machine-triceps-pushdown.machine.triceps",
+      "nameEn": "Machine Triceps Pushdown",
+      "nameEs": "Extensión de Tríceps en Máquina (Jalón)",
+      "equipment": "Machine",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "meadows-row.barbell.back",
+      "nameEn": "Meadows Row",
+      "nameEs": "Remo Meadows",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "modified-candlestick.bodyweight.abs",
+      "nameEn": "Modified Candlestick",
+      "nameEs": "Candelero Modificado",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [
+        "Back"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "nordic-curl.bodyweight.hamstrings",
+      "nameEn": "Nordic Curl",
+      "nameEs": "Curl Nórdico",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Calves"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "pec-dec-flye.machine.chest",
+      "nameEn": "Pec Dec Flye",
+      "nameEs": "Aperturas en Pec Deck",
+      "equipment": "Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Shoulders"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "pendulum-squat.machine.quads",
+      "nameEn": "Pendulum Squat",
+      "nameEs": "Sentadilla Pendular",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "pulldown-narrow-grip.cable.back",
+      "nameEn": "Pulldown (Narrow Grip)",
+      "nameEs": "Jalón al Pecho (Agarre Cerrado)",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "pulldown-normal-grip.cable.back",
+      "nameEn": "Pulldown (Normal Grip)",
+      "nameEs": "Jalón al Pecho (Agarre Normal)",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "pulldown-parallel-grip.cable.back",
+      "nameEn": "Pulldown (Parallel Grip)",
+      "nameEs": "Jalón al Pecho (Agarre Paralelo)",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "pulldown-single-arm.cable.back",
+      "nameEn": "Pulldown (Single-Arm)",
+      "nameEs": "Jalón al Pecho (Un Brazo)",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "reverse-curl.barbell.forearms",
+      "nameEn": "Reverse Curl",
+      "nameEs": "Curl Inverso",
+      "equipment": "Barbell",
+      "muscleGroup": "Forearms",
+      "secondaryMuscles": [
+        "Biceps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "reverse-hyper.machine.glutes",
+      "nameEn": "Reverse Hyper",
+      "nameEs": "Hiperextensión Inversa",
+      "equipment": "Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "reverse-lunge-barbell.barbell.glutes",
+      "nameEn": "Reverse Lunge (Barbell)",
+      "nameEs": "Estocada Inversa con Barra",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "reverse-lunge-dumbbell.dumbbell.glutes",
+      "nameEn": "Reverse Lunge (Dumbbell)",
+      "nameEs": "Estocada Inversa con Mancuerna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "rogers-good-morning.machine.hamstrings",
+      "nameEn": "Rogers Good Morning",
+      "nameEs": "Buenos Días Rogers",
+      "equipment": "Machine",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "rogers-reverse-lunge.machine.glutes",
+      "nameEn": "Rogers Reverse Lunge",
+      "nameEs": "Estocada Inversa Rogers",
+      "equipment": "Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "rogers-squat.machine.quads",
+      "nameEn": "Rogers Squat",
+      "nameEs": "Sentadilla Rogers",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "seal-row.barbell.back",
+      "nameEn": "Seal Row",
+      "nameEs": "Remo Sello",
+      "equipment": "Barbell",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "seated-cable-row.cable.back",
+      "nameEn": "Seated Cable Row",
+      "nameEs": "Remo Sentado en Cable",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "seated-cable-row-single-arm.cable.back",
+      "nameEn": "Seated Cable Row (Single-Arm)",
+      "nameEs": "Remo Sentado en Cable (Un Brazo)",
+      "equipment": "Cable",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8.5,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "seated-leg-curl.machine.hamstrings",
+      "nameEn": "Seated Leg Curl",
+      "nameEs": "Curl de Pierna Sentado",
+      "equipment": "Machine",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Calves"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "single-leg-extension.machine.quads",
+      "nameEn": "Single Leg Extension",
+      "nameEs": "Extensión de Pierna a Una",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "single-leg-press.machine.quads",
+      "nameEn": "Single Leg Press",
+      "nameEs": "Prensa de Pierna a Una",
+      "equipment": "Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "single-leg-romanian-deadlift.dumbbell.hamstrings",
+      "nameEn": "Single Leg Romanian Deadlift",
+      "nameEs": "Peso Muerto Rumano a Una Pierna",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "single-seated-straight-legs-press.machine.calves",
+      "nameEn": "Single Seated Straight Legs Press",
+      "nameEs": "Prensa de Piernas Rectas Sentado a Una",
+      "equipment": "Machine",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "single-leg-leg-curl.machine.hamstrings",
+      "nameEn": "Single-Leg Leg Curl",
+      "nameEs": "Curl de Pierna a Una",
+      "equipment": "Machine",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Calves"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "sissy-squat-machine.bodyweight.quads",
+      "nameEn": "Sissy Squat (Machine)",
+      "nameEs": "Sissy Squat",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "sissy-squat-no-machine.bodyweight.quads",
+      "nameEn": "Sissy Squat (No Machine)",
+      "nameEs": "Sissy Squat (Sin Máquina)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-bench-press-medium-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Bench Press (Medium Grip)",
+      "nameEs": "Press de Banca en Smith (Agarre Medio)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-bench-press-narrow-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Bench Press (Narrow Grip)",
+      "nameEs": "Press de Banca en Smith (Agarre Cerrado)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-bench-press-wide-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Bench Press (Wide Grip)",
+      "nameEs": "Press de Banca en Smith (Agarre Ancho)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-calves.smith-machine.calves",
+      "nameEn": "Smith Machine Calves",
+      "nameEs": "Pantorrilla en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-good-morning.smith-machine.hamstrings",
+      "nameEn": "Smith Machine Good Morning",
+      "nameEs": "Buenos Días en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-jm-press.smith-machine.triceps",
+      "nameEn": "Smith Machine JM Press",
+      "nameEs": "Press JM en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-high-incline-medium-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (High Incline, Medium Grip)",
+      "nameEs": "Press en Smith (Inclinado Alto, Agarre Medio)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-high-incline-narrow-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (High Incline, Narrow Grip)",
+      "nameEs": "Press en Smith (Inclinado Alto, Agarre Cerrado)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-high-incline-wide-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (High Incline, Wide Grip)",
+      "nameEs": "Press en Smith (Inclinado Alto, Agarre Ancho)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-incline-medium-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (Incline, Medium Grip)",
+      "nameEs": "Press en Smith (Inclinado, Agarre Medio)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-incline-wide-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (Incline, Wide Grip)",
+      "nameEs": "Press en Smith (Inclinado, Agarre Ancho)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-low-incline-medium-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (Low Incline, Medium Grip)",
+      "nameEs": "Press en Smith (Inclinado Bajo, Agarre Medio)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-low-incline-narrow-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (Low Incline, Narrow Grip)",
+      "nameEs": "Press en Smith (Inclinado Bajo, Agarre Cerrado)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-low-incline-wide-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (Low Incline, Wide Grip)",
+      "nameEs": "Press en Smith (Inclinado Bajo, Agarre Ancho)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-press-medium-incline-narrow-grip.smith-machine.chest",
+      "nameEn": "Smith Machine Press (Medium Incline, Narrow Grip)",
+      "nameEs": "Press en Smith (Inclinado Medio, Agarre Cerrado)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-row.smith-machine.back",
+      "nameEn": "Smith Machine Row",
+      "nameEs": "Remo en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-shoulder-press-seated.smith-machine.shoulders",
+      "nameEn": "Smith Machine Shoulder Press (Seated)",
+      "nameEs": "Press de Hombro en Smith (Sentado)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Triceps",
+        "Traps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-shrug.smith-machine.traps",
+      "nameEn": "Smith Machine Shrug",
+      "nameEs": "Encogimiento en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-skullcrusher.smith-machine.triceps",
+      "nameEn": "Smith Machine Skullcrusher",
+      "nameEs": "Press Francés en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Triceps",
+      "secondaryMuscles": [
+        "Chest"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-split-squat.smith-machine.glutes",
+      "nameEn": "Smith Machine Split Squat",
+      "nameEs": "Sentadilla Dividida en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-squat-feet-forward.smith-machine.quads",
+      "nameEn": "Smith Machine Squat (Feet Forward)",
+      "nameEs": "Sentadilla en Smith (Pies Adelante)",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "smith-machine-upright-row.smith-machine.shoulders",
+      "nameEn": "Smith Machine Upright Row",
+      "nameEs": "Remo al Cuello en Smith",
+      "equipment": "Smith Machine",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [
+        "Traps",
+        "Biceps"
+      ],
+      "sfr": 7,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "stair-calves.bodyweight.calves",
+      "nameEn": "Stair Calves",
+      "nameEs": "Pantorrilla en Escalón",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "stair-calves-single-leg.bodyweight.calves",
+      "nameEn": "Stair Calves (Single Leg)",
+      "nameEs": "Pantorrilla en Escalón (Una Pierna)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "standing-calf-raise.machine.calves",
+      "nameEn": "Standing Calf Raise",
+      "nameEs": "Elevación de Pantorrilla de Pie",
+      "equipment": "Machine",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "sfr": 9,
+      "exerciseType": "Isolation Lower",
+      "youtube": ""
+    },
+    {
+      "id": "standing-dumbbell-supported-curls.dumbbell.biceps",
+      "nameEn": "Standing Dumbbell Supported Curls",
+      "nameEs": "Curl con Mancuerna Apoyado de Pie",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Biceps",
+      "secondaryMuscles": [
+        "Forearms"
+      ],
+      "sfr": 7.5,
+      "exerciseType": "Isolation Upper",
+      "youtube": ""
+    },
+    {
+      "id": "stiff-legged-deadlift.barbell.hamstrings",
+      "nameEn": "Stiff-Legged Deadlift",
+      "nameEs": "Peso Muerto Piernas Rígidas",
+      "equipment": "Barbell",
+      "muscleGroup": "Hamstrings",
+      "secondaryMuscles": [
+        "Glutes",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "t-bar-row.machine.back",
+      "nameEn": "T-Bar Row",
+      "nameEs": "Remo T",
+      "equipment": "Machine",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [
+        "Biceps",
+        "Shoulders"
+      ],
+      "sfr": 8,
+      "exerciseType": "Compound Upper",
+      "youtube": ""
+    },
+    {
+      "id": "trap-bar-deadlift.barbell.glutes",
+      "nameEn": "Trap Bar Deadlift",
+      "nameEs": "Peso Muerto con Barra Trap",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Back"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "walking-lunges-glute-focused-barbell.barbell.glutes",
+      "nameEn": "Walking Lunges (Glute-Focused, Barbell)",
+      "nameEs": "Zancadas Caminando (Enfoque Glúteo, Barra)",
+      "equipment": "Barbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "walking-lunges-glute-focused-bodyweight.bodyweight.glutes",
+      "nameEn": "Walking Lunges (Glute-Focused, Bodyweight)",
+      "nameEs": "Zancadas Caminando (Enfoque Glúteo, Peso Corporal)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "walking-lunges-glute-focused-dumbbell.dumbbell.glutes",
+      "nameEn": "Walking Lunges (Glute-Focused, Dumbbell)",
+      "nameEs": "Zancadas Caminando (Enfoque Glúteo, Mancuerna)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "walking-lunges-quad-focused-barbell.barbell.quads",
+      "nameEn": "Walking Lunges (Quad-Focused, Barbell)",
+      "nameEs": "Zancadas Caminando (Enfoque Cuádriceps, Barra)",
+      "equipment": "Barbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "walking-lunges-quad-focused-bodyweight.bodyweight.quads",
+      "nameEn": "Walking Lunges (Quad-Focused, Bodyweight)",
+      "nameEs": "Zancadas Caminando (Enfoque Cuádriceps, Peso Corporal)",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 5.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "walking-lunges-quad-focused-dumbbell.dumbbell.quads",
+      "nameEn": "Walking Lunges (Quad-Focused, Dumbbell)",
+      "nameEs": "Zancadas Caminando (Enfoque Cuádriceps, Mancuerna)",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "sfr": 6.5,
+      "exerciseType": "Compound Lower",
+      "youtube": ""
+    },
+    {
+      "id": "serratus-wall-slide.bodyweight.shoulders",
+      "nameEn": "Serratus Wall Slide",
+      "nameEs": "Deslizamiento de Serrato en Pared",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "scap-push-up.bodyweight.shoulders",
+      "nameEn": "Scap Push-Up",
+      "nameEs": "Flexión Escapular",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "push-up-plus.bodyweight.shoulders",
+      "nameEn": "Push-Up Plus",
+      "nameEs": "Flexión Plus",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "serratus-punch.cable.shoulders",
+      "nameEn": "Serratus Punch",
+      "nameEs": "Golpe de Serrato",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "supine-serratus-punch.dumbbell.shoulders",
+      "nameEn": "Supine Serratus Punch",
+      "nameEs": "Golpe de Serrato Acostado",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "serratus-wall-slide-with-foam-roller.foam-roller.shoulders",
+      "nameEn": "Serratus Wall Slide with Foam Roller",
+      "nameEs": "Deslizamiento de Serrato con Rodillo",
+      "equipment": "Foam Roller",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "wall-angel.bodyweight.shoulders",
+      "nameEn": "Wall Angel",
+      "nameEs": "Ángel en Pared",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "scapular-pull-up.bodyweight.back",
+      "nameEn": "Scapular Pull-Up",
+      "nameEs": "Dominada Escapular",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "prone-y-raise.dumbbell.traps",
+      "nameEn": "Prone Y-Raise",
+      "nameEs": "Elevación en Y Boca Abajo",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "prone-t-raise.dumbbell.shoulders",
+      "nameEn": "Prone T-Raise",
+      "nameEs": "Elevación en T Boca Abajo",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "prone-w-raise.dumbbell.shoulders",
+      "nameEn": "Prone W-Raise",
+      "nameEs": "Elevación en W Boca Abajo",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "lower-trap-raise.cable.traps",
+      "nameEn": "Lower Trap Raise",
+      "nameEs": "Elevación de Trapecio Inferior",
+      "equipment": "Cable",
+      "muscleGroup": "Traps",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "band-pull-apart.band.shoulders",
+      "nameEn": "Band Pull-Apart",
+      "nameEs": "Separación con Banda",
+      "equipment": "Band",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "band-face-pull.band.shoulders",
+      "nameEn": "Band Face Pull",
+      "nameEs": "Jalón a la Cara con Banda",
+      "equipment": "Band",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "band-external-rotation.band.shoulders",
+      "nameEn": "Band External Rotation",
+      "nameEs": "Rotación Externa con Banda",
+      "equipment": "Band",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "cable-external-rotation.cable.shoulders",
+      "nameEn": "Cable External Rotation",
+      "nameEs": "Rotación Externa en Polea",
+      "equipment": "Cable",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "side-lying-external-rotation.dumbbell.shoulders",
+      "nameEn": "Side-Lying External Rotation",
+      "nameEs": "Rotación Externa de Lado",
+      "equipment": "Dumbbell",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "band-internal-rotation.band.shoulders",
+      "nameEn": "Band Internal Rotation",
+      "nameEs": "Rotación Interna con Banda",
+      "equipment": "Band",
+      "muscleGroup": "Shoulders",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "thoracic-extension.foam-roller.back",
+      "nameEn": "Thoracic Extension",
+      "nameEs": "Extensión Torácica",
+      "equipment": "Foam Roller",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "open-book-rotation.bodyweight.back",
+      "nameEn": "Open Book Rotation",
+      "nameEs": "Rotación Libro Abierto",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "cat-cow.bodyweight.back",
+      "nameEn": "Cat-Cow",
+      "nameEs": "Gato-Vaca",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Back",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "dead-bug.bodyweight.abs",
+      "nameEn": "Dead Bug",
+      "nameEs": "Bicho Muerto",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "bird-dog.bodyweight.abs",
+      "nameEn": "Bird Dog",
+      "nameEs": "Perro-Pájaro",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "side-plank.bodyweight.abs",
+      "nameEn": "Side Plank",
+      "nameEs": "Plancha Lateral",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "pallof-press.cable.abs",
+      "nameEn": "Pallof Press",
+      "nameEs": "Press Pallof",
+      "equipment": "Cable",
+      "muscleGroup": "Abs",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "glute-bridge.bodyweight.glutes",
+      "nameEn": "Glute Bridge",
+      "nameEs": "Puente de Glúteo",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "band-clamshell.band.glutes",
+      "nameEn": "Band Clamshell",
+      "nameEs": "Almeja con Banda",
+      "equipment": "Band",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "copenhagen-plank.bodyweight.adductors",
+      "nameEn": "Copenhagen Plank",
+      "nameEs": "Plancha Copenhague",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Adductors",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "90-90-hip-switch.bodyweight.glutes",
+      "nameEn": "90/90 Hip Switch",
+      "nameEs": "Cambio de Cadera 90/90",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Glutes",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    },
+    {
+      "id": "tibialis-raise.bodyweight.calves",
+      "nameEn": "Tibialis Raise",
+      "nameEs": "Elevación de Tibial",
+      "equipment": "Bodyweight",
+      "muscleGroup": "Calves",
+      "secondaryMuscles": [],
+      "sfr": 0,
+      "exerciseType": "Prehab",
+      "prehab": true,
+      "youtube": ""
+    }
+  ]
+}
