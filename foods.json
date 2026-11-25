@@ -25904,5 +25904,44 @@
       "sodium": 50,
       "zinc": 0
     }
+  },
+  {
+    "name": "Especial",
+    "nameEs": "Especial",
+    "brand": "Modelo",
+    "barcode": "080660957555",
+    "public": true,
+    "emoji": "🍽️",
+    "category": "Carbs",
+    "photoUrl": "https://raw.githubusercontent.com/Acavians-Lab/food-database/main/photos/especial_mwwrgu67.jpg?v=mwwrgvg0",
+    "servingG": 354.88,
+    "servingLabel": "1 Can  ( 12 fl. oz ) · 354.88 g",
+    "servings": [
+      {
+        "qty": 1,
+        "unitLabel": "Can  ( 12 fl. oz )",
+        "grams": 354.88
+      },
+      {
+        "qty": 1,
+        "unitLabel": "Tall ( 24 fl. oz )",
+        "grams": 709.765
+      }
+    ],
+    "calories": 144,
+    "protein": 1.1,
+    "fat": 0,
+    "carbs": 13.7,
+    "fiber": 0,
+    "netCarbs": 13.7,
+    "other": {
+      "alcohol": 14,
+      "caffeine": 0,
+      "cholesterol": 0,
+      "choline": 0,
+      "water": 0
+    },
+    "submittedBy": "alejandroupmh@gmail.com",
+    "id": "especial_mwwrgu67"
   }
 ]
